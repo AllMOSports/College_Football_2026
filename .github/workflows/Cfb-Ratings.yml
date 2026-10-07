@@ -1,9 +1,9 @@
 # .github/workflows/cfb-ratings.yml
 #
-# Runs scripts/cfb_ratings_2026.py and commits the outputs to data/cfb/2026/.
+# Runs cfb_ratings_2026.py and commits the outputs to data/cfb/2026/.
 #
 # Repo layout this expects:
-#   scripts/cfb_ratings_2026.py
+#   cfb_ratings_2026.py                 (anywhere in the repo -- root is fine)
 #   .github/workflows/cfb-ratings.yml   (this file)
 #
 # Runs automatically every Sunday morning (after Saturday's late games) and
@@ -61,8 +61,17 @@ jobs:
           CFB_WEEKS: ${{ github.event.inputs.weeks || '1-15' }}
           INCLUDE_FCS: ${{ github.event.inputs.include_fcs || 'false' }}
         run: |
+          # Find the script anywhere in the repo (root, scripts/, etc.),
+          # ignoring the copy-in-progress location under the output folder.
+          SCRIPT=$(find . -name "cfb_ratings_2026.py" -not -path "./$OUTPUT_DIR/*" -not -path "./.git/*" | head -n 1)
+          if [ -z "$SCRIPT" ]; then
+            echo "::error::cfb_ratings_2026.py not found in the repo. Files present:"
+            find . -name "*.py" -not -path "./.git/*"
+            exit 1
+          fi
+          echo "Using script: $SCRIPT"
           mkdir -p "$OUTPUT_DIR"
-          cp scripts/cfb_ratings_2026.py "$OUTPUT_DIR/"
+          cp "$SCRIPT" "$OUTPUT_DIR/"
           cd "$OUTPUT_DIR"
           if [ "$INCLUDE_FCS" = "true" ]; then
             sed -i 's/^GROUPS *= *\[80\]/GROUPS        = [80, 81]/' cfb_ratings_2026.py

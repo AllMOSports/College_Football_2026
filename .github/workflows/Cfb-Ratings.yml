@@ -1,0 +1,94 @@
+# .github/workflows/cfb-ratings.yml
+#
+# Runs scripts/cfb_ratings_2026.py and commits the outputs to data/cfb/2026/.
+#
+# Repo layout this expects:
+#   scripts/cfb_ratings_2026.py
+#   .github/workflows/cfb-ratings.yml   (this file)
+#
+# Runs automatically every Sunday morning (after Saturday's late games) and
+# can be run by hand from the Actions tab, where you can choose the weeks.
+ 
+name: CFB Ratings
+ 
+on:
+  schedule:
+    # Sundays at 10:47 UTC = 5:47 AM Central (CDT). GitHub cron is always UTC.
+    # Odd minute on purpose: on-the-hour cron jobs get delayed by GitHub load.
+    - cron: "47 10 * * 0"
+  workflow_dispatch:
+    inputs:
+      weeks:
+        description: 'Weeks to pull: "1", "1,2,3", or "1-15"'
+        required: false
+        default: "1-15"
+      include_fcs:
+        description: "Also pull FCS-vs-FCS games (ESPN group 81)"
+        type: boolean
+        default: false
+ 
+permissions:
+  contents: write   # needed to commit the ratings files back to the repo
+ 
+concurrency:
+  group: cfb-ratings
+  cancel-in-progress: false
+ 
+env:
+  OUTPUT_DIR: data/cfb/2026
+ 
+jobs:
+  ratings:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+ 
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+ 
+      - name: Install dependencies
+        run: pip install requests pandas
+ 
+      - name: Run ratings
+        env:
+          # Scheduled runs pull weeks 1-15; unplayed weeks contribute nothing,
+          # so this always rebuilds the full season to date.
+          CFB_WEEKS: ${{ github.event.inputs.weeks || '1-15' }}
+          INCLUDE_FCS: ${{ github.event.inputs.include_fcs || 'false' }}
+        run: |
+          mkdir -p "$OUTPUT_DIR"
+          cp scripts/cfb_ratings_2026.py "$OUTPUT_DIR/"
+          cd "$OUTPUT_DIR"
+          if [ "$INCLUDE_FCS" = "true" ]; then
+            sed -i 's/^GROUPS *= *\[80\]/GROUPS        = [80, 81]/' cfb_ratings_2026.py
+          fi
+          python cfb_ratings_2026.py
+          rm cfb_ratings_2026.py
+ 
+      - name: Upload raw ESPN responses (for auditing)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: espn-raw-${{ github.run_number }}
+          path: ${{ env.OUTPUT_DIR }}/espn_raw/
+          retention-days: 14
+          if-no-files-found: ignore
+ 
+      - name: Commit updated ratings
+        run: |
+          rm -rf "$OUTPUT_DIR/espn_raw"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898315+github-actions[bot]@users.noreply.github.com"
+          git add "$OUTPUT_DIR"
+          if git diff --cached --quiet; then
+            echo "No rating changes to commit."
+          else
+            git commit -m "CFB ratings update ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

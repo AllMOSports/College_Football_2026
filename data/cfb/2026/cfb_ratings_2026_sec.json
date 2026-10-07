@@ -1,0 +1,192 @@
+{
+  "last_updated": "October 07, 2026 at 01:52 AM",
+  "season": 2026,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "league_average": 27.07,
+  "conference": "SEC",
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Alabama",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 57.09,
+      "off_rating": 35.69,
+      "off_rank": 1,
+      "def_rating": 21.4,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 2,
+      "school": "LSU",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 43.86,
+      "off_rating": 22.34,
+      "off_rank": 5,
+      "def_rating": 21.51,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Georgia",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 42.08,
+      "off_rating": 28.15,
+      "off_rank": 3,
+      "def_rating": 13.93,
+      "def_rank": 11
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Texas",
+      "conference": "SEC",
+      "games": 4,
+      "ovr_rating": 41.19,
+      "off_rating": 13.54,
+      "off_rank": 11,
+      "def_rating": 27.65,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Missouri",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 38.2,
+      "off_rating": 15.58,
+      "off_rank": 9,
+      "def_rating": 22.62,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Mississippi State",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 37.18,
+      "off_rating": 22.9,
+      "off_rank": 4,
+      "def_rating": 14.28,
+      "def_rank": 9
+    },
+    {
+      "ovr_rank": 7,
+      "school": "Kentucky",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 32.66,
+      "off_rating": 16.47,
+      "off_rank": 8,
+      "def_rating": 16.19,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 8,
+      "school": "Tennessee",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 31.84,
+      "off_rating": 17.6,
+      "off_rank": 7,
+      "def_rating": 14.24,
+      "def_rank": 10
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Florida",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 31.47,
+      "off_rating": 28.94,
+      "off_rank": 2,
+      "def_rating": 2.54,
+      "def_rank": 16
+    },
+    {
+      "ovr_rank": 10,
+      "school": "Texas A&M",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 31.2,
+      "off_rating": 13.17,
+      "off_rank": 12,
+      "def_rating": 18.03,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 11,
+      "school": "South Carolina",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 30.29,
+      "off_rating": 20.06,
+      "off_rank": 6,
+      "def_rating": 10.23,
+      "def_rank": 13
+    },
+    {
+      "ovr_rank": 12,
+      "school": "Auburn",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 23.37,
+      "off_rating": 4.48,
+      "off_rank": 15,
+      "def_rating": 18.88,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 13,
+      "school": "Ole Miss",
+      "conference": "SEC",
+      "games": 4,
+      "ovr_rating": 23.16,
+      "off_rating": 14.33,
+      "off_rank": 10,
+      "def_rating": 8.83,
+      "def_rank": 14
+    },
+    {
+      "ovr_rank": 14,
+      "school": "Arkansas",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 19.02,
+      "off_rating": 6.93,
+      "off_rank": 14,
+      "def_rating": 12.09,
+      "def_rank": 12
+    },
+    {
+      "ovr_rank": 15,
+      "school": "Oklahoma",
+      "conference": "SEC",
+      "games": 4,
+      "ovr_rating": 19.01,
+      "off_rating": -1.33,
+      "off_rank": 16,
+      "def_rating": 20.34,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 16,
+      "school": "Vanderbilt",
+      "conference": "SEC",
+      "games": 5,
+      "ovr_rating": 13.2,
+      "off_rating": 7.06,
+      "off_rank": 13,
+      "def_rating": 6.14,
+      "def_rank": 15
+    }
+  ]
+}

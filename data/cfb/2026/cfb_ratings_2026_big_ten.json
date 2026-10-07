@@ -1,0 +1,214 @@
+{
+  "last_updated": "October 07, 2026 at 01:52 AM",
+  "season": 2026,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "league_average": 27.07,
+  "conference": "Big Ten",
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Northwestern",
+      "conference": "Big Ten",
+      "games": 4,
+      "ovr_rating": 40.33,
+      "off_rating": 24.45,
+      "off_rank": 2,
+      "def_rating": 15.88,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Ohio State",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 39.95,
+      "off_rating": 24.39,
+      "off_rank": 3,
+      "def_rating": 15.56,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Indiana",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 37.33,
+      "off_rating": 14.35,
+      "off_rank": 8,
+      "def_rating": 22.98,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Wisconsin",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 33.76,
+      "off_rating": 18.08,
+      "off_rank": 6,
+      "def_rating": 15.67,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Nebraska",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 32.88,
+      "off_rating": 25.64,
+      "off_rank": 1,
+      "def_rating": 7.23,
+      "def_rank": 13
+    },
+    {
+      "ovr_rank": 6,
+      "school": "UCLA",
+      "conference": "Big Ten",
+      "games": 4,
+      "ovr_rating": 32.57,
+      "off_rating": 24.06,
+      "off_rank": 4,
+      "def_rating": 8.51,
+      "def_rank": 12
+    },
+    {
+      "ovr_rank": 7,
+      "school": "Oregon",
+      "conference": "Big Ten",
+      "games": 4,
+      "ovr_rating": 30.29,
+      "off_rating": 19.8,
+      "off_rank": 5,
+      "def_rating": 10.48,
+      "def_rank": 11
+    },
+    {
+      "ovr_rank": 8,
+      "school": "Penn State",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 27.44,
+      "off_rating": 7.46,
+      "off_rank": 11,
+      "def_rating": 19.98,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Iowa",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 24.37,
+      "off_rating": 2.99,
+      "off_rank": 14,
+      "def_rating": 21.38,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 10,
+      "school": "USC",
+      "conference": "Big Ten",
+      "games": 6,
+      "ovr_rating": 20.41,
+      "off_rating": 14.59,
+      "off_rank": 7,
+      "def_rating": 5.82,
+      "def_rank": 15
+    },
+    {
+      "ovr_rank": 11,
+      "school": "Michigan State",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 18.67,
+      "off_rating": -2.28,
+      "off_rank": 18,
+      "def_rating": 20.95,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 12,
+      "school": "Purdue",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 18.55,
+      "off_rating": 12.6,
+      "off_rank": 9,
+      "def_rating": 5.96,
+      "def_rank": 14
+    },
+    {
+      "ovr_rank": 13,
+      "school": "Minnesota",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 17.97,
+      "off_rating": 5.32,
+      "off_rank": 13,
+      "def_rating": 12.65,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 14,
+      "school": "Michigan",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 16.18,
+      "off_rating": 5.62,
+      "off_rank": 12,
+      "def_rating": 10.55,
+      "def_rank": 10
+    },
+    {
+      "ovr_rank": 15,
+      "school": "Washington",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 14.48,
+      "off_rating": 2.72,
+      "off_rank": 16,
+      "def_rating": 11.75,
+      "def_rank": 9
+    },
+    {
+      "ovr_rank": 16,
+      "school": "Illinois",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 13.48,
+      "off_rating": 8.06,
+      "off_rank": 10,
+      "def_rating": 5.43,
+      "def_rank": 17
+    },
+    {
+      "ovr_rank": 17,
+      "school": "Maryland",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": 3.9,
+      "off_rating": -1.58,
+      "off_rank": 17,
+      "def_rating": 5.48,
+      "def_rank": 16
+    },
+    {
+      "ovr_rank": 18,
+      "school": "Rutgers",
+      "conference": "Big Ten",
+      "games": 5,
+      "ovr_rating": -5.36,
+      "off_rating": 2.95,
+      "off_rank": 15,
+      "def_rating": -8.3,
+      "def_rank": 18
+    }
+  ]
+}

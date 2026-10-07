@@ -1,0 +1,170 @@
+{
+  "last_updated": "October 07, 2026 at 01:52 AM",
+  "season": 2026,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "league_average": 27.07,
+  "conference": "American",
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Memphis",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": 13.55,
+      "off_rating": 12.74,
+      "off_rank": 2,
+      "def_rating": 0.81,
+      "def_rank": 9
+    },
+    {
+      "ovr_rank": 2,
+      "school": "North Texas",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": 12.63,
+      "off_rating": 17.84,
+      "off_rank": 1,
+      "def_rating": -5.21,
+      "def_rank": 14
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Tulsa",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": 12.58,
+      "off_rating": 3.47,
+      "off_rank": 4,
+      "def_rating": 9.11,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 4,
+      "school": "UTSA",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": 10.55,
+      "off_rating": 1.73,
+      "off_rank": 7,
+      "def_rating": 8.82,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Temple",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": 7.96,
+      "off_rating": 1.88,
+      "off_rank": 6,
+      "def_rating": 6.08,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Army",
+      "conference": "American",
+      "games": 4,
+      "ovr_rating": 7.19,
+      "off_rating": 3.64,
+      "off_rank": 3,
+      "def_rating": 3.55,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 7,
+      "school": "South Florida",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": 4.89,
+      "off_rating": -3.35,
+      "off_rank": 9,
+      "def_rating": 8.24,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 8,
+      "school": "Florida Atlantic",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": 0.37,
+      "off_rating": 2.79,
+      "off_rank": 5,
+      "def_rating": -2.42,
+      "def_rank": 12
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Rice",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": -1.6,
+      "off_rating": 0.19,
+      "off_rank": 8,
+      "def_rating": -1.79,
+      "def_rank": 11
+    },
+    {
+      "ovr_rank": 10,
+      "school": "East Carolina",
+      "conference": "American",
+      "games": 4,
+      "ovr_rating": -1.67,
+      "off_rating": -6.6,
+      "off_rank": 11,
+      "def_rating": 4.93,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 11,
+      "school": "Tulane",
+      "conference": "American",
+      "games": 4,
+      "ovr_rating": -1.81,
+      "off_rating": -9.07,
+      "off_rank": 13,
+      "def_rating": 7.25,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 12,
+      "school": "Navy",
+      "conference": "American",
+      "games": 4,
+      "ovr_rating": -5.41,
+      "off_rating": -5.05,
+      "off_rank": 10,
+      "def_rating": -0.36,
+      "def_rank": 10
+    },
+    {
+      "ovr_rank": 13,
+      "school": "UAB",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": -5.92,
+      "off_rating": -7.47,
+      "off_rank": 12,
+      "def_rating": 1.55,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 14,
+      "school": "Charlotte",
+      "conference": "American",
+      "games": 5,
+      "ovr_rating": -18.55,
+      "off_rating": -14.07,
+      "off_rank": 14,
+      "def_rating": -4.48,
+      "def_rank": 13
+    }
+  ]
+}

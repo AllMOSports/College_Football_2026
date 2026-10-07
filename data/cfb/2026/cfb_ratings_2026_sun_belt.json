@@ -1,0 +1,170 @@
+{
+  "last_updated": "October 07, 2026 at 01:52 AM",
+  "season": 2026,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "league_average": 27.07,
+  "conference": "Sun Belt",
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "James Madison",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": 18.94,
+      "off_rating": 10.44,
+      "off_rank": 2,
+      "def_rating": 8.5,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Georgia State",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": 11.89,
+      "off_rating": 11.48,
+      "off_rank": 1,
+      "def_rating": 0.41,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Troy",
+      "conference": "Sun Belt",
+      "games": 4,
+      "ovr_rating": 11.62,
+      "off_rating": 2.22,
+      "off_rank": 7,
+      "def_rating": 9.4,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Louisiana Tech",
+      "conference": "Sun Belt",
+      "games": 4,
+      "ovr_rating": 10.7,
+      "off_rating": 6.87,
+      "off_rank": 4,
+      "def_rating": 3.84,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Georgia Southern",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": 2.46,
+      "off_rating": 2.78,
+      "off_rank": 6,
+      "def_rating": -0.32,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Louisiana",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": 2.44,
+      "off_rating": 0.47,
+      "off_rank": 8,
+      "def_rating": 1.97,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 7,
+      "school": "South Alabama",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": 1.3,
+      "off_rating": 8.31,
+      "off_rank": 3,
+      "def_rating": -7.01,
+      "def_rank": 12
+    },
+    {
+      "ovr_rank": 8,
+      "school": "App State",
+      "conference": "Sun Belt",
+      "games": 4,
+      "ovr_rating": 0.7,
+      "off_rating": 4.53,
+      "off_rank": 5,
+      "def_rating": -3.83,
+      "def_rank": 10
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Coastal Carolina",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": -2.13,
+      "off_rating": -3.9,
+      "off_rank": 11,
+      "def_rating": 1.77,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 10,
+      "school": "Arkansas State",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": -3.15,
+      "off_rating": -3.95,
+      "off_rank": 12,
+      "def_rating": 0.8,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 11,
+      "school": "Marshall",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": -5.72,
+      "off_rating": 0.14,
+      "off_rank": 9,
+      "def_rating": -5.86,
+      "def_rank": 11
+    },
+    {
+      "ovr_rank": 12,
+      "school": "Old Dominion",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": -10.97,
+      "off_rating": -8.08,
+      "off_rank": 14,
+      "def_rating": -2.89,
+      "def_rank": 9
+    },
+    {
+      "ovr_rank": 13,
+      "school": "Southern Miss",
+      "conference": "Sun Belt",
+      "games": 4,
+      "ovr_rating": -18.15,
+      "off_rating": -4.94,
+      "off_rank": 13,
+      "def_rating": -13.21,
+      "def_rank": 13
+    },
+    {
+      "ovr_rank": 14,
+      "school": "UL Monroe",
+      "conference": "Sun Belt",
+      "games": 5,
+      "ovr_rating": -18.68,
+      "off_rating": -3.78,
+      "off_rank": 10,
+      "def_rating": -14.9,
+      "def_rank": 14
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "last_updated": "October 07, 2026 at 01:52 AM",
+  "season": 2026,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "league_average": 27.07,
+  "conference": "Pac-12",
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Boise State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": 29.11,
+      "off_rating": 15.21,
+      "off_rank": 2,
+      "def_rating": 13.9,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Oregon State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": 19.17,
+      "off_rating": 6.24,
+      "off_rank": 4,
+      "def_rating": 12.93,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Utah State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": 14.93,
+      "off_rating": 1.68,
+      "off_rank": 5,
+      "def_rating": 13.26,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Fresno State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": 7.6,
+      "off_rating": -0.31,
+      "off_rank": 6,
+      "def_rating": 7.91,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Texas State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": 7.17,
+      "off_rating": 11.43,
+      "off_rank": 3,
+      "def_rating": -4.25,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 6,
+      "school": "San Diego State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": 2.0,
+      "off_rating": -8.19,
+      "off_rank": 8,
+      "def_rating": 10.19,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 7,
+      "school": "Colorado State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": 0.3,
+      "off_rating": 17.34,
+      "off_rank": 1,
+      "def_rating": -17.04,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 8,
+      "school": "Washington State",
+      "conference": "Pac-12",
+      "games": 5,
+      "ovr_rating": -5.54,
+      "off_rating": -7.15,
+      "off_rank": 7,
+      "def_rating": 1.61,
+      "def_rank": 6
+    }
+  ]
+}

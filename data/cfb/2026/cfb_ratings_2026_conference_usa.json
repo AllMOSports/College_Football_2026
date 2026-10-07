@@ -1,0 +1,126 @@
+{
+  "last_updated": "October 07, 2026 at 01:52 AM",
+  "season": 2026,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "league_average": 27.07,
+  "conference": "Conference USA",
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Liberty",
+      "conference": "Conference USA",
+      "games": 5,
+      "ovr_rating": 11.87,
+      "off_rating": 2.37,
+      "off_rank": 1,
+      "def_rating": 9.5,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Sam Houston",
+      "conference": "Conference USA",
+      "games": 4,
+      "ovr_rating": 4.7,
+      "off_rating": 0.58,
+      "off_rank": 2,
+      "def_rating": 4.12,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Delaware",
+      "conference": "Conference USA",
+      "games": 5,
+      "ovr_rating": -2.91,
+      "off_rating": -3.02,
+      "off_rank": 4,
+      "def_rating": 0.12,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Kennesaw State",
+      "conference": "Conference USA",
+      "games": 4,
+      "ovr_rating": -3.35,
+      "off_rating": -9.34,
+      "off_rank": 7,
+      "def_rating": 5.99,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Jacksonville State",
+      "conference": "Conference USA",
+      "games": 5,
+      "ovr_rating": -3.43,
+      "off_rating": -3.8,
+      "off_rank": 5,
+      "def_rating": 0.36,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Florida International",
+      "conference": "Conference USA",
+      "games": 4,
+      "ovr_rating": -5.0,
+      "off_rating": -13.68,
+      "off_rank": 10,
+      "def_rating": 8.69,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 7,
+      "school": "Missouri State",
+      "conference": "Conference USA",
+      "games": 4,
+      "ovr_rating": -7.28,
+      "off_rating": -2.63,
+      "off_rank": 3,
+      "def_rating": -4.66,
+      "def_rank": 9
+    },
+    {
+      "ovr_rank": 8,
+      "school": "New Mexico State",
+      "conference": "Conference USA",
+      "games": 5,
+      "ovr_rating": -8.21,
+      "off_rating": -4.57,
+      "off_rank": 6,
+      "def_rating": -3.64,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Middle Tennessee",
+      "conference": "Conference USA",
+      "games": 5,
+      "ovr_rating": -11.16,
+      "off_rating": -10.96,
+      "off_rank": 8,
+      "def_rating": -0.19,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 10,
+      "school": "Western Kentucky",
+      "conference": "Conference USA",
+      "games": 5,
+      "ovr_rating": -23.15,
+      "off_rating": -13.13,
+      "off_rank": 9,
+      "def_rating": -10.03,
+      "def_rank": 10
+    }
+  ]
+}

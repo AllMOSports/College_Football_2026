@@ -1,0 +1,192 @@
+{
+  "last_updated": "October 07, 2026 at 01:52 AM",
+  "season": 2026,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "league_average": 27.07,
+  "conference": "Big 12",
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Utah",
+      "conference": "Big 12",
+      "games": 4,
+      "ovr_rating": 46.55,
+      "off_rating": 20.14,
+      "off_rank": 1,
+      "def_rating": 26.41,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Texas Tech",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 32.34,
+      "off_rating": 19.22,
+      "off_rank": 2,
+      "def_rating": 13.12,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Houston",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 28.35,
+      "off_rating": 15.12,
+      "off_rank": 5,
+      "def_rating": 13.23,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Baylor",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 27.98,
+      "off_rating": 14.88,
+      "off_rank": 6,
+      "def_rating": 13.1,
+      "def_rank": 9
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Iowa State",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 26.97,
+      "off_rating": 16.62,
+      "off_rank": 4,
+      "def_rating": 10.35,
+      "def_rank": 10
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Oklahoma State",
+      "conference": "Big 12",
+      "games": 4,
+      "ovr_rating": 24.53,
+      "off_rating": 10.16,
+      "off_rank": 8,
+      "def_rating": 14.37,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 7,
+      "school": "BYU",
+      "conference": "Big 12",
+      "games": 4,
+      "ovr_rating": 23.05,
+      "off_rating": 3.89,
+      "off_rank": 13,
+      "def_rating": 19.17,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 8,
+      "school": "UCF",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 21.23,
+      "off_rating": 6.2,
+      "off_rank": 12,
+      "def_rating": 15.03,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Kansas",
+      "conference": "Big 12",
+      "games": 4,
+      "ovr_rating": 19.82,
+      "off_rating": 10.4,
+      "off_rank": 7,
+      "def_rating": 9.43,
+      "def_rank": 11
+    },
+    {
+      "ovr_rank": 10,
+      "school": "West Virginia",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 18.31,
+      "off_rating": 17.3,
+      "off_rank": 3,
+      "def_rating": 1.01,
+      "def_rank": 16
+    },
+    {
+      "ovr_rank": 11,
+      "school": "TCU",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 16.19,
+      "off_rating": 0.22,
+      "off_rank": 15,
+      "def_rating": 15.97,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 12,
+      "school": "Arizona",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 15.61,
+      "off_rating": 9.24,
+      "off_rank": 9,
+      "def_rating": 6.36,
+      "def_rank": 12
+    },
+    {
+      "ovr_rank": 13,
+      "school": "Kansas State",
+      "conference": "Big 12",
+      "games": 4,
+      "ovr_rating": 9.4,
+      "off_rating": 6.81,
+      "off_rank": 11,
+      "def_rating": 2.59,
+      "def_rank": 13
+    },
+    {
+      "ovr_rank": 14,
+      "school": "Colorado",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 8.93,
+      "off_rating": -6.9,
+      "off_rank": 16,
+      "def_rating": 15.83,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 15,
+      "school": "Arizona State",
+      "conference": "Big 12",
+      "games": 4,
+      "ovr_rating": 8.34,
+      "off_rating": 7.32,
+      "off_rank": 10,
+      "def_rating": 1.01,
+      "def_rank": 15
+    },
+    {
+      "ovr_rank": 16,
+      "school": "Cincinnati",
+      "conference": "Big 12",
+      "games": 5,
+      "ovr_rating": 3.13,
+      "off_rating": 1.8,
+      "off_rank": 14,
+      "def_rating": 1.33,
+      "def_rank": 14
+    }
+  ]
+}

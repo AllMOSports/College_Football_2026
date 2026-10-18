@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 11, 2026 at 04:25 PM",
+  "last_updated": "October 18, 2026 at 02:10 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -18,7 +18,7 @@
     14,
     15
   ],
-  "league_average": 26.87,
+  "league_average": 26.66,
   "conference": "Pac-12",
   "teams": [
     {
@@ -26,88 +26,88 @@
       "school": "Boise State",
       "conference": "Pac-12",
       "games": 6,
-      "ovr_rating": 25.74,
-      "off_rating": 16.87,
+      "ovr_rating": 23.63,
+      "off_rating": 16.93,
       "off_rank": 1,
-      "def_rating": 8.87,
+      "def_rating": 6.69,
       "def_rank": 3
     },
     {
       "ovr_rank": 2,
       "school": "Oregon State",
       "conference": "Pac-12",
-      "games": 6,
-      "ovr_rating": 24.14,
-      "off_rating": 13.53,
-      "off_rank": 3,
-      "def_rating": 10.61,
+      "games": 7,
+      "ovr_rating": 22.8,
+      "off_rating": 15.83,
+      "off_rank": 2,
+      "def_rating": 6.98,
       "def_rank": 2
     },
     {
       "ovr_rank": 3,
-      "school": "Fresno State",
-      "conference": "Pac-12",
-      "games": 6,
-      "ovr_rating": 8.64,
-      "off_rating": 1.88,
-      "off_rank": 5,
-      "def_rating": 6.76,
-      "def_rank": 4
-    },
-    {
-      "ovr_rank": 4,
-      "school": "Utah State",
-      "conference": "Pac-12",
-      "games": 6,
-      "ovr_rating": 7.84,
-      "off_rating": -4.76,
-      "off_rank": 6,
-      "def_rating": 12.6,
-      "def_rank": 1
-    },
-    {
-      "ovr_rank": 5,
-      "school": "Colorado State",
-      "conference": "Pac-12",
-      "games": 5,
-      "ovr_rating": 2.47,
-      "off_rating": 16.07,
-      "off_rank": 2,
-      "def_rating": -13.6,
-      "def_rank": 8
-    },
-    {
-      "ovr_rank": 6,
       "school": "Texas State",
       "conference": "Pac-12",
-      "games": 5,
-      "ovr_rating": 1.83,
-      "off_rating": 5.28,
+      "games": 6,
+      "ovr_rating": 9.43,
+      "off_rating": 9.81,
       "off_rank": 4,
-      "def_rating": -3.45,
+      "def_rating": -0.38,
       "def_rank": 7
     },
     {
-      "ovr_rank": 7,
-      "school": "Washington State",
+      "ovr_rank": 4,
+      "school": "Fresno State",
+      "conference": "Pac-12",
+      "games": 7,
+      "ovr_rating": 5.34,
+      "off_rating": 0.05,
+      "off_rank": 5,
+      "def_rating": 5.29,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Utah State",
       "conference": "Pac-12",
       "games": 6,
-      "ovr_rating": -1.99,
-      "off_rating": -6.02,
-      "off_rank": 7,
-      "def_rating": 4.03,
+      "ovr_rating": 5.24,
+      "off_rating": -7.19,
+      "off_rank": 8,
+      "def_rating": 12.43,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Washington State",
+      "conference": "Pac-12",
+      "games": 7,
+      "ovr_rating": -0.52,
+      "off_rating": -2.34,
+      "off_rank": 6,
+      "def_rating": 1.82,
       "def_rank": 5
     },
     {
-      "ovr_rank": 8,
+      "ovr_rank": 7,
       "school": "San Diego State",
       "conference": "Pac-12",
-      "games": 6,
-      "ovr_rating": -8.62,
-      "off_rating": -6.29,
-      "off_rank": 8,
-      "def_rating": -2.33,
+      "games": 7,
+      "ovr_rating": -3.35,
+      "off_rating": -3.11,
+      "off_rank": 7,
+      "def_rating": -0.24,
       "def_rank": 6
+    },
+    {
+      "ovr_rank": 8,
+      "school": "Colorado State",
+      "conference": "Pac-12",
+      "games": 6,
+      "ovr_rating": -4.37,
+      "off_rating": 10.05,
+      "off_rank": 3,
+      "def_rating": -14.42,
+      "def_rank": 8
     }
   ]
 }

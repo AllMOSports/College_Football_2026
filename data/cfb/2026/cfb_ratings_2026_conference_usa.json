@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 11, 2026 at 04:25 PM",
+  "last_updated": "October 18, 2026 at 02:10 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -18,7 +18,7 @@
     14,
     15
   ],
-  "league_average": 26.87,
+  "league_average": 26.66,
   "conference": "Conference USA",
   "teams": [
     {
@@ -26,109 +26,109 @@
       "school": "Liberty",
       "conference": "Conference USA",
       "games": 6,
-      "ovr_rating": 12.08,
-      "off_rating": 2.78,
+      "ovr_rating": 11.22,
+      "off_rating": 1.59,
       "off_rank": 1,
-      "def_rating": 9.3,
-      "def_rank": 2
+      "def_rating": 9.62,
+      "def_rank": 1
     },
     {
       "ovr_rank": 2,
       "school": "Florida International",
       "conference": "Conference USA",
-      "games": 5,
-      "ovr_rating": 0.83,
-      "off_rating": -9.15,
+      "games": 6,
+      "ovr_rating": -1.63,
+      "off_rating": -9.43,
       "off_rank": 8,
-      "def_rating": 9.98,
-      "def_rank": 1
+      "def_rating": 7.79,
+      "def_rank": 2
     },
     {
       "ovr_rank": 3,
       "school": "Jacksonville State",
       "conference": "Conference USA",
-      "games": 6,
-      "ovr_rating": -2.51,
-      "off_rating": -0.33,
+      "games": 7,
+      "ovr_rating": -2.5,
+      "off_rating": 0.83,
       "off_rank": 2,
-      "def_rating": -2.18,
-      "def_rank": 7
+      "def_rating": -3.33,
+      "def_rank": 6
     },
     {
       "ovr_rank": 4,
       "school": "Kennesaw State",
       "conference": "Conference USA",
-      "games": 5,
-      "ovr_rating": -3.96,
-      "off_rating": -8.31,
-      "off_rank": 7,
-      "def_rating": 4.35,
+      "games": 6,
+      "ovr_rating": -7.29,
+      "off_rating": -9.62,
+      "off_rank": 9,
+      "def_rating": 2.32,
       "def_rank": 3
     },
     {
       "ovr_rank": 5,
-      "school": "Sam Houston",
+      "school": "New Mexico State",
       "conference": "Conference USA",
-      "games": 5,
-      "ovr_rating": -5.01,
-      "off_rating": -6.76,
-      "off_rank": 5,
-      "def_rating": 1.74,
-      "def_rank": 4
+      "games": 6,
+      "ovr_rating": -8.63,
+      "off_rating": -5.29,
+      "off_rank": 4,
+      "def_rating": -3.34,
+      "def_rank": 7
     },
     {
       "ovr_rank": 6,
       "school": "Delaware",
       "conference": "Conference USA",
-      "games": 5,
-      "ovr_rating": -6.51,
-      "off_rating": -4.82,
+      "games": 6,
+      "ovr_rating": -8.7,
+      "off_rating": -3.54,
       "off_rank": 3,
-      "def_rating": -1.69,
-      "def_rank": 6
+      "def_rating": -5.16,
+      "def_rank": 9
     },
     {
       "ovr_rank": 7,
-      "school": "New Mexico State",
+      "school": "Middle Tennessee",
       "conference": "Conference USA",
       "games": 6,
-      "ovr_rating": -8.75,
-      "off_rating": -5.79,
-      "off_rank": 4,
-      "def_rating": -2.96,
-      "def_rank": 8
+      "ovr_rating": -11.29,
+      "off_rating": -8.34,
+      "off_rank": 7,
+      "def_rating": -2.95,
+      "def_rank": 5
     },
     {
       "ovr_rank": 8,
-      "school": "Middle Tennessee",
+      "school": "Sam Houston",
       "conference": "Conference USA",
-      "games": 5,
-      "ovr_rating": -10.91,
-      "off_rating": -10.73,
+      "games": 6,
+      "ovr_rating": -11.61,
+      "off_rating": -12.93,
       "off_rank": 10,
-      "def_rating": -0.18,
-      "def_rank": 5
+      "def_rating": 1.32,
+      "def_rank": 4
     },
     {
       "ovr_rank": 9,
       "school": "Western Kentucky",
       "conference": "Conference USA",
-      "games": 6,
-      "ovr_rating": -15.33,
-      "off_rating": -7.9,
+      "games": 7,
+      "ovr_rating": -11.93,
+      "off_rating": -8.32,
       "off_rank": 6,
-      "def_rating": -7.43,
-      "def_rank": 9
+      "def_rating": -3.61,
+      "def_rank": 8
     },
     {
       "ovr_rank": 10,
       "school": "Missouri State",
       "conference": "Conference USA",
-      "games": 5,
-      "ovr_rating": -18.83,
-      "off_rating": -9.57,
-      "off_rank": 9,
-      "def_rating": -9.26,
+      "games": 6,
+      "ovr_rating": -14.38,
+      "off_rating": -5.47,
+      "off_rank": 5,
+      "def_rating": -8.91,
       "def_rank": 10
     }
   ]

@@ -91,7 +91,10 @@ LEARNING_RATE         = 0.1
 MAX_ITERATIONS        = 6000
 TOLERANCE             = 1e-4  # stop when no rating moves more than this
 COMPETITIVE_THRESHOLD = 40    # "half-weight" point of the competitiveness curve
-REGULARIZATION_K      = 3.0   # pseudo-games at the prior rating (real shrinkage)
+REGULARIZATION_K      = 3.0   # pseudo-games at the shrinkage target (real shrinkage)
+SHRINK_TOWARD_CONFERENCE = True  # target = conference average, not 0
+                                 # (shrinking everyone toward 0 squeezes FBS and
+                                 # FCS together and inflates home-field advantage)
 MOV_CAP               = 28    # max points of error one game can contribute
 HOME_FIELD_START      = 2.5   # starting guess; the fit learns the real value
 LEARN_HOME_FIELD      = True  # False = keep HOME_FIELD_START fixed
@@ -405,6 +408,7 @@ def scrape_season():
             if cid:
                 unknown_conf_ids.add(cid)
         team_meta[names[tid]] = {"conference": conf, "team_id": tid,
+                                 "conference_id": cid or None,
                                  "abbreviation": info.get("abbreviation")}
 
     return all_games, upcoming, lines, team_meta, unknown_conf_ids
@@ -520,8 +524,16 @@ def recency_weights(dates):
             for p in parsed]
 
 
-def calculate_ratings(all_games, prior=None):
+def calculate_ratings(all_games, prior=None, groups=None):
+    """
+    groups: {team: conference id}. With SHRINK_TOWARD_CONFERENCE, each team
+    is pulled toward its conference's current average (plus its own
+    preseason offset, if any) instead of toward 0. The conference averages
+    themselves are not shrunk, so the gap between strong and weak
+    conferences -- and between FBS and FCS -- is set by the games played.
+    """
     prior = prior or {}
+    groups = groups or {}
     games = [(t1, t2, s1, s2, neu) for _, t1, s1, t2, s2, neu, _ in all_games]
     rec_w = recency_weights([g[0] for g in all_games])
     teams = sorted({t for g in games for t in (g[0], g[1])})
@@ -537,6 +549,18 @@ def calculate_ratings(all_games, prior=None):
     off_rating = dict(p_off)
     def_rating = dict(p_def)
     hfa = HOME_FIELD_START
+
+    use_groups = SHRINK_TOWARD_CONFERENCE and bool(groups)
+    group_of = {t: (groups.get(t) or "none") for t in teams}
+    members = {}
+    for t in teams:
+        members.setdefault(group_of[t], []).append(t)
+    gmean = lambda d, g: sum(d[t] for t in members[g]) / len(members[g])
+    # a team's preseason offset from its conference (0 with no prior file)
+    p_off_dev = {t: p_off[t] - gmean(p_off, group_of[t]) for t in teams}
+    p_def_dev = {t: p_def[t] - gmean(p_def, group_of[t]) for t in teams}
+    if use_groups:
+        print(f"  Shrinking toward conference averages ({len(members)} groups).")
 
     print(f"\n  Fitting ({len(teams)} teams, {len(games)} games; K={REGULARIZATION_K}, "
           f"scale={COMPETITIVE_THRESHOLD}, MOV cap={MOV_CAP}, "
@@ -570,13 +594,21 @@ def calculate_ratings(all_games, prior=None):
                 hfa_num += w * (err_h - err_a)
                 hfa_den += w
 
+        if use_groups:
+            g_off = {g: gmean(off_rating, g) for g in members}
+            g_def = {g: gmean(def_rating, g) for g in members}
+            tgt_off = {t: g_off[group_of[t]] + p_off_dev[t] for t in teams}
+            tgt_def = {t: g_def[group_of[t]] + p_def_dev[t] for t in teams}
+        else:
+            tgt_off, tgt_def = p_off, p_def
+
         max_step = 0.0
         for t in teams:
             denom = wsum[t] + REGULARIZATION_K
             d_off = LEARNING_RATE * (off_err[t] - REGULARIZATION_K *
-                                     (off_rating[t] - p_off[t])) / denom
+                                     (off_rating[t] - tgt_off[t])) / denom
             d_def = LEARNING_RATE * (def_err[t] - REGULARIZATION_K *
-                                     (def_rating[t] - p_def[t])) / denom
+                                     (def_rating[t] - tgt_def[t])) / denom
             off_rating[t] += d_off
             def_rating[t] += d_def
             max_step = max(max_step, abs(d_off), abs(d_def))
@@ -958,7 +990,8 @@ if __name__ == "__main__":
     prior = load_prior()
 
     print("\nRunning ratings engine...")
-    off, dfn, ovr, league_avg, hfa, converged = calculate_ratings(all_games, prior)
+    groups = {t: m.get("conference_id") for t, m in team_meta.items()}
+    off, dfn, ovr, league_avg, hfa, converged = calculate_ratings(all_games, prior, groups)
 
     print("\nSaving ratings...")
     save_ratings(off, dfn, ovr, league_avg, hfa, converged, team_meta, all_games)

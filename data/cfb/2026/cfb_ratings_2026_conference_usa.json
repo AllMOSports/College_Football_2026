@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 at 04:24 PM",
+  "last_updated": "November 17, 2026 at 04:32 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -19,7 +19,7 @@
     15
   ],
   "league_average": 26.46,
-  "home_field": 6.33,
+  "home_field": 2.59,
   "fit_converged": true,
   "conference": "Conference USA",
   "teams": [
@@ -31,12 +31,12 @@
       "conference": "Conference USA",
       "record": "9-1",
       "games": 10,
-      "ovr_rating": 11.91,
-      "off_rating": 4.53,
+      "ovr_rating": 20.07,
+      "off_rating": 8.42,
       "off_rank": 1,
-      "def_rating": 7.38,
+      "def_rating": 11.64,
       "def_rank": 1,
-      "sos": -1.14,
+      "sos": 5.74,
       "sos_rank": 10
     },
     {
@@ -47,13 +47,13 @@
       "conference": "Conference USA",
       "record": "7-3",
       "games": 10,
-      "ovr_rating": 5.25,
-      "off_rating": 2.2,
-      "off_rank": 3,
-      "def_rating": 3.05,
+      "ovr_rating": 12.65,
+      "off_rating": 5.78,
+      "off_rank": 4,
+      "def_rating": 6.87,
       "def_rank": 3,
-      "sos": -0.24,
-      "sos_rank": 8
+      "sos": 6.51,
+      "sos_rank": 9
     },
     {
       "ovr_rank": 3,
@@ -63,13 +63,13 @@
       "conference": "Conference USA",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": 1.59,
-      "off_rating": 3.49,
+      "ovr_rating": 11.12,
+      "off_rating": 8.18,
       "off_rank": 2,
-      "def_rating": -1.9,
+      "def_rating": 2.94,
       "def_rank": 7,
-      "sos": -0.15,
-      "sos_rank": 7
+      "sos": 9.81,
+      "sos_rank": 5
     },
     {
       "ovr_rank": 4,
@@ -79,45 +79,45 @@
       "conference": "Conference USA",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 0.98,
-      "off_rating": -0.02,
+      "ovr_rating": 9.82,
+      "off_rating": 4.28,
       "off_rank": 6,
-      "def_rating": 1.0,
+      "def_rating": 5.53,
       "def_rank": 4,
-      "sos": 0.73,
-      "sos_rank": 6
+      "sos": 10.2,
+      "sos_rank": 4
     },
     {
       "ovr_rank": 5,
-      "school": "Florida International",
-      "team_id": "2229",
-      "abbreviation": "FIU",
-      "conference": "Conference USA",
-      "record": "4-6",
-      "games": 10,
-      "ovr_rating": -0.94,
-      "off_rating": -4.93,
-      "off_rank": 9,
-      "def_rating": 3.99,
-      "def_rank": 2,
-      "sos": 1.31,
-      "sos_rank": 2
-    },
-    {
-      "ovr_rank": 6,
       "school": "Middle Tennessee",
       "team_id": "2393",
       "abbreviation": "MTSU",
       "conference": "Conference USA",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": -2.16,
-      "off_rating": 1.39,
-      "off_rank": 4,
-      "def_rating": -3.55,
+      "ovr_rating": 7.67,
+      "off_rating": 6.19,
+      "off_rank": 3,
+      "def_rating": 1.48,
       "def_rank": 10,
-      "sos": 0.94,
-      "sos_rank": 4
+      "sos": 10.78,
+      "sos_rank": 2
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Florida International",
+      "team_id": "2229",
+      "abbreviation": "FIU",
+      "conference": "Conference USA",
+      "record": "4-6",
+      "games": 10,
+      "ovr_rating": 6.64,
+      "off_rating": -1.09,
+      "off_rank": 9,
+      "def_rating": 7.73,
+      "def_rank": 2,
+      "sos": 7.77,
+      "sos_rank": 8
     },
     {
       "ovr_rank": 7,
@@ -127,13 +127,13 @@
       "conference": "Conference USA",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": -2.5,
-      "off_rating": 0.28,
+      "ovr_rating": 6.3,
+      "off_rating": 4.43,
       "off_rank": 5,
-      "def_rating": -2.78,
+      "def_rating": 1.87,
       "def_rank": 9,
-      "sos": 1.13,
-      "sos_rank": 3
+      "sos": 11.62,
+      "sos_rank": 1
     },
     {
       "ovr_rank": 8,
@@ -143,13 +143,13 @@
       "conference": "Conference USA",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": -3.31,
-      "off_rating": -1.12,
+      "ovr_rating": 6.21,
+      "off_rating": 3.47,
       "off_rank": 7,
-      "def_rating": -2.19,
+      "def_rating": 2.74,
       "def_rank": 8,
-      "sos": -0.61,
-      "sos_rank": 9
+      "sos": 9.8,
+      "sos_rank": 6
     },
     {
       "ovr_rank": 9,
@@ -159,13 +159,13 @@
       "conference": "Conference USA",
       "record": "3-7",
       "games": 10,
-      "ovr_rating": -3.61,
-      "off_rating": -3.74,
+      "ovr_rating": 4.29,
+      "off_rating": 0.04,
       "off_rank": 8,
-      "def_rating": 0.13,
+      "def_rating": 4.26,
       "def_rank": 5,
-      "sos": 0.74,
-      "sos_rank": 5
+      "sos": 8.57,
+      "sos_rank": 7
     },
     {
       "ovr_rank": 10,
@@ -175,13 +175,13 @@
       "conference": "Conference USA",
       "record": "1-9",
       "games": 10,
-      "ovr_rating": -8.3,
-      "off_rating": -7.6,
+      "ovr_rating": -0.04,
+      "off_rating": -3.69,
       "off_rank": 10,
-      "def_rating": -0.69,
+      "def_rating": 3.65,
       "def_rank": 6,
-      "sos": 1.36,
-      "sos_rank": 1
+      "sos": 10.38,
+      "sos_rank": 3
     }
   ]
 }

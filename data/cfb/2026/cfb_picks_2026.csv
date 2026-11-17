@@ -1,0 +1,199 @@
+Date,Game,Market Spread,Model Spread,Spread Lean,Spread Conf.,Market O/U,Model O/U,Total Lean,Total Conf.,Spread Gap,Total Gap,Provider
+2026-11-21,Oregon @ Michigan State,Michigan State +16.5,Oregon -4.5,Michigan State +16.5,High,45.5,47.0,Over 45.5,Pass,12.1,1.3,DraftKings
+2026-11-19,Akron @ Massachusetts,Massachusetts -3,Massachusetts -14.5,Massachusetts -3,High,46.5,48.5,Over 46.5,Low,11.5,2.2,DraftKings
+2026-11-22,UTSA @ UAB,UAB +6.5,UAB -4,UAB +6.5,High,52.5,50.5,Under 52.5,Low,10.3,2.0,DraftKings
+2026-11-22,Georgia @ South Carolina,South Carolina +16.5,Georgia -6.5,South Carolina +16.5,High,51.5,57.5,Over 51.5,High,9.8,6.1,DraftKings
+2026-11-21,LSU @ Tennessee,Tennessee +1.5,Tennessee -8,Tennessee +1.5,High,46.5,49.0,Over 46.5,Low,9.4,2.4,DraftKings
+2026-11-22,UNLV @ San José State,San José State +7,San José State -2,San José State +7,High,46.5,45.0,Under 46.5,Pass,9.2,1.3,DraftKings
+2026-11-21,Iowa @ Illinois,Illinois +8.5,Illinois PK,Illinois +8.5,High,40.5,41.5,Over 40.5,Pass,8.7,1.2,DraftKings
+2026-11-21,Ohio State @ Nebraska,Nebraska +3,Nebraska -5.5,Nebraska +3,High,41.5,47.5,Over 41.5,High,8.3,6.1,DraftKings
+2026-11-21,BYU @ Kansas,Kansas +5.5,Kansas -2.5,Kansas +5.5,High,47.5,49.0,Over 47.5,Low,8.1,1.5,DraftKings
+2026-11-21,Texas Tech @ Baylor,Baylor +3.5,Baylor -4.5,Baylor +3.5,High,57.5,57.0,Under 57.5,Pass,7.8,0.3,DraftKings
+2026-11-21,Indiana @ Washington,Washington +7.5,Indiana -0.5,Washington +7.5,High,43.5,43.5,Under 43.5,Pass,6.9,0.2,DraftKings
+2026-11-19,Central Michigan @ Buffalo,Buffalo -1.5,Buffalo -8.5,Buffalo -1.5,High,45.5,45.0,Under 45.5,Pass,6.8,0.3,DraftKings
+2026-11-21,Houston @ West Virginia,West Virginia +8.5,Houston -1.5,West Virginia +8.5,High,70.5,65.0,Under 70.5,High,6.8,5.5,DraftKings
+2026-11-21,South Florida @ Florida Atlantic,Florida Atlantic +1.5,Florida Atlantic -5,Florida Atlantic +1.5,High,64.5,64.0,Under 64.5,Pass,6.4,0.5,DraftKings
+2026-11-18,Miami (OH) @ Kent State,Kent State +9.5,Miami (OH) -3.5,Kent State +9.5,High,44.5,50.5,Over 44.5,High,6.0,6.0,DraftKings
+2026-11-22,Utah @ TCU,TCU +7,Utah -1,TCU +7,High,46.5,45.0,Under 46.5,Low,5.8,1.7,DraftKings
+2026-11-21,Middle Tennessee @ Sam Houston,Sam Houston +5.5,Sam Houston PK,Sam Houston +5.5,High,48.5,51.0,Over 48.5,Low,5.7,2.4,DraftKings
+2026-11-18,Ball State @ Ohio,Ohio -10,Ohio -15.5,Ohio -10,High,49.5,54.5,Over 49.5,High,5.5,5.2,DraftKings
+2026-11-21,East Carolina @ Army,Army -5.5,Army -11,Army -5.5,High,45.5,49.5,Over 45.5,Medium,5.4,4.0,DraftKings
+2026-11-22,Hawai'i @ Nevada,Nevada -4,Nevada -9.5,Nevada -4,High,40.5,41.5,Over 40.5,Pass,5.3,0.8,DraftKings
+2026-11-21,Rutgers @ Penn State,Penn State -24.5,Penn State -19.5,Rutgers +24.5,High,50.5,55.5,Over 50.5,Medium,5.2,4.9,DraftKings
+2026-11-21,Colorado @ Cincinnati,Cincinnati -3,Cincinnati -8,Cincinnati -3,High,58.5,54.0,Under 58.5,Medium,5.1,4.5,DraftKings
+2026-11-21,Wisconsin @ Purdue,Purdue +6,Wisconsin -1,Purdue +6,High,46.5,48.0,Over 46.5,Pass,5.1,1.5,DraftKings
+2026-11-22,Utah State @ Oregon State,Oregon State -9.5,Oregon State -14.5,Oregon State -9.5,High,51.5,47.5,Under 51.5,Medium,5.1,4.0,DraftKings
+2026-11-27,TCU @ Texas Tech,Texas Tech -16.5,Texas Tech -11.5,TCU +16.5,High,,48.0,,,5.0,,DraftKings
+2026-11-21,Arkansas @ Texas,Texas -20.5,Texas -15.5,Arkansas +20.5,Medium,47.5,45.5,Under 47.5,Low,4.8,2.2,DraftKings
+2026-11-21,Florida International @ Kennesaw State,Kennesaw State -3.5,Kennesaw State -8,Kennesaw State -3.5,Medium,44.5,43.0,Under 44.5,Low,4.7,1.5,DraftKings
+2026-11-21,Delaware @ New Mexico State,New Mexico State +3.5,New Mexico State -1,New Mexico State +3.5,Medium,54.5,54.5,Under 54.5,Pass,4.6,0.1,DraftKings
+2026-11-21,Missouri State @ Jacksonville State,Jacksonville State -10.5,Jacksonville State -15,Jacksonville State -10.5,Medium,52.5,53.0,Over 52.5,Pass,4.4,0.6,DraftKings
+2026-11-22,Stanford @ California,California +2.5,California -2,California +2.5,Medium,56.5,56.0,Under 56.5,Pass,4.4,0.3,DraftKings
+2026-11-21,Georgia Southern @ Troy,Troy +8.5,Georgia Southern -4.5,Troy +8.5,Medium,48.5,45.5,Under 48.5,Low,4.1,2.8,DraftKings
+2026-11-21,Clemson @ Duke,Duke -12.5,Duke -16.5,Duke -12.5,Medium,40.5,39.5,Under 40.5,Pass,4.0,0.8,DraftKings
+2026-11-22,San Diego State @ Boise State,Boise State -16.5,Boise State -20.5,Boise State -16.5,Medium,61.5,65.0,Over 61.5,Medium,4.0,3.5,DraftKings
+2026-11-21,New Mexico @ Wyoming,Wyoming +7.5,New Mexico -3.5,Wyoming +7.5,Medium,37.5,44.5,Over 37.5,High,3.8,6.8,DraftKings
+2026-11-21,Wake Forest @ Georgia Tech,Georgia Tech +21,Wake Forest -17,Georgia Tech +21,Medium,56.5,56.0,Under 56.5,Pass,3.8,0.3,DraftKings
+2026-11-20,Rice @ Temple,Temple -3,Temple -6.5,Temple -3,Medium,50.5,53.0,Over 50.5,Low,3.7,2.6,DraftKings
+2026-11-22,Virginia Tech @ Miami,Miami -20.5,Miami -24,Miami -20.5,Medium,61.5,66.0,Over 61.5,Medium,3.4,4.5,DraftKings
+2026-11-22,Arizona @ Kansas State,Kansas State +7,Arizona -3.5,Kansas State +7,Medium,52.5,57.0,Over 52.5,Medium,3.3,4.4,DraftKings
+2026-11-21,Western Kentucky @ Liberty,Liberty -17.5,Liberty -20.5,Liberty -17.5,Medium,53.5,53.0,Under 53.5,Pass,3.2,0.4,DraftKings
+2026-11-21,Maryland @ USC,USC -17.5,USC -14.5,Maryland +17.5,Medium,57.5,57.5,Over 57.5,Pass,3.2,0.2,DraftKings
+2026-11-17,Eastern Michigan @ Western Michigan,Western Michigan -14.5,Western Michigan -17.5,Western Michigan -14.5,Medium,46.5,47.0,Over 46.5,Pass,3.0,0.7,DraftKings
+2026-11-21,NC State @ Florida State,Florida State -9.5,Florida State -12.5,Florida State -9.5,Low,56.5,57.0,Over 56.5,Pass,3.0,0.6,DraftKings
+2026-11-22,Kentucky @ Missouri,Missouri -5.5,Missouri -8.5,Missouri -5.5,Low,48.5,53.0,Over 48.5,Medium,3.0,4.3,DraftKings
+2026-11-21,South Alabama @ Southern Miss,Southern Miss +3.5,South Alabama -0.5,Southern Miss +3.5,Low,65.5,66.5,Over 65.5,Pass,2.8,1.1,DraftKings
+2026-11-22,Arkansas State @ Louisiana Tech,Louisiana Tech -13.5,Louisiana Tech -16.5,Louisiana Tech -13.5,Low,52.5,54.5,Over 52.5,Low,2.8,2.1,DraftKings
+2026-11-22,Oklahoma State @ Arizona State,Arizona State +3,Oklahoma State -0.5,Arizona State +3,Low,61.5,66.0,Over 61.5,Medium,2.5,4.5,DraftKings
+2026-11-21,Georgia State @ Marshall,Marshall -1.5,Georgia State -1,Georgia State +1.5,Low,56.5,58.5,Over 56.5,Low,2.4,2.2,DraftKings
+2026-11-21,UCLA @ Michigan,Michigan +3.5,UCLA -5.5,UCLA -3.5,Low,37.5,38.0,Over 37.5,Pass,2.1,0.5,DraftKings
+2026-11-21,Syracuse @ Boston College,Boston College +2.5,Syracuse -0.5,Boston College +2.5,Low,50.5,53.0,Over 50.5,Low,2.0,2.6,DraftKings
+2026-11-21,Coastal Carolina @ Louisiana,Louisiana -10.5,Louisiana -12.5,Louisiana -10.5,Low,51.5,49.5,Under 51.5,Low,2.0,2.1,DraftKings
+2026-11-21,Old Dominion @ UConn,UConn -13.5,UConn -15.5,UConn -13.5,Low,47.5,50.0,Over 47.5,Low,2.0,2.6,DraftKings
+2026-11-21,Washington State @ Texas State,Texas State -10.5,Texas State -12.5,Texas State -10.5,Low,61.5,58.5,Under 61.5,Low,2.0,2.9,DraftKings
+2026-11-22,SMU @ Notre Dame,Notre Dame -20.5,Notre Dame -18.5,SMU +20.5,Low,56.5,57.5,Over 56.5,Pass,2.0,0.8,DraftKings
+2026-11-21,Bowling Green @ Toledo,Toledo -15.5,Toledo -17.5,Toledo -15.5,Low,48.5,52.5,Over 48.5,Medium,1.8,4.2,DraftKings
+2026-11-21,Vanderbilt @ Florida,Florida -13.5,Florida -15,Florida -13.5,Low,47.5,50.0,Over 47.5,Low,1.7,2.3,DraftKings
+2026-11-22,Colorado State @ Fresno State,Fresno State -20.5,Fresno State -22,Fresno State -20.5,Low,65.5,69.5,Over 65.5,Medium,1.7,4.0,DraftKings
+2026-11-21,UTEP @ Air Force,Air Force -22.5,Air Force -24,Air Force -22.5,Pass,47.5,48.0,Over 47.5,Pass,1.4,0.6,DraftKings
+2026-11-21,Memphis @ Navy,Navy +3.5,Memphis -2,Navy +3.5,Pass,67.5,66.5,Under 67.5,Pass,1.4,1.0,DraftKings
+2026-11-21,Charlotte @ Tulsa,Tulsa -22.5,Tulsa -24,Tulsa -22.5,Pass,52.5,55.0,Over 52.5,Low,1.4,2.5,DraftKings
+2026-11-21,UL Monroe @ App State,App State -14,App State -15.5,App State -14,Pass,49.5,50.0,Over 49.5,Pass,1.3,0.5,DraftKings
+2026-11-21,Texas A&M @ Oklahoma,Oklahoma -7.5,Oklahoma -6,Texas A&M +7.5,Pass,38.5,37.5,Under 38.5,Pass,1.3,0.8,DraftKings
+2026-11-21,North Carolina @ Virginia,Virginia -1.5,Virginia -2.5,Virginia -1.5,Pass,43.5,44.5,Over 43.5,Pass,1.2,1.0,DraftKings
+2026-11-21,North Texas @ Tulane,Tulane +6.5,North Texas -5.5,Tulane +6.5,Pass,56.5,61.5,Over 56.5,High,1.0,5.0,DraftKings
+2026-11-21,Northern Illinois @ North Dakota State,North Dakota State -25.5,North Dakota State -26.5,North Dakota State -25.5,Pass,45.5,46.5,Over 45.5,Pass,0.8,1.2,DraftKings
+2026-11-20,Iowa State @ UCF,UCF -2.5,UCF -3,UCF -2.5,Pass,52.5,56.5,Over 52.5,Medium,0.6,4.1,DraftKings
+2026-11-21,Northwestern @ Minnesota,Minnesota +3,Northwestern -2.5,Minnesota +3,Pass,42.5,50.5,Over 42.5,High,0.4,7.8,DraftKings
+2026-11-22,Pittsburgh @ Louisville,Louisville -14,Louisville -14,Pittsburgh +14,Pass,50.5,53.0,Over 50.5,Low,0.2,2.4,DraftKings
+2026-11-21,Wofford @ Ole Miss,,Ole Miss -16,,,,51.0,,,,,
+2026-11-21,Tennessee Tech @ Mississippi State,,Tennessee Tech -3.5,,,,58.0,,,,,
+2026-11-21,Chattanooga @ Alabama,,Alabama -17.5,,,,40.5,,,,,
+2026-11-21,Samford @ Auburn,,Auburn -13.5,,,,45.0,,,,,
+2026-11-20,Northwestern State @ Stephen F. Austin,,Stephen F. Austin -41.5,,,,62.0,,,,,
+2026-11-20,SE Louisiana @ Nicholls,,SE Louisiana -3.5,,,,50.5,,,,,
+2026-11-21,UAlbany @ North Carolina A&T,,UAlbany -1,,,,47.0,,,,,
+2026-11-21,Hampton @ Stony Brook,,Stony Brook -23,,,,58.5,,,,,
+2026-11-21,Sacred Heart @ Merrimack,,Merrimack -5.5,,,,52.0,,,,,
+2026-11-21,Cornell @ Columbia,,Cornell -2,,,,56.5,,,,,
+2026-11-21,Duquesne @ Central Connecticut,,Central Connecticut -12,,,,55.0,,,,,
+2026-11-21,Long Island University @ Robert Morris,,Robert Morris -8.5,,,,36.5,,,,,
+2026-11-21,Wagner @ Stonehill,,Stonehill -12.5,,,,40.0,,,,,
+2026-11-21,Howard @ Norfolk State,,Norfolk State -13.5,,,,52.0,,,,,
+2026-11-21,Fordham @ Holy Cross,,Holy Cross -11.5,,,,52.0,,,,,
+2026-11-21,William & Mary @ Richmond,,Richmond -10.5,,,,47.5,,,,,
+2026-11-21,Furman @ VMI,,Furman -10.5,,,,43.0,,,,,
+2026-11-21,Pennsylvania @ Princeton,,Princeton -10,,,,36.0,,,,,
+2026-11-21,New Haven @ Mercyhurst,,Mercyhurst -5,,,,51.5,,,,,
+2026-11-21,Lehigh @ Lafayette,,Lehigh -6,,,,50.5,,,,,
+2026-11-21,Rhode Island @ Bryant,,Bryant -9,,,,44.5,,,,,
+2026-11-21,Monmouth @ Campbell,,Campbell -9,,,,64.5,,,,,
+2026-11-21,Elon @ Towson,,Towson -6,,,,47.0,,,,,
+2026-11-21,New Hampshire @ Maine,,Maine -2.5,,,,43.5,,,,,
+2026-11-21,Brown @ Dartmouth,,Dartmouth -4.5,,,,40.5,,,,,
+2026-11-21,South Dakota @ Illinois State,,Illinois State -5.5,,,,55.5,,,,,
+2026-11-21,Colgate @ Bucknell,,Colgate -9,,,,35.5,,,,,
+2026-11-21,Georgetown @ Villanova,,Villanova -16,,,,52.5,,,,,
+2026-11-21,Charleston Southern @ Eastern Illinois,,Eastern Illinois -5.5,,,,46.0,,,,,
+2026-11-21,Morehead State @ Butler,,Butler -27.5,,,,54.0,,,,,
+2026-11-21,Marist @ Davidson,,Marist -2,,,,45.0,,,,,
+2026-11-21,Dayton @ Presbyterian,,Dayton -6.5,,,,55.5,,,,,
+2026-11-21,The Citadel @ Western Carolina,,Western Carolina -16,,,,53.5,,,,,
+2026-11-21,Delaware State @ South Carolina State,,South Carolina State -20,,,,55.0,,,,,
+2026-11-21,Tennessee State @ Gardner-Webb,,Gardner-Webb -14.5,,,,39.5,,,,,
+2026-11-21,Northern Iowa @ Murray State,,Northern Iowa -3,,,,57.5,,,,,
+2026-11-21,Southern Illinois @ North Dakota,,North Dakota -17.5,,,,55.0,,,,,
+2026-11-21,Morgan State @ North Carolina Central,,North Carolina Central -10.5,,,,49.5,,,,,
+2026-11-21,Eastern Kentucky @ Abilene Christian,,Abilene Christian -18,,,,54.0,,,,,
+2026-11-21,Montana @ Montana State,,Montana State -14,,,,66.0,,,,,
+2026-11-21,UT Martin @ Southeast Missouri State,,Southeast Missouri State -14,,,,52.5,,,,,
+2026-11-21,West Florida @ West Georgia,,West Florida -8,,,,45.0,,,,,
+2026-11-21,St. Thomas @ Valparaiso,,Valparaiso -2.5,,,,54.5,,,,,
+2026-11-21,Chicago State @ Southern Utah,,Southern Utah -8.5,,,,60.5,,,,,
+2026-11-21,Indiana State @ South Dakota State,,South Dakota State -31.5,,,,56.5,,,,,
+2026-11-21,Utah Tech @ Weber State,,Weber State -19,,,,61.0,,,,,
+2026-11-21,Western Illinois @ Lindenwood,,Western Illinois -1.5,,,,60.5,,,,,
+2026-11-21,Alabama A&M @ Mississippi Valley State,,Alabama A&M -13.5,,,,54.0,,,,,
+2026-11-21,East Tennessee State @ Mercer,,Mercer -10.5,,,,51.0,,,,,
+2026-11-21,Prairie View A&M @ Alabama State,,Alabama State -6.5,,,,42.0,,,,,
+2026-11-21,Jackson State @ Alcorn State,,Alcorn State -4.5,,,,68.0,,,,,
+2026-11-21,Yale vs Harvard,,Harvard -7,,,,48.5,,,,,
+2026-11-21,Florida A&M vs Bethune-Cookman,,Bethune-Cookman -1,,,,52.0,,,,,
+2026-11-21,Cal Poly @ UC Davis,,UC Davis -13.5,,,,55.0,,,,,
+2026-11-21,Portland State @ Eastern Washington,,Eastern Washington -10,,,,65.5,,,,,
+2026-11-21,Northern Colorado @ Northern Arizona,,Northern Arizona -15,,,,48.5,,,,,
+2026-11-21,Tarleton State @ North Alabama,,Tarleton State -1,,,,53.0,,,,,
+2026-11-21,Arkansas-Pine Bluff @ Texas Southern,,Arkansas-Pine Bluff -8,,,,59.5,,,,,
+2026-11-21,Incarnate Word @ East Texas A&M,,Incarnate Word -7.5,,,,58.0,,,,,
+2026-11-21,Austin Peay @ Central Arkansas,,Austin Peay -1.5,,,,58.5,,,,,
+2026-11-21,UT Rio Grande Valley @ Houston Christian,,Houston Christian -5,,,,43.5,,,,,
+2026-11-21,Idaho @ Idaho State,,Idaho State -9,,,,60.0,,,,,
+2026-11-22,Lamar @ McNeese,,Lamar -4.5,,,,49.5,,,,,
+2026-11-22,Stetson @ San Diego,,San Diego -18,,,,71.0,,,,,
+2026-11-25,Kent State @ Eastern Michigan,,Eastern Michigan -10.5,,,,47.0,,,,,
+2026-11-25,Miami (OH) @ Western Michigan,,Western Michigan -11.5,,,,50.5,,,,,
+2026-11-27,Nebraska @ Iowa,,Iowa -8,,,,37.5,,,,,
+2026-11-27,Mississippi State @ Ole Miss,,Ole Miss -17.5,,,,56.0,,,,,
+2026-11-27,Tulsa @ UTSA,,UTSA -2,,,,57.0,,,,,
+2026-11-27,Buffalo @ Akron,,Buffalo -5.5,,,,51.5,,,,,
+2026-11-27,Toledo @ Ohio,,Ohio -3,,,,54.5,,,,,
+2026-11-27,App State @ South Alabama,,South Alabama -7.5,,,,56.5,,,,,
+2026-11-27,Florida @ Florida State,,Florida State -5.5,,,,54.5,,,,,
+2026-11-27,Temple @ Memphis,,Memphis -21,,,,63.0,,,,,
+2026-11-27,North Dakota State @ San José State,,North Dakota State -5.5,,,,38.0,,,,,
+2026-11-27,Air Force @ New Mexico,,New Mexico -12,,,,45.5,,,,,
+2026-11-28,Texas @ Texas A&M,,Texas -0.5,,,,41.5,,,,,
+2026-11-28,Minnesota @ Wisconsin,,Wisconsin -14,,,,42.5,,,,,
+2026-11-28,West Virginia @ Utah,,Utah -19.5,,,,67.5,,,,,
+2026-11-28,Georgia Tech @ Georgia,,Georgia -27,,,,55.5,,,,,
+2026-11-28,Auburn @ Alabama,,Alabama -17,,,,52.0,,,,,
+2026-11-28,Tennessee @ Vanderbilt,,Tennessee -10,,,,44.5,,,,,
+2026-11-28,Purdue @ Indiana,,Indiana -18,,,,49.5,,,,,
+2026-11-28,Louisville @ Kentucky,,Louisville -1,,,,57.0,,,,,
+2026-11-28,Duke @ Wake Forest,,Wake Forest -15,,,,51.5,,,,,
+2026-11-28,Washington @ Oregon,,Oregon -12.5,,,,49.5,,,,,
+2026-11-28,South Carolina @ Clemson,,Clemson -3,,,,46.5,,,,,
+2026-11-28,LSU @ Arkansas,,LSU -3.5,,,,50.0,,,,,
+2026-11-28,SMU @ Stanford,,SMU -1,,,,60.5,,,,,
+2026-11-28,Notre Dame @ Syracuse,,Notre Dame -7.5,,,,55.5,,,,,
+2026-11-28,Boston College @ Miami,,Miami -27.5,,,,59.5,,,,,
+2026-11-28,Michigan @ Ohio State,,Ohio State -17.5,,,,44.0,,,,,
+2026-11-28,NC State @ North Carolina,,North Carolina -15,,,55.5,52.0,Under 55.5,Medium,,3.3,DraftKings
+2026-11-28,UConn @ Wyoming,,Wyoming -3,,,,54.0,,,,,
+2026-11-28,Navy @ Charlotte,,Navy -4.5,,,,57.5,,,,,
+2026-11-28,Central Michigan @ Ball State,,Central Michigan PK,,,,49.0,,,,,
+2026-11-28,Louisiana Tech @ Georgia Southern,,Georgia Southern -4.5,,,,52.0,,,,,
+2026-11-28,Illinois @ Northwestern,,Northwestern -9,,,,49.5,,,,,
+2026-11-28,Florida Atlantic @ East Carolina,,East Carolina -4.5,,,,61.0,,,,,
+2026-11-28,Kennesaw State @ Western Kentucky,,Western Kentucky -3,,,,55.0,,,,,
+2026-11-28,Marshall @ UL Monroe,,UL Monroe -2,,,,52.5,,,,,
+2026-11-28,Southern Miss @ Old Dominion,,Old Dominion -8.5,,,,52.5,,,,,
+2026-11-28,UCF @ Colorado,,Colorado -4,,,,50.5,,,,,
+2026-11-28,Kansas State @ Iowa State,,Iowa State -11,,,,57.0,,,,,
+2026-11-28,Army @ Rice,,Army -4,,,,55.5,,,,,
+2026-11-28,Coastal Carolina @ James Madison,,James Madison -15.5,,,,55.0,,,,,
+2026-11-28,Louisiana @ Georgia State,,Georgia State -3,,,,58.0,,,,,
+2026-11-28,Liberty @ Missouri State,,Liberty -9,,,,51.0,,,,,
+2026-11-28,Sam Houston @ Florida International,,Florida International -13.5,,,,37.0,,,,,
+2026-11-28,New Mexico State @ Middle Tennessee,,Middle Tennessee -8,,,,54.0,,,,,
+2026-11-28,Virginia @ Virginia Tech,,Virginia Tech -2.5,,,,52.0,,,,,
+2026-11-28,Troy @ Arkansas State,,Arkansas State -9,,,,48.0,,,,,
+2026-11-28,USC @ UCLA,,UCLA -12,,,,49.5,,,,,
+2026-11-28,Cincinnati @ BYU,,BYU -15,,,,52.5,,,,,
+2026-11-28,Penn State @ Maryland,,Penn State -2.5,,,,55.0,,,,,
+2026-11-28,Tulane @ South Florida,,South Florida -14.5,,,,46.0,,,,,
+2026-11-28,UTEP @ Northern Illinois,,Northern Illinois -7.5,,,,52.0,,,,,
+2026-11-28,Massachusetts @ Bowling Green,,Bowling Green -3.5,,,,46.0,,,,,
+2026-11-28,Jacksonville State @ Delaware,,Delaware -2.5,,,,57.5,,,,,
+2026-11-28,UAB @ North Texas,,North Texas -12.5,,,,60.0,,,,,
+2026-11-28,Oklahoma @ Missouri,,Missouri -8.5,,,,45.5,,,,,
+2026-11-28,Michigan State @ Rutgers,,Rutgers -0.5,,,,51.0,,,,,
+2026-11-28,Kansas @ Oklahoma State,,Oklahoma State -10,,,,67.0,,,,,
+2026-11-29,Pittsburgh @ California,,Pittsburgh -5,,,,48.5,,,,,
+2026-11-29,Arizona State @ Arizona,,Arizona -13.5,,,,55.5,,,,,
+2026-11-29,Nevada @ UNLV,,UNLV -7.5,,,,47.0,,,,,
+2026-11-29,Baylor @ Houston,,Houston -6,,,,51.5,,,,,
+2026-11-29,Sacramento State @ Hawai'i,,Hawai'i -14.5,,,,43.0,,,,,
+2026-11-26,Tuskegee @ Alabama State,,Alabama State -11.5,,,,47.5,,,,,
+2026-11-28,Grambling vs Southern,,Southern -2.5,,,,64.0,,,,,
+2026-12-12,Navy vs Army,,Army -4,,,,59.0,,,,,

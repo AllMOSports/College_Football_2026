@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 15, 2026 at 05:26 PM",
+  "last_updated": "November 17, 2026 at 04:24 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -18,30 +18,42 @@
     14,
     15
   ],
-  "league_average": 26.47,
+  "league_average": 26.46,
+  "home_field": 6.33,
+  "fit_converged": true,
   "conference": "FBS Independents",
   "teams": [
     {
       "ovr_rank": 1,
       "school": "Notre Dame",
+      "team_id": "87",
+      "abbreviation": "ND",
       "conference": "FBS Independents",
+      "record": "9-1",
       "games": 10,
-      "ovr_rating": 37.56,
-      "off_rating": 19.46,
+      "ovr_rating": 17.99,
+      "off_rating": 9.05,
       "off_rank": 1,
-      "def_rating": 18.1,
-      "def_rank": 1
+      "def_rating": 8.95,
+      "def_rank": 1,
+      "sos": 3.82,
+      "sos_rank": 1
     },
     {
       "ovr_rank": 2,
       "school": "UConn",
+      "team_id": "41",
+      "abbreviation": "CONN",
       "conference": "FBS Independents",
+      "record": "5-5",
       "games": 10,
-      "ovr_rating": 3.12,
-      "off_rating": 4.28,
+      "ovr_rating": 5.05,
+      "off_rating": 5.07,
       "off_rank": 2,
-      "def_rating": -1.15,
-      "def_rank": 2
+      "def_rating": -0.02,
+      "def_rank": 2,
+      "sos": 0.91,
+      "sos_rank": 2
     }
   ]
 }

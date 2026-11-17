@@ -1,752 +1,1411 @@
-Date,Home Team,Home Score,Away Team,Away Score
-2026-08-29,USC,42,San José State,26
-2026-08-29,TCU,10,North Carolina,15
-2026-08-29,Virginia,34,NC State,8
-2026-08-29,North Dakota State,33,Jacksonville State,7
-2026-08-29,Eastern Michigan,28,Sacramento State,17
-2026-08-29,Stanford,37,Hawai'i,27
-2026-08-29,Florida State,34,New Mexico State,17
-2026-08-30,UNLV,21,Memphis,27
-2026-09-04,Utah,66,Idaho,14
-2026-09-04,Missouri,54,Arkansas-Pine Bluff,14
-2026-09-03,Rutgers,21,Massachusetts,37
-2026-09-03,UCF,73,Bethune-Cookman,6
-2026-09-03,Wake Forest,38,Akron,16
-2026-09-03,Delaware,42,Merrimack,7
-2026-09-03,Kennesaw State,47,West Georgia,0
-2026-09-03,Buffalo,21,UAlbany,17
-2026-09-04,Georgia Tech,13,Colorado,14
-2026-09-04,Minnesota,59,Eastern Illinois,7
-2026-09-04,Illinois,42,UAB,23
-2026-09-05,Stanford,6,Miami,45
-2026-09-05,Oklahoma,51,UTEP,0
-2026-09-05,USC,39,Fresno State,0
-2026-09-04,Eastern Michigan,21,San José State,27
-2026-09-04,Purdue,44,Indiana State,19
-2026-09-04,Georgia State,59,North Carolina A&T,10
-2026-09-05,Kansas,51,Long Island University,6
-2026-09-05,Michigan State,30,Toledo,20
-2026-09-05,Ohio State,56,Ball State,3
-2026-09-05,Oregon,34,Boise State,27
-2026-09-05,Georgia,63,Tennessee State,3
-2026-09-05,Texas,59,Texas State,7
-2026-09-05,Indiana,52,North Texas,16
-2026-09-05,Texas A&M,50,Missouri State,0
-2026-09-06,LSU,51,Clemson,10
-2026-09-05,Texas Tech,33,Abilene Christian,10
-2026-09-05,Alabama,48,East Carolina,10
-2026-09-06,BYU,63,Utah Tech,7
-2026-09-05,Michigan,13,Western Michigan,12
-2026-09-05,Penn State,45,Marshall,0
-2026-09-05,Tennessee,56,Furman,9
-2026-09-05,Iowa,40,Northern Illinois,0
-2026-09-05,Houston,33,Oregon State,20
-2026-09-05,West Virginia,31,Coastal Carolina,24
-2026-09-05,Syracuse,66,New Hampshire,3
-2026-09-05,Nebraska,49,Ohio,21
-2026-09-05,UConn,56,Lafayette,7
-2026-09-05,Army,59,Bryant,3
-2026-09-05,Bowling Green,13,Tarleton State,20
-2026-09-05,James Madison,20,Liberty,13
-2026-09-05,Pittsburgh,59,Miami (OH),14
-2026-09-05,South Carolina,57,Kent State,0
-2026-09-05,Kentucky,45,Youngstown State,13
-2026-09-05,Iowa State,38,Southeast Missouri State,10
-2026-09-05,Air Force,34,Duquesne,0
-2026-09-05,Temple,38,Rhode Island,14
-2026-09-05,Auburn,17,Baylor,16
-2026-09-05,Cincinnati,34,Boston College,15
-2026-09-05,Duke,17,Tulane,3
-2026-09-05,Charlotte,41,The Citadel,43
-2026-09-05,Navy,42,Towson,15
-2026-09-05,UTSA,45,UT Rio Grande Valley,16
-2026-09-05,North Dakota State,38,Fordham,0
-2026-09-05,App State,55,Maine,3
-2026-09-05,Tulsa,24,Oklahoma State,10
-2026-09-05,Arkansas,31,North Alabama,14
-2026-09-05,Southern Miss,49,Alcorn State,3
-2026-09-05,Colorado State,35,Wyoming,13
-2026-09-05,Old Dominion,31,Norfolk State,10
-2026-09-05,Vanderbilt,28,Austin Peay,9
-2026-09-05,Kansas State,71,Nicholls,3
-2026-09-05,Utah State,17,Idaho State,29
-2026-09-05,Memphis,42,Arkansas State,24
-2026-09-05,Rice,31,Houston Christian,3
-2026-09-05,South Florida,19,Florida International,9
-2026-09-05,Jacksonville State,49,Eastern Kentucky,7
-2026-09-05,Georgia Southern,31,Charleston Southern,0
-2026-09-05,South Alabama,39,SE Louisiana,14
-2026-09-05,Troy,24,Sam Houston,21
-2026-09-05,Mississippi State,62,UL Monroe,13
-2026-09-05,Virginia Tech,73,VMI,3
-2026-09-05,Louisiana Tech,80,Northwestern State,6
-2026-09-05,Florida,66,Florida Atlantic,21
-2026-09-05,Middle Tennessee,38,Murray State,14
-2026-09-06,Maryland,62,Hampton,0
-2026-09-06,Northwestern,34,South Dakota State,18
-2026-09-06,Louisiana,38,Lamar,7
-2026-09-06,New Mexico State,51,Mercyhurst,14
-2026-09-06,Arizona,35,Northern Arizona,7
-2026-09-06,San Diego State,53,Portland State,20
-2026-09-06,Arizona State,70,Morgan State,7
-2026-09-06,Hawai'i,6,UNLV,21
-2026-09-06,New Mexico,38,Central Michigan,7
-2026-09-06,Sacramento State,52,Mississippi Valley State,0
-2026-09-06,California,24,UCLA,45
-2026-09-06,Nevada,49,Western Kentucky,14
-2026-09-06,Notre Dame,41,Wisconsin,13
-2026-09-06,Ole Miss,41,Louisville,38
-2026-09-06,Washington,24,Washington State,10
-2026-09-07,Florida State,24,SMU,27
-2026-09-11,Miami,77,Florida A&M,7
-2026-09-12,Kansas,21,Missouri,38
-2026-09-11,Louisville,59,Villanova,13
-2026-09-11,Virginia,59,Norfolk State,3
-2026-09-11,NC State,73,Richmond,0
-2026-09-11,Boston College,28,Rutgers,21
-2026-09-12,Texas,24,Ohio State,23
-2026-09-12,Georgia,70,Western Kentucky,20
-2026-09-12,Notre Dame,52,Rice,0
-2026-09-12,Indiana,55,Howard,0
-2026-09-12,Oklahoma State,39,Oregon,31
-2026-09-12,LSU,45,Louisiana Tech,14
-2026-09-12,Ole Miss,41,Charlotte,9
-2026-09-12,Texas A&M,48,Arizona State,20
-2026-09-12,Michigan,17,Oklahoma,10
-2026-09-12,Kentucky,17,Alabama,45
-2026-09-12,Oregon State,24,Texas Tech,35
-2026-09-13,USC,49,Louisiana,30
-2026-09-12,BYU,28,Arizona,17
-2026-09-12,Temple,9,Penn State,27
-2026-09-12,SMU,56,UC Davis,10
-2026-09-12,Georgia Tech,24,Tennessee,45
-2026-09-12,Washington,16,Utah State,14
-2026-09-13,Utah,43,Arkansas,10
-2026-09-12,Iowa,16,Iowa State,13
-2026-09-12,Houston,77,Southern,6
-2026-09-12,Kansas State,34,Washington State,7
-2026-09-12,North Carolina,35,East Tennessee State,3
-2026-09-12,Virginia Tech,44,Old Dominion,21
-2026-09-12,Purdue,36,Wake Forest,38
-2026-09-12,Army,24,South Florida,28
-2026-09-12,East Carolina,24,App State,27
-2026-09-12,Kent State,36,Wofford,15
-2026-09-12,James Madison,87,Wagner,3
-2026-09-12,Liberty,24,Gardner-Webb,23
-2026-09-12,West Virginia,52,UT Martin,7
-2026-09-12,Central Michigan,13,Colgate,10
-2026-09-12,Miami (OH),45,Holy Cross,7
-2026-09-12,Ball State,41,Stony Brook,17
-2026-09-12,Minnesota,13,Mississippi State,38
-2026-09-12,Colorado,52,Weber State,21
-2026-09-12,Pittsburgh,12,UCF,7
-2026-09-12,Syracuse,18,California,21
-2026-09-12,Illinois,27,Duke,31
-2026-09-12,Michigan State,35,Eastern Michigan,7
-2026-09-12,UConn,14,Maryland,38
-2026-09-12,Texas State,26,UTSA,31
-2026-09-12,UAB,26,UL Monroe,20
-2026-09-12,Akron,45,Robert Morris,10
-2026-09-12,Toledo,63,Central Connecticut,10
-2026-09-12,Massachusetts,37,Sacred Heart,10
-2026-09-12,North Texas,44,UNLV,6
-2026-09-12,Wyoming,21,Northern Colorado,13
-2026-09-12,New Mexico,70,Mercyhurst,7
-2026-09-12,Troy,34,Alabama State,17
-2026-09-12,Vanderbilt,35,Delaware,26
-2026-09-12,Florida,52,Campbell,3
-2026-09-12,Boise State,38,Memphis,20
-2026-09-12,Florida International,33,Buffalo,20
-2026-09-12,Ohio,29,Jacksonville State,27
-2026-09-12,Western Michigan,49,Monmouth,14
-2026-09-12,South Carolina,45,Towson,9
-2026-09-12,Cincinnati,62,Western Carolina,10
-2026-09-12,Nebraska,56,Bowling Green,7
-2026-09-12,Colorado State,58,Southern Utah,24
-2026-09-12,Sam Houston,17,Tulsa,23
-2026-09-12,Northern Illinois,24,Illinois State,28
-2026-09-12,Tulane,28,South Alabama,24
-2026-09-12,Arkansas State,52,West Georgia,7
-2026-09-12,Kennesaw State,17,Georgia State,31
-2026-09-12,Marshall,28,Middle Tennessee,26
-2026-09-12,Missouri State,48,Lindenwood,14
-2026-09-12,UCLA,28,San Diego State,10
-2026-09-12,Wisconsin,36,Western Illinois,9
-2026-09-12,Florida Atlantic,38,Navy,30
-2026-09-12,Coastal Carolina,45,Fordham,7
-2026-09-13,TCU,63,Grambling,7
-2026-09-13,Baylor,44,Prairie View A&M,3
-2026-09-13,Auburn,43,Southern Miss,8
-2026-09-13,San José State,30,Cal Poly,20
-2026-09-13,UTEP,51,Texas Southern,10
-2026-09-13,Clemson,22,Georgia Southern,7
-2026-09-13,Air Force,32,North Dakota State,38
-2026-09-13,Fresno State,49,Sacramento State,3
-2026-09-13,Nevada,7,Montana State,20
-2026-09-13,Hawai'i,29,New Mexico State,19
-2026-09-17,Pittsburgh,27,Syracuse,13
-2026-09-18,Wake Forest,20,Miami,33
-2026-09-19,Texas Tech,28,Houston,26
-2026-09-19,Oregon,84,Portland State,0
-2026-09-20,Texas,30,UTSA,6
-2026-09-19,Arkansas,17,Georgia,45
-2026-09-19,Notre Dame,27,Michigan State,10
-2026-09-19,Indiana,38,Western Kentucky,0
-2026-09-19,Ohio State,59,Kent State,3
-2026-09-19,Ole Miss,32,LSU,24
-2026-09-19,Texas A&M,21,Kentucky,31
-2026-09-19,Alabama,50,Florida State,36
-2026-09-20,Colorado State,23,BYU,41
-2026-09-19,Rutgers,35,USC,42
-2026-09-19,Penn State,55,Buffalo,13
-2026-09-19,Tennessee,42,Kennesaw State,9
-2026-09-19,Louisville,41,SMU,31
-2026-09-19,Utah,33,Utah State,0
-2026-09-19,Iowa,55,Northern Iowa,0
-2026-09-19,Michigan,52,UTEP,17
-2026-09-19,Missouri,27,Troy,17
-2026-09-19,Oklahoma,14,New Mexico,6
-2026-09-19,Virginia,27,West Virginia,38
-2026-09-19,Delaware,22,Coastal Carolina,14
-2026-09-19,Kansas State,31,Tulane,20
-2026-09-19,Iowa State,55,Bowling Green,7
-2026-09-19,Kansas,17,Arizona State,24
-2026-09-19,Georgia Tech,44,Mercer,11
-2026-09-19,Clemson,28,North Carolina,20
-2026-09-19,Minnesota,41,Akron,7
-2026-09-19,Texas State,49,North Texas,35
-2026-09-19,Wisconsin,54,Eastern Michigan,10
-2026-09-19,Vanderbilt,35,NC State,31
-2026-09-19,Central Michigan,24,Wyoming,10
-2026-09-19,Boston College,22,Maine,16
-2026-09-19,Illinois,48,Southern Illinois,10
-2026-09-19,Toledo,49,Temple,48
-2026-09-19,Cincinnati,35,Miami (OH),31
-2026-09-19,California,49,Wagner,7
-2026-09-19,Washington State,48,Duquesne,7
-2026-09-19,Massachusetts,36,Stonehill,14
-2026-09-19,Duke,35,Stanford,7
-2026-09-19,Liberty,51,Ball State,15
-2026-09-19,Baylor,36,Louisiana Tech,19
-2026-09-19,UL Monroe,35,SE Louisiana,38
-2026-09-19,South Carolina,34,Mississippi State,41
-2026-09-19,Old Dominion,17,East Carolina,20
-2026-09-19,Florida Atlantic,16,Florida International,10
-2026-09-19,Missouri State,24,Marshall,30
-2026-09-19,Auburn,39,Florida,44
-2026-09-19,UCF,44,Georgia State,30
-2026-09-19,Oklahoma State,59,Murray State,0
-2026-09-19,Southern Miss,20,UConn,48
-2026-09-19,Memphis,45,UT Martin,21
-2026-09-19,Rice,21,Western Michigan,28
-2026-09-19,South Florida,59,Delaware State,17
-2026-09-19,Middle Tennessee,27,Nevada,20
-2026-09-19,South Alabama,41,Ohio,36
-2026-09-19,Jacksonville State,31,Georgia Southern,27
-2026-09-19,Sam Houston,59,Nicholls,0
-2026-09-19,Nebraska,34,North Dakota,7
-2026-09-19,Washington,48,Eastern Washington,16
-2026-09-19,Northwestern,41,Colorado,7
-2026-09-19,Maryland,26,Virginia Tech,35
-2026-09-20,TCU,31,Arkansas State,7
-2026-09-20,Tulsa,42,East Texas A&M,0
-2026-09-20,Louisiana,21,UAB,14
-2026-09-20,App State,26,Charlotte,21
-2026-09-20,Boise State,38,South Dakota,24
-2026-09-20,San Diego State,13,James Madison,26
-2026-09-20,Arizona,42,Northern Illinois,17
-2026-09-20,Sacramento State,10,North Dakota State,31
-2026-09-20,UCLA,52,Purdue,38
-2026-09-20,Oregon State,52,Montana,17
-2026-09-20,San José State,10,Fresno State,26
-2026-09-24,Coastal Carolina,17,Liberty,34
-2026-09-26,Indiana,29,Northwestern,23
-2026-09-25,Temple,17,Army,21
-2026-09-25,Rutgers,58,Howard,7
-2026-09-25,UAB,24,Navy,20
-2026-09-26,California,10,Clemson,24
-2026-09-26,Tennessee,17,Texas,20
-2026-09-26,Georgia,41,Oklahoma,13
-2026-09-26,Purdue,10,Notre Dame,49
-2026-09-26,Florida,52,Ole Miss,28
-2026-09-26,Miami,52,Central Michigan,3
-2026-09-26,Ohio State,42,Illinois,19
-2026-09-26,Alabama,49,South Carolina,18
-2026-09-26,LSU,35,Texas A&M,6
-2026-09-26,Texas Tech,49,Sam Houston,14
-2026-09-26,USC,27,Oregon,41
-2026-09-26,Penn State,20,Wisconsin,24
-2026-09-26,Iowa State,17,Utah,31
-2026-09-26,Louisville,27,Wake Forest,30
-2026-09-26,Michigan,19,Iowa,20
-2026-09-26,Mississippi State,31,Missouri,24
-2026-09-27,SMU,34,Missouri State,24
-2026-09-26,Georgia Southern,28,Houston,42
-2026-09-26,Baylor,23,Colorado,13
-2026-09-26,Pittsburgh,59,Bucknell,0
-2026-09-26,Boston College,14,Virginia Tech,21
-2026-09-26,Toledo,41,San Diego State,16
-2026-09-26,UTSA,59,Colorado State,45
-2026-09-26,Akron,10,UNLV,38
-2026-09-26,Kent State,26,Ball State,13
-2026-09-26,Kentucky,45,South Alabama,21
-2026-09-26,Eastern Michigan,29,Lindenwood,3
-2026-09-26,Maryland,3,UCLA,54
-2026-09-26,Georgia State,35,Northern Illinois,14
-2026-09-26,Florida State,34,Central Arkansas,7
-2026-09-26,Wyoming,27,Hawai'i,10
-2026-09-26,UCF,21,TCU,13
-2026-09-26,Duke,62,William & Mary,7
-2026-09-26,Western Michigan,7,Boise State,32
-2026-09-26,Miami (OH),24,UConn,21
-2026-09-26,New Mexico State,18,New Mexico,42
-2026-09-26,Buffalo,31,Robert Morris,28
-2026-09-26,Ohio,35,Stonehill,7
-2026-09-26,Marshall,36,Gardner-Webb,35
-2026-09-26,East Carolina,42,North Carolina Central,9
-2026-09-26,Auburn,21,Vanderbilt,15
-2026-09-26,Michigan State,13,Nebraska,31
-2026-09-26,Bowling Green,6,South Florida,14
-2026-09-26,Virginia,42,Delaware,3
-2026-09-26,Texas State,63,Incarnate Word,10
-2026-09-26,Florida International,20,Long Island University,3
-2026-09-26,Old Dominion,20,James Madison,46
-2026-09-26,Charlotte,7,Louisiana,34
-2026-09-26,Cincinnati,31,Kansas State,26
-2026-09-26,West Virginia,24,Oklahoma State,41
-2026-09-26,Tulane,24,Southern Miss,21
-2026-09-26,Arkansas State,17,Kennesaw State,14
-2026-09-26,Western Kentucky,52,Mercyhurst,7
-2026-09-26,Jacksonville State,23,Middle Tennessee,13
-2026-09-26,Washington State,24,Arizona,34
-2026-09-26,Utah State,21,Troy,10
-2026-09-26,North Texas,63,Houston Christian,14
-2026-09-26,NC State,41,App State,31
-2026-09-27,Arkansas,34,Tulsa,6
-2026-09-27,UL Monroe,17,Florida Atlantic,45
-2026-09-27,UTEP,7,Oregon State,33
-2026-09-27,Sacramento State,6,Massachusetts,35
-2026-09-27,Fresno State,38,Rice,24
-2026-09-27,Stanford,34,Georgia Tech,27
-2026-09-27,Nevada,33,Air Force,36
-2026-09-27,Washington,24,Minnesota,27
-2026-10-02,New Mexico State,34,Western Kentucky,13
-2026-10-02,Tulsa,44,North Texas,45
-2026-10-02,Virginia Tech,33,Pittsburgh,35
-2026-10-02,Delaware,14,Liberty,30
-2026-10-03,Northwestern,34,Penn State,13
-2026-10-03,Georgia,38,Vanderbilt,14
-2026-10-03,North Carolina,26,Notre Dame,37
-2026-10-03,Clemson,13,Miami,41
-2026-10-03,Iowa,14,Ohio State,31
-2026-10-04,Rutgers,15,Indiana,47
-2026-10-03,Mississippi State,23,Alabama,56
-2026-10-03,Missouri,45,Florida,17
-2026-10-03,TCU,10,BYU,17
-2026-10-03,LSU,63,McNeese,14
-2026-10-03,Colorado,7,Texas Tech,29
-2026-10-03,Tennessee,24,Auburn,14
-2026-10-03,USC,25,Washington,21
-2026-10-03,Houston,27,UCF,17
-2026-10-03,SMU,25,Boston College,16
-2026-10-03,Boise State,37,Utah State,18
-2026-10-03,South Carolina,34,Kentucky,35
-2026-10-03,Charlotte,8,Memphis,59
-2026-10-03,Kansas,55,Middle Tennessee,0
-2026-10-03,Iowa State,45,West Virginia,42
-2026-10-03,Wake Forest,57,Stanford,3
-2026-10-03,UConn,41,Syracuse,42
-2026-10-03,Minnesota,20,Michigan,14
-2026-10-03,Air Force,14,Navy,9
-2026-10-03,Wisconsin,31,Michigan State,3
-2026-10-03,Buffalo,17,Western Michigan,20
-2026-10-03,Ball State,24,Toledo,39
-2026-10-03,UNLV,39,California,31
-2026-10-03,NC State,31,Louisville,28
-2026-10-03,Florida State,38,Virginia,7
-2026-10-03,UAB,33,Samford,14
-2026-10-03,North Dakota State,28,Wyoming,0
-2026-10-03,Central Michigan,41,Akron,17
-2026-10-03,Massachusetts,14,Eastern Michigan,38
-2026-10-03,Kent State,10,Ohio,13
-2026-10-03,Miami (OH),20,Bowling Green,24
-2026-10-03,Georgia State,42,Old Dominion,10
-2026-10-03,James Madison,45,Marshall,17
-2026-10-03,Nebraska,48,Maryland,23
-2026-10-03,New Mexico,61,UTEP,7
-2026-10-03,Illinois,17,Purdue,24
-2026-10-03,Colorado State,26,Oregon State,56
-2026-10-03,Florida Atlantic,66,Texas Southern,10
-2026-10-03,Texas A&M,34,Arkansas,7
-2026-10-03,Rice,14,UTSA,16
-2026-10-03,Coastal Carolina,24,Georgia Southern,31
-2026-10-03,South Alabama,52,UL Monroe,35
-2026-10-03,South Florida,13,Temple,17
-2026-10-03,Louisiana Tech,31,Army,29
-2026-10-04,Louisiana,23,Arkansas State,20
-2026-10-04,Washington State,6,Fresno State,26
-2026-10-04,Arizona State,19,Baylor,55
-2026-10-04,San Diego State,31,Texas State,29
-2026-10-04,Arizona,34,Cincinnati,7
-2026-10-04,Hawai'i,16,San José State,20
-2026-10-07,Troy,55,Southern Miss,34
-2026-10-07,Kennesaw State,26,Jacksonville State,27
-2026-10-08,Florida International,22,New Mexico State,3
-2026-10-08,Liberty,35,Sam Houston,3
-2026-10-08,Western Kentucky,34,Missouri State,13
-2026-10-08,UTSA,31,South Florida,24
-2026-10-08,Arkansas State,49,South Alabama,56
-2026-10-10,BYU,24,Iowa State,10
-2026-10-10,Washington,24,Iowa,41
-2026-10-09,Louisville,44,Florida State,20
-2026-10-10,Utah State,17,Washington State,16
-2026-10-10,San José State,13,Wyoming,16
-2026-10-10,Oklahoma,27,Texas,24
-2026-10-10,Alabama,17,Georgia,20
-2026-10-10,Notre Dame,58,Stanford,7
-2026-10-10,Ohio State,45,Maryland,16
-2026-10-10,Nebraska,17,Indiana,20
-2026-10-10,Vanderbilt,17,Ole Miss,52
-2026-10-10,Kentucky,35,LSU,34
-2026-10-11,Utah,41,Kansas,24
-2026-10-10,Oregon,15,UCLA,17
-2026-10-10,Missouri,27,Texas A&M,6
-2026-10-10,Arkansas,17,Tennessee,24
-2026-10-10,Florida,19,South Carolina,38
-2026-10-10,Oklahoma State,42,UCF,28
-2026-10-10,Penn State,23,USC,31
-2026-10-10,Kansas State,16,Houston,35
-2026-10-11,Fresno State,31,Boise State,38
-2026-10-10,Pittsburgh,17,North Carolina,21
-2026-10-10,West Virginia,31,Arizona,52
-2026-10-10,NC State,14,Wake Forest,38
-2026-10-10,Army,20,Tulane,17
-2026-10-10,Bowling Green,38,Sacramento State,10
-2026-10-10,Northwestern,45,Ball State,14
-2026-10-10,East Carolina,28,Rice,12
-2026-10-10,App State,3,Old Dominion,10
-2026-10-10,Massachusetts,19,Miami (OH),20
-2026-10-10,Georgia Tech,28,Duke,25
-2026-10-10,California,25,Virginia Tech,20
-2026-10-10,Michigan State,37,Illinois,38
-2026-10-10,North Texas,50,Charlotte,10
-2026-10-10,Navy,34,Tulsa,26
-2026-10-10,Akron,23,Eastern Michigan,25
-2026-10-10,Toledo,8,Buffalo,23
-2026-10-10,Ohio,31,Central Michigan,14
-2026-10-10,Western Michigan,38,Kent State,7
-2026-10-10,Temple,20,UConn,34
-2026-10-10,Oregon State,66,San Diego State,14
-2026-10-10,Memphis,38,UAB,13
-2026-10-10,UTEP,13,Nevada,30
-2026-10-10,UNLV,13,North Dakota State,7
-2026-10-10,Marshall,21,Coastal Carolina,27
-2026-10-10,Virginia,28,Syracuse,25
-2026-10-10,Northern Illinois,7,Air Force,28
-2026-10-10,Louisiana Tech,32,Louisiana,31
-2026-10-11,Purdue,41,Minnesota,13
-2026-10-11,Georgia Southern,24,James Madison,27
-2026-10-11,Arizona State,30,Hawai'i,12
-2026-10-13,Middle Tennessee,33,Delaware,30
-2026-10-14,Jacksonville State,27,Florida International,24
-2026-10-14,Missouri State,24,Kennesaw State,21
-2026-10-15,Sam Houston,3,Western Kentucky,16
-2026-10-15,UAB,30,East Carolina,17
-2026-10-15,Old Dominion,15,Georgia Southern,23
-2026-10-16,Texas State,66,Colorado State,27
-2026-10-16,Tulane,31,Memphis,17
-2026-10-17,Purdue,26,Washington,38
-2026-10-17,Coastal Carolina,32,App State,35
-2026-10-17,Georgia,24,Auburn,27
-2026-10-17,BYU,28,Notre Dame,24
-2026-10-17,Miami,43,Florida State,35
-2026-10-17,Indiana,15,Ohio State,19
-2026-10-17,Tennessee,26,Alabama,10
-2026-10-17,Texas,24,Florida,27
-2026-10-17,Ole Miss,31,Missouri,3
-2026-10-17,Texas Tech,53,Arizona State,25
-2026-10-18,Colorado,24,Utah,27
-2026-10-17,UCLA,17,Wisconsin,7
-2026-10-17,Oklahoma,13,Kentucky,21
-2026-10-17,LSU,31,Mississippi State,0
-2026-10-17,Houston,35,Oklahoma State,32
-2026-10-18,California,7,Wake Forest,41
-2026-10-17,SMU,23,Virginia,13
-2026-10-17,Michigan State,21,Northwestern,24
-2026-10-17,West Virginia,45,Cincinnati,42
-2026-10-17,Kansas State,35,Kansas,24
-2026-10-17,Clemson,37,Charleston Southern,0
-2026-10-17,Boston College,27,Pittsburgh,21
-2026-10-17,Army,56,Florida Atlantic,24
-2026-10-17,Bowling Green,31,Ball State,32
-2026-10-17,James Madison,49,Georgia State,22
-2026-10-17,Maryland,30,Rutgers,37
-2026-10-17,Texas A&M,41,The Citadel,0
-2026-10-17,Temple,31,Charlotte,38
-2026-10-17,Buffalo,25,Massachusetts,18
-2026-10-17,Central Michigan,14,Western Michigan,21
-2026-10-17,Virginia Tech,34,Georgia Tech,24
-2026-10-17,Duke,20,North Carolina,24
-2026-10-17,Michigan,21,Penn State,18
-2026-10-17,Wyoming,41,Northern Illinois,23
-2026-10-17,Air Force,41,UNLV,31
-2026-10-17,Eastern Michigan,14,Toledo,34
-2026-10-17,Miami (OH),34,Akron,14
-2026-10-17,Rice,17,Tulsa,38
-2026-10-17,Louisiana,33,Troy,6
-2026-10-17,Oregon State,48,Washington State,30
-2026-10-17,Vanderbilt,21,Arkansas,31
-2026-10-17,Baylor,6,TCU,17
-2026-10-17,South Florida,29,Kent State,2
-2026-10-17,North Dakota State,31,Nevada,17
-2026-10-17,Southern Miss,13,Arkansas State,23
-2026-10-17,Stanford,34,Elon,7
-2026-10-17,Syracuse,26,Louisville,34
-2026-10-18,UTSA,38,Navy,34
-2026-10-18,UL Monroe,0,Louisiana Tech,24
-2026-10-18,UTEP,11,San José State,24
-2026-10-18,Sacramento State,7,Ohio,48
-2026-10-18,San Diego State,26,Fresno State,23
-2026-10-18,Hawai'i,10,New Mexico,21
-2026-10-18,Oregon,17,Nebraska,14
-2026-10-20,Florida International,23,Middle Tennessee,26
-2026-10-20,Delaware,61,Missouri State,38
-2026-10-20,Marshall,20,South Alabama,13
-2026-10-22,Sam Houston,24,New Mexico State,30
-2026-10-22,App State,34,James Madison,31
-2026-10-22,Kennesaw State,6,Liberty,34
-2026-10-22,Memphis,41,East Carolina,34
-2026-10-23,Virginia,16,Duke,19
-2026-10-23,UConn,35,Massachusetts,16
-2026-10-24,Tulsa,35,Army,38
-2026-10-24,Wyoming,28,Air Force,14
-2026-10-24,Stanford,31,NC State,28
-2026-10-24,Miami,52,Pittsburgh,23
-2026-10-24,UCF,39,BYU,31
-2026-10-24,Michigan,6,Indiana,13
-2026-10-24,Texas,34,Ole Miss,27
-2026-10-24,Cincinnati,37,Texas Tech,24
-2026-10-24,UCLA,28,Michigan State,10
-2026-10-25,Utah,21,Houston,13
-2026-10-24,South Carolina,27,Tennessee,24
-2026-10-24,Kentucky,34,Vanderbilt,17
-2026-10-24,Alabama,31,Texas A&M,20
-2026-10-24,Minnesota,13,Iowa,10
-2026-10-24,Wisconsin,24,USC,7
-2026-10-24,Auburn,17,LSU,38
-2026-10-24,Washington State,10,Boise State,31
-2026-10-24,SMU,59,California,20
-2026-10-24,Northwestern,42,Rutgers,14
-2026-10-24,Arizona,39,Iowa State,3
-2026-10-24,TCU,20,West Virginia,24
-2026-10-24,Florida Atlantic,51,Rice,49
-2026-10-24,Toledo,45,Western Michigan,38
-2026-10-24,Kansas,25,Baylor,24
-2026-10-24,Kent State,35,Akron,20
-2026-10-24,Central Michigan,27,Miami (OH),28
-2026-10-24,Illinois,21,Oregon,10
-2026-10-24,Mississippi State,15,Oklahoma,23
-2026-10-24,Georgia Tech,27,Boston College,49
-2026-10-24,Navy,39,North Texas,49
-2026-10-24,Northern Illinois,21,Hawai'i,56
-2026-10-24,Ball State,34,Sacramento State,17
-2026-10-24,Buffalo,31,Bowling Green,24
-2026-10-24,Arizona State,28,Kansas State,17
-2026-10-24,Ohio,24,Eastern Michigan,20
-2026-10-24,Troy,14,UL Monroe,21
-2026-10-24,Nevada,28,San José State,13
-2026-10-24,Southern Miss,35,Louisiana,31
-2026-10-24,Louisiana Tech,26,Old Dominion,0
-2026-10-24,Colorado State,56,San Diego State,49
-2026-10-24,Oklahoma State,57,Colorado,24
-2026-10-24,Clemson,16,Virginia Tech,20
-2026-10-24,Arkansas State,38,Georgia State,32
-2026-10-24,North Carolina,30,Syracuse,31
-2026-10-24,Texas State,20,Utah State,17
-2026-10-25,Tulane,19,UTSA,42
-2026-10-25,New Mexico,21,North Dakota State,16
-2026-10-27,Western Kentucky,21,Delaware,35
-2026-10-28,Missouri State,24,Sam Houston,3
-2026-10-28,Middle Tennessee,28,Kennesaw State,44
-2026-10-29,New Mexico State,0,Jacksonville State,24
-2026-10-29,North Texas,48,Florida Atlantic,41
-2026-10-29,James Madison,21,Troy,24
-2026-10-30,Charlotte,31,Tulane,38
-2026-10-30,UCF,9,Baylor,41
-2026-10-31,Sacramento State,31,Kent State,10
-2026-10-31,North Carolina,35,Miami,38
-2026-10-31,USC,30,Ohio State,18
-2026-10-31,Georgia,27,Florida,8
-2026-10-31,Indiana,23,Minnesota,16
-2026-10-31,Navy,13,Notre Dame,35
-2026-10-31,Cincinnati,25,Utah,49
-2026-10-31,UCLA,27,Nevada,0
-2026-10-31,BYU,27,Arizona State,20
-2026-10-31,Texas,31,Mississippi State,3
-2026-10-31,Ole Miss,45,Auburn,15
-2026-10-31,Texas Tech,34,Arizona,26
-2026-10-31,Wake Forest,51,Virginia,7
-2026-10-31,Syracuse,30,SMU,27
-2026-10-31,Oregon,34,Northwestern,26
-2026-11-01,Boise State,46,Texas State,45
-2026-10-31,Arkansas,10,Missouri,34
-2026-10-31,Iowa State,51,Oklahoma State,49
-2026-10-31,Iowa,30,Wisconsin,0
-2026-10-31,NC State,31,California,10
-2026-10-31,Duke,47,Boston College,2
-2026-10-31,Maryland,17,Illinois,20
-2026-10-31,South Florida,30,UAB,10
-2026-10-31,Western Michigan,23,Bowling Green,10
-2026-10-31,Rutgers,21,Michigan,28
-2026-10-31,Old Dominion,23,Marshall,36
-2026-10-31,Colorado,27,Kansas State,24
-2026-10-31,Georgia State,20,Coastal Carolina,31
-2026-10-31,Air Force,35,UConn,26
-2026-10-31,East Carolina,17,Temple,9
-2026-10-31,South Alabama,20,Louisiana Tech,35
-2026-10-31,Louisville,52,Stanford,24
-2026-10-31,TCU,22,Kansas,16
-2026-10-31,Utah State,31,Colorado State,14
-2026-10-31,North Dakota State,31,UTEP,7
-2026-10-31,Liberty,49,Florida International,10
-2026-10-31,UL Monroe,21,Southern Miss,35
-2026-10-31,San José State,16,New Mexico,21
-2026-10-31,Oklahoma,25,South Carolina,42
-2026-10-31,Penn State,31,Purdue,17
-2026-10-31,Georgia Southern,19,App State,3
-2026-10-31,Florida State,24,Clemson,36
-2026-10-31,San Diego State,26,Washington State,20
-2026-10-31,Pittsburgh,34,Georgia Tech,11
-2026-11-01,Nebraska,10,Washington,17
-2026-11-01,Memphis,49,Army,22
-2026-11-01,UNLV,31,Northern Illinois,24
-2026-11-01,Fresno State,38,Oregon State,22
-2026-11-04,Akron,20,Ohio,28
-2026-11-04,Miami (OH),31,Buffalo,34
-2026-11-05,Massachusetts,31,Ball State,30
-2026-11-05,Sacramento State,17,Toledo,20
-2026-11-05,Eastern Michigan,7,Central Michigan,35
-2026-11-06,Florida Atlantic,60,UTSA,29
-2026-11-06,Southern Miss,23,James Madison,54
-2026-11-07,Arizona,29,TCU,28
-2026-11-07,SMU,51,Virginia Tech,28
-2026-11-07,East Carolina,20,South Florida,17
-2026-11-07,Illinois,24,Nebraska,13
-2026-11-07,Nevada,3,New Mexico,31
-2026-11-08,Notre Dame,31,Miami,24
-2026-11-08,Ole Miss,7,Georgia,42
-2026-11-07,Utah,28,BYU,20
-2026-11-07,LSU,13,Alabama,31
-2026-11-07,Tennessee,34,Kentucky,6
-2026-11-07,Missouri,20,Texas,34
-2026-11-07,Minnesota,20,UCLA,34
-2026-11-07,Ohio State,28,Oregon,41
-2026-11-08,Texas Tech,53,West Virginia,48
-2026-11-07,Wake Forest,77,Merrimack,0
-2026-11-07,Houston,31,Cincinnati,24
-2026-11-08,Northwestern,10,Iowa,24
-2026-11-07,South Carolina,17,Texas A&M,9
-2026-11-08,Florida,7,Oklahoma,23
-2026-11-07,Colorado State,38,Boise State,64
-2026-11-07,Baylor,42,Iowa State,31
-2026-11-07,Syracuse,13,Clemson,18
-2026-11-07,Boston College,24,Florida State,31
-2026-11-07,UConn,21,North Carolina,38
-2026-11-07,Tulane,10,Tulsa,60
-2026-11-07,NC State,3,Duke,41
-2026-11-07,Purdue,29,Maryland,34
-2026-11-07,Auburn,26,Arkansas,23
-2026-11-07,Kansas State,28,Oklahoma State,66
-2026-11-07,Coastal Carolina,8,Old Dominion,21
-2026-11-07,App State,23,Georgia State,39
-2026-11-07,Arkansas State,17,UL Monroe,19
-2026-11-07,Kennesaw State,42,Delaware,40
-2026-11-07,Washington,25,Penn State,28
-2026-11-07,UAB,23,Charlotte,12
-2026-11-07,Navy,42,Temple,35
-2026-11-07,Georgia Southern,49,Marshall,13
-2026-11-07,Middle Tennessee,51,Western Kentucky,42
-2026-11-07,Kansas,32,UCF,33
-2026-11-07,North Texas,52,Rice,23
-2026-11-07,San José State,30,Northern Illinois,19
-2026-11-07,Florida International,23,Missouri State,20
-2026-11-07,Troy,17,Louisiana Tech,41
-2026-11-07,Mississippi State,23,Vanderbilt,25
-2026-11-07,Wisconsin,31,Rutgers,10
-2026-11-07,Louisiana,28,South Alabama,26
-2026-11-08,Jacksonville State,47,Sam Houston,14
-2026-11-08,Arizona State,20,Colorado,10
-2026-11-08,Georgia Tech,17,Louisville,44
-2026-11-08,Michigan,6,Michigan State,15
-2026-11-08,Army,21,Air Force,24
-2026-11-08,New Mexico State,14,Liberty,30
-2026-11-08,Utah State,17,Fresno State,10
-2026-11-08,UTEP,14,Hawai'i,17
-2026-11-08,Oregon State,21,Texas State,42
-2026-11-08,UNLV,35,Wyoming,41
-2026-11-11,Akron,14,Western Michigan,42
-2026-11-11,Bowling Green,33,Kent State,28
-2026-11-11,Miami (OH),34,Ohio,17
-2026-11-12,Ball State,7,Buffalo,28
-2026-11-12,Central Michigan,28,Sacramento State,7
-2026-11-12,Toledo,24,Massachusetts,0
-2026-11-13,South Florida,41,Memphis,52
-2026-11-13,UL Monroe,21,Louisiana,42
-2026-11-14,UCLA,22,Illinois,14
-2026-11-14,Colorado,42,Houston,32
-2026-11-14,Pittsburgh,10,Florida State,16
-2026-11-14,Georgia,48,Missouri,21
-2026-11-15,Arizona,39,Utah,40
-2026-11-14,Vanderbilt,6,Alabama,21
-2026-11-14,Notre Dame,41,Boston College,7
-2026-11-15,LSU,21,Texas,22
-2026-11-14,Miami,36,Duke,25
-2026-11-14,Texas A&M,7,Tennessee,22
-2026-11-14,Indiana,27,USC,13
-2026-11-15,BYU,28,Baylor,7
-2026-11-14,Kentucky,14,Florida,21
-2026-11-15,Oklahoma State,27,Texas Tech,52
-2026-11-14,SMU,7,Wake Forest,49
-2026-11-15,Iowa,28,Purdue,7
-2026-11-14,Oregon,31,Michigan,7
-2026-11-15,Arkansas,34,South Carolina,6
-2026-11-14,Ohio State,28,Northwestern,19
-2026-11-14,Boise State,46,Oregon State,41
-2026-11-14,Iowa State,41,Cincinnati,13
-2026-11-14,NC State,31,Syracuse,34
-2026-11-14,Maryland,24,Wisconsin,21
-2026-11-14,UConn,46,James Madison,22
-2026-11-14,Clemson,6,Georgia Tech,20
-2026-11-14,Rutgers,0,Nebraska,31
-2026-11-14,Charlotte,16,East Carolina,17
-2026-11-14,Temple,10,UAB,36
-2026-11-14,Coastal Carolina,28,Arkansas State,21
-2026-11-14,TCU,20,Kansas State,10
-2026-11-14,Sam Houston,7,Kennesaw State,26
-2026-11-14,Missouri State,27,New Mexico State,21
-2026-11-14,Delaware,24,Florida International,16
-2026-11-14,West Virginia,14,Kansas,37
-2026-11-14,Virginia,36,California,7
-2026-11-14,Northern Illinois,7,Nevada,28
-2026-11-14,Georgia State,17,Georgia Southern,34
-2026-11-14,Western Kentucky,34,Jacksonville State,24
-2026-11-14,Liberty,28,Middle Tennessee,23
-2026-11-14,Texas State,37,Fresno State,35
-2026-11-14,Mississippi State,9,Auburn,41
-2026-11-14,Rice,17,Tulane,20
-2026-11-14,Louisiana Tech,63,Southern Miss,31
-2026-11-14,UCF,13,Arizona State,26
-2026-11-14,Michigan State,14,Washington,21
-2026-11-14,Marshall,16,App State,20
-2026-11-15,North Carolina,14,Louisville,16
-2026-11-15,Penn State,42,Minnesota,14
-2026-11-15,Air Force,24,San José State,3
-2026-11-15,South Alabama,27,Troy,14
-2026-11-15,Tulsa,38,Florida Atlantic,21
-2026-11-15,Virginia Tech,22,Stanford,40
-2026-11-15,New Mexico,17,UNLV,21
-2026-11-15,UTSA,35,North Texas,16
-2026-11-15,San Diego State,30,Utah State,13
-2026-11-15,UTEP,15,Wyoming,27
-2026-11-15,Washington State,73,Colorado State,7
-2026-11-15,Hawai'i,13,North Dakota State,21
+Date,Home Team,Home Score,Away Team,Away Score,Neutral Site,ESPN Event ID
+2026-08-29,USC,42,San José State,26,False,401864494
+2026-08-29,TCU,10,North Carolina,15,True,401856766
+2026-08-29,Virginia,34,NC State,8,False,401858202
+2026-08-29,North Dakota State,33,Jacksonville State,7,False,401864577
+2026-08-29,Eastern Michigan,28,Sacramento State,17,False,401866408
+2026-08-29,Stanford,37,Hawai'i,27,False,401858201
+2026-08-29,Florida State,34,New Mexico State,17,False,401864570
+2026-08-30,UNLV,21,Memphis,27,False,401862693
+2026-09-04,Utah,66,Idaho,14,False,401856768
+2026-09-04,Missouri,54,Arkansas-Pine Bluff,14,False,401856663
+2026-09-03,Rutgers,21,Massachusetts,37,False,401858423
+2026-09-03,UCF,73,Bethune-Cookman,6,False,401856767
+2026-09-03,Wake Forest,38,Akron,16,False,401858204
+2026-09-03,Delaware,42,Merrimack,7,False,401864424
+2026-09-03,Kennesaw State,47,West Georgia,0,False,401864425
+2026-09-03,Buffalo,21,UAlbany,17,False,401866409
+2026-09-04,Georgia Tech,13,Colorado,14,False,401856776
+2026-09-04,Minnesota,59,Eastern Illinois,7,False,401858422
+2026-09-04,Illinois,42,UAB,23,False,401858424
+2026-09-05,Stanford,6,Miami,45,False,401858206
+2026-09-05,Oklahoma,51,UTEP,0,False,401856664
+2026-09-05,USC,39,Fresno State,0,False,401858436
+2026-09-04,Eastern Michigan,21,San José State,27,False,401864495
+2026-09-04,Purdue,44,Indiana State,19,False,401858435
+2026-09-04,Georgia State,59,North Carolina A&T,10,False,401866623
+2026-09-05,Kansas,51,Long Island University,6,False,401856769
+2026-09-05,Michigan State,30,Toledo,20,False,401858429
+2026-09-05,Ohio State,56,Ball State,3,False,401858432
+2026-09-05,Oregon,34,Boise State,27,False,401858433
+2026-09-05,Georgia,63,Tennessee State,3,False,401856658
+2026-09-05,Texas,59,Texas State,7,False,401856667
+2026-09-05,Indiana,52,North Texas,16,False,401858425
+2026-09-05,Texas A&M,50,Missouri State,0,False,401856668
+2026-09-06,LSU,51,Clemson,10,False,401856660
+2026-09-05,Texas Tech,33,Abilene Christian,10,False,401856770
+2026-09-05,Alabama,48,East Carolina,10,False,401856634
+2026-09-06,BYU,63,Utah Tech,7,False,401856775
+2026-09-05,Michigan,13,Western Michigan,12,False,401858428
+2026-09-05,Penn State,45,Marshall,0,False,401858434
+2026-09-05,Tennessee,56,Furman,9,False,401856666
+2026-09-05,Iowa,40,Northern Illinois,0,False,401858426
+2026-09-05,Houston,33,Oregon State,20,False,401856778
+2026-09-05,West Virginia,31,Coastal Carolina,24,False,401856780
+2026-09-05,Syracuse,66,New Hampshire,3,False,401858208
+2026-09-05,Nebraska,49,Ohio,21,False,401858430
+2026-09-05,UConn,56,Lafayette,7,False,401861962
+2026-09-05,Army,59,Bryant,3,False,401862701
+2026-09-05,Bowling Green,13,Tarleton State,20,False,401866410
+2026-09-05,James Madison,20,Liberty,13,False,401869960
+2026-09-05,Pittsburgh,59,Miami (OH),14,False,401858207
+2026-09-05,South Carolina,57,Kent State,0,False,401856665
+2026-09-05,Kentucky,45,Youngstown State,13,False,401856659
+2026-09-05,Iowa State,38,Southeast Missouri State,10,False,401856779
+2026-09-05,Air Force,34,Duquesne,0,False,401864496
+2026-09-05,Temple,38,Rhode Island,14,False,401862698
+2026-09-05,Auburn,17,Baylor,16,True,401856636
+2026-09-05,Cincinnati,34,Boston College,15,False,401856777
+2026-09-05,Duke,17,Tulane,3,False,401858209
+2026-09-05,Charlotte,41,The Citadel,43,False,401862694
+2026-09-05,Navy,42,Towson,15,False,401862696
+2026-09-05,UTSA,45,UT Rio Grande Valley,16,False,401862700
+2026-09-05,North Dakota State,38,Fordham,0,False,401864499
+2026-09-05,App State,55,Maine,3,False,401866627
+2026-09-05,Tulsa,24,Oklahoma State,10,False,401856772
+2026-09-05,Arkansas,31,North Alabama,14,False,401856635
+2026-09-05,Southern Miss,49,Alcorn State,3,False,401868356
+2026-09-05,Colorado State,35,Wyoming,13,False,401860878
+2026-09-05,Old Dominion,31,Norfolk State,10,False,401867973
+2026-09-05,Vanderbilt,28,Austin Peay,9,False,401856669
+2026-09-05,Kansas State,71,Nicholls,3,False,401856771
+2026-09-05,Utah State,17,Idaho State,29,False,401860880
+2026-09-05,Memphis,42,Arkansas State,24,False,401862695
+2026-09-05,Rice,31,Houston Christian,3,False,401862697
+2026-09-05,South Florida,19,Florida International,9,False,401862699
+2026-09-05,Jacksonville State,49,Eastern Kentucky,7,False,401868140
+2026-09-05,Georgia Southern,31,Charleston Southern,0,False,401868170
+2026-09-05,South Alabama,39,SE Louisiana,14,False,401868316
+2026-09-05,Troy,24,Sam Houston,21,False,401870763
+2026-09-05,Mississippi State,62,UL Monroe,13,False,401856662
+2026-09-05,Virginia Tech,73,VMI,3,False,401858211
+2026-09-05,Louisiana Tech,80,Northwestern State,6,False,401869129
+2026-09-05,Florida,66,Florida Atlantic,21,False,401856637
+2026-09-05,Middle Tennessee,38,Murray State,14,False,401867866
+2026-09-06,Maryland,62,Hampton,0,False,401858427
+2026-09-06,Northwestern,34,South Dakota State,18,False,401858431
+2026-09-06,Louisiana,38,Lamar,7,False,401869142
+2026-09-06,New Mexico State,51,Mercyhurst,14,False,401870790
+2026-09-06,Arizona,35,Northern Arizona,7,False,401856773
+2026-09-06,San Diego State,53,Portland State,20,False,401860879
+2026-09-06,Arizona State,70,Morgan State,7,False,401856774
+2026-09-06,Hawai'i,6,UNLV,21,False,401864497
+2026-09-06,New Mexico,38,Central Michigan,7,False,401864498
+2026-09-06,Sacramento State,52,Mississippi Valley State,0,False,401866411
+2026-09-06,California,24,UCLA,45,False,401858210
+2026-09-06,Nevada,49,Western Kentucky,14,False,401864432
+2026-09-06,Notre Dame,41,Wisconsin,13,True,401858438
+2026-09-06,Ole Miss,41,Louisville,38,True,401856661
+2026-09-06,Washington,24,Washington State,10,False,401858437
+2026-09-07,Florida State,24,SMU,27,False,401858212
+2026-08-27,Towson,18,Maine,21,False,401866532
+2026-08-27,Delaware State,41,Stony Brook,34,False,401866615
+2026-08-27,Youngstown State,43,Mercyhurst,10,False,401867894
+2026-08-27,Morehead State,40,Ohio Dominican,42,False,401896383
+2026-08-27,Elon,42,Glenville State,7,False,401866614
+2026-08-27,Murray State,14,Eastern Illinois,28,False,401867865
+2026-08-27,Austin Peay,35,Gardner-Webb,17,False,401868060
+2026-08-27,Lindenwood,20,Charleston Southern,17,False,401868169
+2026-08-27,Western Illinois,65,Northwestern (IA),14,False,401868204
+2026-08-27,West Georgia,10,Chattanooga,24,False,401868240
+2026-08-27,Presbyterian,47,UVA Wise,37,False,401868273
+2026-08-27,St. Thomas,15,Winona State,9,False,401868279
+2026-08-27,SE Louisiana,28,Houston Christian,34,False,401868315
+2026-08-27,Furman,20,Anderson (SC),3,False,401868373
+2026-08-27,Nicholls,44,Mississippi Valley State,10,False,401868962
+2026-08-27,West Florida,34,Southern Illinois,31,False,401874035
+2026-08-27,Davidson,35,Concord,41,False,401896384
+2026-08-27,UT Martin,24,Central Arkansas,36,False,401868070
+2026-08-27,Drake,35,South Dakota Mines,38,False,401868254
+2026-08-28,North Dakota,42,Long Island University,21,False,401867874
+2026-08-28,Northwestern State,37,Louisiana Christian,42,False,401869128
+2026-08-28,Merrimack,7,Rhode Island,34,False,401866617
+2026-08-28,Fordham,14,Colgate,24,False,401868007
+2026-08-28,Villanova,32,William & Mary,35,False,401868040
+2026-08-28,New Haven,22,Marist,21,False,401868261
+2026-08-28,UAlbany,28,New Hampshire,14,False,401866616
+2026-08-29,Northern Colorado,29,Weber State,30,False,401868129
+2026-08-29,Cal Poly,38,Idaho,34,False,401868073
+2026-08-29,Wagner,7,Robert Morris,28,False,401867916
+2026-08-29,Dayton,43,Fairmont State,20,False,401868792
+2026-08-29,Butler,27,Georgetown (KY),23,False,401868209
+2026-08-29,Chicago State,28,Roosevelt,44,False,401869156
+2026-08-29,South Dakota,59,Central Connecticut,20,False,401867882
+2026-08-29,Valparaiso,59,Lawrence Tech,13,False,401868288
+2026-08-29,Portland State,24,UC Davis,31,False,401868154
+2026-08-29,Southern,17,Alabama State,30,True,401868324
+2026-08-29,Holy Cross,10,Lehigh,35,False,401868022
+2026-08-29,Northern Arizona,34,Eastern Washington,27,False,401868084
+2026-08-29,East Tennessee State,37,Campbell,49,False,401866620
+2026-08-29,Hampton,45,Virginia Lynchburg,0,False,401866613
+2026-08-29,North Carolina A&T,7,Morgan State,17,False,401866618
+2026-08-29,Stonehill,6,Bryant,24,False,401866619
+2026-08-29,Indiana State,21,Southeast Missouri State,23,False,401867855
+2026-08-29,Norfolk State,56,Winston-Salem State,0,False,401867972
+2026-08-29,South Carolina State,87,Savannah State,0,False,401867982
+2026-08-29,Richmond,35,Bucknell,14,False,401867988
+2026-08-29,Idaho State,38,VMI,10,False,401868101
+2026-08-29,Wofford,42,The Citadel,14,False,401868394
+2026-08-29,Tennessee Tech,38,Monmouth,14,False,401866621
+2026-08-29,Texas Southern,42,North Carolina Central,30,False,401867977
+2026-08-29,Lamar,21,Abilene Christian,14,False,401868049
+2026-08-29,Western Carolina,45,Eastern Kentucky,21,False,401868139
+2026-08-29,North Alabama,22,Samford,10,True,401868149
+2026-08-29,McNeese,27,Stephen F. Austin,38,False,401868305
+2026-08-29,Arkansas-Pine Bluff,35,Morehouse,15,True,401868934
+2026-08-29,Florida A&M,20,Albany State,7,False,401868948
+2026-08-29,Grambling,49,Clark Atlanta,7,False,401868952
+2026-08-29,South Dakota State,70,Stetson,7,False,401872615
+2026-08-29,Mercer,23,East Texas A&M,15,False,401874042
+2026-08-29,Illinois State,76,St. Francis (IL),0,False,401891332
+2026-08-29,Alcorn State,56,Miles,7,False,401896385
+2026-08-29,Incarnate Word,76,Oklahoma Panhandle,14,False,401913104
+2026-08-29,Alabama A&M,24,Howard,31,True,401867935
+2026-08-30,UT Rio Grande Valley,44,UT Permian Basin,0,False,401868245
+2026-08-30,Tennessee State,24,Jackson State,26,False,401868194
+2026-08-30,Montana,28,Southern Utah,21,False,401868110
+2026-08-30,Tarleton State,49,Prairie View A&M,30,False,401868235
+2026-08-30,Utah Tech,0,Montana State,54,False,401868118
+2026-09-03,Morehead State,75,Kentucky Christian,24,False,401868269
+2026-09-03,Stony Brook,36,Lindenwood,32,False,401866622
+2026-09-03,Samford,18,Southern Illinois,22,False,401867889
+2026-09-04,Marist,27,Franklin Pierce,18,False,401868262
+2026-09-05,Stetson,45,Webber International,10,False,401868284
+2026-09-05,New Haven,3,Stonehill,21,False,401867924
+2026-09-05,Wagner,31,Southern Connecticut State,7,False,401867928
+2026-09-05,Georgetown,14,Lehigh,45,False,401868017
+2026-09-05,Colgate,35,Holy Cross,10,False,401868000
+2026-09-05,Wofford,17,Gardner-Webb,13,False,401868186
+2026-09-05,Monmouth,31,Sacred Heart,24,False,401866624
+2026-09-05,Montana,45,Drake,10,False,401868111
+2026-09-05,North Dakota,62,St. Thomas,26,False,401867875
+2026-09-05,East Tennessee State,48,Tusculum,14,False,401868345
+2026-09-05,Davidson,0,Elon,38,False,401866626
+2026-09-05,William & Mary,22,Delaware State,15,False,401867692
+2026-09-05,Robert Morris,29,West Virginia State,9,False,401867917
+2026-09-05,North Carolina Central,27,Elizabeth City State,6,False,401867978
+2026-09-05,Bucknell,16,Villanova,17,False,401867989
+2026-09-05,Mercer,62,Presbyterian,3,False,401868274
+2026-09-05,Alabama State,34,Lane College,0,False,401868325
+2026-09-05,Chattanooga,9,Tennessee Tech,24,False,401868336
+2026-09-05,Howard,21,Richmond,28,False,401869127
+2026-09-05,UT Martin,42,Chicago State,7,False,401867684
+2026-09-05,Central Arkansas,14,West Florida,42,False,401868071
+2026-09-05,Eastern Washington,34,Northern Iowa,24,False,401868085
+2026-09-05,Alabama A&M,38,Miles,23,False,401868297
+2026-09-05,Grambling,48,Central State,26,False,401868953
+2026-09-05,McNeese,52,Texas Wesleyan,0,False,401869136
+2026-09-05,Jackson State,66,Edward Waters,14,False,401868958
+2026-09-06,Western Illinois,10,Illinois State,41,False,401867845
+2026-09-06,Northern Colorado,23,South Dakota,38,False,401867883
+2026-09-06,Cal Poly,24,Central Washington,17,False,401868074
+2026-09-06,Southern Utah,47,Weber State,42,False,401868158
+2026-09-06,Stephen F. Austin,44,East Texas A&M,7,False,401868306
+2026-09-06,Southern,34,Kentucky State,15,False,401868970
+2026-09-06,Montana State,51,Butler,24,False,401868119
+2026-09-06,San Diego,17,UC Davis,49,False,401868163
+2026-09-06,Campbell,28,Western Carolina,19,False,401917058
+2026-09-06,Prairie View A&M,52,Texas Southern,14,False,401868967
+2026-09-06,Florida A&M,13,South Carolina State,31,True,401867939
+2026-09-11,Miami,77,Florida A&M,7,False,401858213
+2026-09-12,Kansas,21,Missouri,38,False,401856678
+2026-09-11,Louisville,59,Villanova,13,False,401858215
+2026-09-11,Virginia,59,Norfolk State,3,False,401858220
+2026-09-11,NC State,73,Richmond,0,False,401858222
+2026-09-11,Boston College,28,Rutgers,21,False,401858214
+2026-09-12,Texas,24,Ohio State,23,False,401856682
+2026-09-12,Georgia,70,Western Kentucky,20,False,401856673
+2026-09-12,Notre Dame,52,Rice,0,False,401859184
+2026-09-12,Indiana,55,Howard,0,False,401858439
+2026-09-12,Oklahoma State,39,Oregon,31,False,401856782
+2026-09-12,LSU,45,Louisiana Tech,14,False,401867796
+2026-09-12,Ole Miss,41,Charlotte,9,False,401856676
+2026-09-12,Texas A&M,48,Arizona State,20,False,401856683
+2026-09-12,Michigan,17,Oklahoma,10,False,401856679
+2026-09-12,Kentucky,17,Alabama,45,False,401856674
+2026-09-12,Oregon State,24,Texas Tech,35,False,401856783
+2026-09-13,USC,49,Louisiana,30,False,401858445
+2026-09-12,BYU,28,Arizona,17,False,401856810
+2026-09-12,Temple,9,Penn State,27,False,401858442
+2026-09-12,SMU,56,UC Davis,10,False,401858223
+2026-09-12,Georgia Tech,24,Tennessee,45,False,401856681
+2026-09-12,Washington,16,Utah State,14,False,401858446
+2026-09-13,Utah,43,Arkansas,10,False,401856670
+2026-09-12,Iowa,16,Iowa State,13,False,401856788
+2026-09-12,Houston,77,Southern,6,False,401856787
+2026-09-12,Kansas State,34,Washington State,7,False,401856781
+2026-09-12,North Carolina,35,East Tennessee State,3,False,401858218
+2026-09-12,Virginia Tech,44,Old Dominion,21,False,401858221
+2026-09-12,Purdue,36,Wake Forest,38,False,401858224
+2026-09-12,Army,24,South Florida,28,False,401862702
+2026-09-12,East Carolina,24,App State,27,False,401864571
+2026-09-12,Kent State,36,Wofford,15,False,401866416
+2026-09-12,James Madison,87,Wagner,3,False,401867929
+2026-09-12,Liberty,24,Gardner-Webb,23,False,401868187
+2026-09-12,West Virginia,52,UT Martin,7,False,401856791
+2026-09-12,Central Michigan,13,Colgate,10,False,401866415
+2026-09-12,Miami (OH),45,Holy Cross,7,False,401866417
+2026-09-12,Ball State,41,Stony Brook,17,False,401866413
+2026-09-12,Minnesota,13,Mississippi State,38,False,401856677
+2026-09-12,Colorado,52,Weber State,21,False,401856785
+2026-09-12,Pittsburgh,12,UCF,7,False,401856790
+2026-09-12,Syracuse,18,California,21,False,401858216
+2026-09-12,Illinois,27,Duke,31,False,401858217
+2026-09-12,Michigan State,35,Eastern Michigan,7,False,401858440
+2026-09-12,UConn,14,Maryland,38,False,401858444
+2026-09-12,Texas State,26,UTSA,31,False,401860884
+2026-09-12,UAB,26,UL Monroe,20,False,401862708
+2026-09-12,Akron,45,Robert Morris,10,False,401866412
+2026-09-12,Toledo,63,Central Connecticut,10,False,401866419
+2026-09-12,Massachusetts,37,Sacred Heart,10,False,401866420
+2026-09-12,North Texas,44,UNLV,6,False,401862705
+2026-09-12,Wyoming,21,Northern Colorado,13,False,401864506
+2026-09-12,New Mexico,70,Mercyhurst,7,False,401865252
+2026-09-12,Troy,34,Alabama State,17,False,401868326
+2026-09-12,Vanderbilt,35,Delaware,26,False,401856684
+2026-09-12,Florida,52,Campbell,3,False,401856672
+2026-09-12,Boise State,38,Memphis,20,False,401860881
+2026-09-12,Florida International,33,Buffalo,20,False,401866414
+2026-09-12,Ohio,29,Jacksonville State,27,False,401866418
+2026-09-12,Western Michigan,49,Monmouth,14,False,401866421
+2026-09-12,South Carolina,45,Towson,9,False,401856680
+2026-09-12,Cincinnati,62,Western Carolina,10,False,401856786
+2026-09-12,Nebraska,56,Bowling Green,7,False,401858441
+2026-09-12,Colorado State,58,Southern Utah,24,False,401860882
+2026-09-12,Sam Houston,17,Tulsa,23,False,401862707
+2026-09-12,Northern Illinois,24,Illinois State,28,False,401864503
+2026-09-12,Tulane,28,South Alabama,24,False,401864575
+2026-09-12,Arkansas State,52,West Georgia,7,False,401868241
+2026-09-12,Kennesaw State,17,Georgia State,31,False,401869955
+2026-09-12,Marshall,28,Middle Tennessee,26,False,401871045
+2026-09-12,Missouri State,48,Lindenwood,14,False,401871046
+2026-09-12,UCLA,28,San Diego State,10,False,401858443
+2026-09-12,Wisconsin,36,Western Illinois,9,False,401858447
+2026-09-12,Florida Atlantic,38,Navy,30,False,401862703
+2026-09-12,Coastal Carolina,45,Fordham,7,False,401868008
+2026-09-13,TCU,63,Grambling,7,False,401856789
+2026-09-13,Baylor,44,Prairie View A&M,3,False,401856784
+2026-09-13,Auburn,43,Southern Miss,8,False,401856671
+2026-09-13,San José State,30,Cal Poly,20,False,401864504
+2026-09-13,UTEP,51,Texas Southern,10,False,401864505
+2026-09-13,Clemson,22,Georgia Southern,7,False,401858219
+2026-09-13,Air Force,32,North Dakota State,38,False,401864502
+2026-09-13,Fresno State,49,Sacramento State,3,False,401860883
+2026-09-13,Nevada,7,Montana State,20,False,401864500
+2026-09-13,Hawai'i,29,New Mexico State,19,False,401864578
+2026-09-12,Rhode Island,31,Elon,10,False,401866628
+2026-09-12,Long Island University,13,UAlbany,35,False,401866632
+2026-09-12,North Carolina Central,30,North Carolina A&T,22,False,401866633
+2026-09-12,Dayton,30,Thomas More,7,False,401868227
+2026-09-12,Davidson,28,Dickinson,14,False,401870822
+2026-09-12,Lafayette,13,Marist,9,False,401868028
+2026-09-12,Chicago State,78,Kentucky Christian,7,False,401867685
+2026-09-12,VMI,3,Bucknell,14,False,401867990
+2026-09-12,South Dakota,41,Eastern Washington,23,False,401867884
+2026-09-12,Youngstown State,70,Duquesne,13,False,401867895
+2026-09-12,Lehigh,44,William & Mary,20,False,401868033
+2026-09-12,Northern Iowa,56,Drake,14,False,401868255
+2026-09-12,St. Thomas,56,Northern Michigan,14,False,401868280
+2026-09-12,Delaware State,21,Bowie State,6,False,401867953
+2026-09-12,Montana,35,Utah Tech,14,False,401868112
+2026-09-12,Idaho,17,Lamar,23,False,401868093
+2026-09-12,Mississippi Valley State,31,Lincoln (PA),20,True,401868963
+2026-09-12,Maine,14,Merrimack,23,False,401866630
+2026-09-12,Austin Peay,63,Morehead State,7,False,401868061
+2026-09-12,Northern Arizona,38,Incarnate Word,28,False,401868123
+2026-09-12,Bethune-Cookman,43,Stetson,18,False,401868285
+2026-09-12,Hampton,3,Bryant,31,False,401866629
+2026-09-12,New Hampshire,42,Stonehill,35,False,401866631
+2026-09-12,Morgan State,55,Virginia Lynchburg,0,False,401867966
+2026-09-12,South Carolina State,66,Virginia State,0,False,401867983
+2026-09-12,Idaho State,59,San Diego,17,False,401868102
+2026-09-12,Eastern Kentucky,22,Chattanooga,17,False,401868141
+2026-09-12,The Citadel,20,Charleston Southern,26,False,401868171
+2026-09-12,Butler,52,Franklin,0,False,401868210
+2026-09-12,Mercer,13,Furman,20,False,401868374
+2026-09-12,Eastern Illinois,35,Indiana State,42,False,401867856
+2026-09-12,Murray State,27,Valparaiso,18,False,401867867
+2026-09-12,Southern Illinois,34,Southeast Missouri State,20,False,401867890
+2026-09-12,Central Arkansas,59,Central Oklahoma,20,False,401868072
+2026-09-12,SE Louisiana,30,North Alabama,25,False,401868150
+2026-09-12,Alabama A&M,30,Tennessee State,3,False,401868195
+2026-09-12,Nicholls,31,UT Rio Grande Valley,28,False,401868246
+2026-09-12,Alcorn State,53,Arkansas-Pine Bluff,51,True,401868355
+2026-09-12,Tennessee Tech,45,Samford,19,False,401868386
+2026-09-12,East Texas A&M,38,Northwestern State,14,False,401869130
+2026-09-12,Houston Christian,88,Arkansas Baptist,0,False,401869150
+2026-09-12,South Dakota State,57,New Haven,14,False,401872616
+2026-09-13,Abilene Christian,7,Stephen F. Austin,26,False,401868050
+2026-09-13,McNeese,24,Tarleton State,27,False,401868236
+2026-09-13,Portland State,23,North Dakota,47,False,401867876
+2026-09-17,Pittsburgh,27,Syracuse,13,False,401858225
+2026-09-18,Wake Forest,20,Miami,33,False,401858226
+2026-09-19,Texas Tech,28,Houston,26,False,401856811
+2026-09-19,Oregon,84,Portland State,0,False,401858455
+2026-09-20,Texas,30,UTSA,6,False,401856693
+2026-09-19,Arkansas,17,Georgia,45,False,401856686
+2026-09-19,Notre Dame,27,Michigan State,10,False,401858453
+2026-09-19,Indiana,38,Western Kentucky,0,False,401858449
+2026-09-19,Ohio State,59,Kent State,3,False,401858454
+2026-09-19,Ole Miss,32,LSU,24,False,401856688
+2026-09-19,Texas A&M,21,Kentucky,31,False,401856694
+2026-09-19,Alabama,50,Florida State,36,False,401856685
+2026-09-20,Colorado State,23,BYU,41,False,401856795
+2026-09-19,Rutgers,35,USC,42,False,401858457
+2026-09-19,Penn State,55,Buffalo,13,False,401858456
+2026-09-19,Tennessee,42,Kennesaw State,9,False,401856692
+2026-09-19,Louisville,41,SMU,31,False,401858230
+2026-09-19,Utah,33,Utah State,0,False,401856801
+2026-09-19,Iowa,55,Northern Iowa,0,False,401858471
+2026-09-19,Michigan,52,UTEP,17,False,401858450
+2026-09-19,Missouri,27,Troy,17,False,401856689
+2026-09-19,Oklahoma,14,New Mexico,6,False,401856690
+2026-09-19,Virginia,27,West Virginia,38,True,401856802
+2026-09-19,Delaware,22,Coastal Carolina,14,False,401869940
+2026-09-19,Kansas State,31,Tulane,20,False,401856792
+2026-09-19,Iowa State,55,Bowling Green,7,False,401856798
+2026-09-19,Kansas,17,Arizona State,24,True,401856812
+2026-09-19,Georgia Tech,44,Mercer,11,False,401858228
+2026-09-19,Clemson,28,North Carolina,20,False,401858229
+2026-09-19,Minnesota,41,Akron,7,False,401858451
+2026-09-19,Texas State,49,North Texas,35,False,401860889
+2026-09-19,Wisconsin,54,Eastern Michigan,10,False,401858460
+2026-09-19,Vanderbilt,35,NC State,31,False,401856695
+2026-09-19,Central Michigan,24,Wyoming,10,False,401864508
+2026-09-19,Boston College,22,Maine,16,False,401858227
+2026-09-19,Illinois,48,Southern Illinois,10,False,401858448
+2026-09-19,Toledo,49,Temple,48,False,401862774
+2026-09-19,Cincinnati,35,Miami (OH),31,False,401856797
+2026-09-19,California,49,Wagner,7,False,401858233
+2026-09-19,Washington State,48,Duquesne,7,False,401860890
+2026-09-19,Massachusetts,36,Stonehill,14,False,401866424
+2026-09-19,Duke,35,Stanford,7,False,401858231
+2026-09-19,Liberty,51,Ball State,15,False,401866422
+2026-09-19,Baylor,36,Louisiana Tech,19,False,401867804
+2026-09-19,UL Monroe,35,SE Louisiana,38,False,401868317
+2026-09-19,South Carolina,34,Mississippi State,41,False,401856691
+2026-09-19,Old Dominion,17,East Carolina,20,False,401862710
+2026-09-19,Florida Atlantic,16,Florida International,10,False,401862771
+2026-09-19,Missouri State,24,Marshall,30,False,401871047
+2026-09-19,Auburn,39,Florida,44,False,401856687
+2026-09-19,UCF,44,Georgia State,30,False,401856800
+2026-09-19,Oklahoma State,59,Murray State,0,False,401856803
+2026-09-19,Southern Miss,20,UConn,48,False,401861963
+2026-09-19,Memphis,45,UT Martin,21,False,401862772
+2026-09-19,Rice,21,Western Michigan,28,False,401862773
+2026-09-19,South Florida,59,Delaware State,17,False,401862777
+2026-09-19,Middle Tennessee,27,Nevada,20,False,401864443
+2026-09-19,South Alabama,41,Ohio,36,False,401866423
+2026-09-19,Jacksonville State,31,Georgia Southern,27,False,401869948
+2026-09-19,Sam Houston,59,Nicholls,0,False,401870764
+2026-09-19,Nebraska,34,North Dakota,7,False,401858452
+2026-09-19,Washington,48,Eastern Washington,16,False,401858459
+2026-09-19,Northwestern,41,Colorado,7,False,401856796
+2026-09-19,Maryland,26,Virginia Tech,35,False,401858232
+2026-09-20,TCU,31,Arkansas State,7,False,401856799
+2026-09-20,Tulsa,42,East Texas A&M,0,False,401862775
+2026-09-20,Louisiana,21,UAB,14,False,401862776
+2026-09-20,App State,26,Charlotte,21,False,401864574
+2026-09-20,Boise State,38,South Dakota,24,False,401860885
+2026-09-20,San Diego State,13,James Madison,26,False,401860887
+2026-09-20,Arizona,42,Northern Illinois,17,False,401856793
+2026-09-20,Sacramento State,10,North Dakota State,31,False,401864507
+2026-09-20,UCLA,52,Purdue,38,False,401858458
+2026-09-20,Oregon State,52,Montana,17,False,401860886
+2026-09-20,San José State,10,Fresno State,26,False,401860888
+2026-09-19,New Haven,10,Brown,17,False,401867805
+2026-09-19,Columbia,40,Lafayette,34,False,401867817
+2026-09-19,Lehigh,24,Dartmouth,20,False,401867834
+2026-09-19,Long Island University,16,Villanova,20,False,401867908
+2026-09-19,East Tennessee State,35,West Georgia,27,False,401868242
+2026-09-19,Bryant,21,Princeton,14,False,401866638
+2026-09-19,New Hampshire,7,Harvard,31,False,401866639
+2026-09-19,Butler,47,Chicago State,20,False,401867686
+2026-09-19,Colgate,20,Cornell,7,False,401867826
+2026-09-19,Indiana State,39,Valparaiso,16,False,401867857
+2026-09-19,Davidson,27,VMI,24,False,401868397
+2026-09-19,Mercyhurst,49,Glenville State,20,False,401873620
+2026-09-19,Holy Cross,28,Yale,38,False,401868023
+2026-09-19,St. Thomas,28,Southern Utah,26,False,401868159
+2026-09-19,Stony Brook,56,Rhode Island,24,False,401866634
+2026-09-19,Illinois State,49,Eastern Illinois,13,False,401867846
+2026-09-19,Montana State,35,Central Connecticut,30,False,401867898
+2026-09-19,Bucknell,7,Pennsylvania,20,False,401867991
+2026-09-19,UAlbany,20,Monmouth,28,False,401866635
+2026-09-19,Richmond,24,Georgetown,21,False,401868018
+2026-09-19,Norfolk State,42,Hampton,21,False,401866641
+2026-09-19,Idaho,39,Abilene Christian,41,False,401868051
+2026-09-19,Bethune-Cookman,62,Virginia Lynchburg,3,False,401868942
+2026-09-19,Western Carolina,58,Presbyterian,14,False,401868275
+2026-09-19,Campbell,42,North Carolina A&T,14,False,401866636
+2026-09-19,Elon,24,Sacred Heart,21,False,401866637
+2026-09-19,Towson,26,Morgan State,41,False,401866640
+2026-09-19,Gardner-Webb,44,North Carolina Central,20,False,401867979
+2026-09-19,William & Mary,27,Fordham,52,False,401868009
+2026-09-19,Eastern Kentucky,14,Dayton,17,False,401868142
+2026-09-19,Chattanooga,41,Wofford,7,False,401868337
+2026-09-19,Arkansas-Pine Bluff,41,Central State,35,False,401868935
+2026-09-19,Charleston Southern,65,Point University,0,False,401868172
+2026-09-19,South Dakota State,27,Youngstown State,20,False,401867896
+2026-09-19,West Florida,16,Austin Peay,38,False,401868062
+2026-09-19,Southeast Missouri State,27,Central Arkansas,9,False,401868133
+2026-09-19,North Alabama,38,Alcorn State,20,False,401868151
+2026-09-19,Florida A&M,26,Tennessee State,29,False,401868196
+2026-09-19,Western Illinois,59,Morehead State,2,False,401868205
+2026-09-19,Tarleton State,45,Merrimack,20,False,401868237
+2026-09-19,Alabama A&M,45,Bowie State,3,False,401868298
+2026-09-19,Jackson State,41,Tuskegee,7,False,401868959
+2026-09-19,Mississippi Valley State,6,Delta State,21,False,401868964
+2026-09-19,Southern,50,Louisiana Christian,31,False,401868971
+2026-09-19,Incarnate Word,30,Houston Christian,23,False,401869147
+2026-09-19,Furman,17,South Carolina State,20,False,401867984
+2026-09-20,Cal Poly,35,San Diego,38,False,401868075
+2026-09-20,Utah Tech,23,Northern Arizona,35,False,401868124
+2026-09-20,Northern Colorado,23,Northeastern State,17,False,401868130
+2026-09-20,Weber State,49,Northwestern State,20,False,401868168
+2026-09-20,UT Rio Grande Valley,27,McNeese,10,False,401868247
+2026-09-20,Prairie View A&M,10,Stephen F. Austin,31,False,401868307
+2026-09-20,UC Davis,45,Stetson,7,False,401868164
+2026-09-24,Coastal Carolina,17,Liberty,34,False,401869941
+2026-09-26,Indiana,29,Northwestern,23,False,401858461
+2026-09-25,Temple,17,Army,21,False,401862779
+2026-09-25,Rutgers,58,Howard,7,False,401858468
+2026-09-25,UAB,24,Navy,20,False,401862778
+2026-09-26,California,10,Clemson,24,False,401858234
+2026-09-26,Tennessee,17,Texas,20,False,401856704
+2026-09-26,Georgia,41,Oklahoma,13,False,401856700
+2026-09-26,Purdue,10,Notre Dame,49,False,401858467
+2026-09-26,Florida,52,Ole Miss,28,False,401856699
+2026-09-26,Miami,52,Central Michigan,3,False,401858238
+2026-09-26,Ohio State,42,Illinois,19,False,401858465
+2026-09-26,Alabama,49,South Carolina,18,False,401856696
+2026-09-26,LSU,35,Texas A&M,6,False,401856702
+2026-09-26,Texas Tech,49,Sam Houston,14,False,401856805
+2026-09-26,USC,27,Oregon,41,False,401858469
+2026-09-26,Penn State,20,Wisconsin,24,False,401858466
+2026-09-26,Iowa State,17,Utah,31,False,401856816
+2026-09-26,Louisville,27,Wake Forest,30,False,401858243
+2026-09-26,Michigan,19,Iowa,20,False,401858463
+2026-09-26,Mississippi State,31,Missouri,24,False,401856703
+2026-09-27,SMU,34,Missouri State,24,False,401858241
+2026-09-26,Georgia Southern,28,Houston,42,False,401856806
+2026-09-26,Baylor,23,Colorado,13,False,401856813
+2026-09-26,Pittsburgh,59,Bucknell,0,False,401858236
+2026-09-26,Boston College,14,Virginia Tech,21,False,401858242
+2026-09-26,Toledo,41,San Diego State,16,False,401860893
+2026-09-26,UTSA,59,Colorado State,45,False,401860896
+2026-09-26,Akron,10,UNLV,38,False,401864512
+2026-09-26,Kent State,26,Ball State,13,False,401866425
+2026-09-26,Kentucky,45,South Alabama,21,False,401864576
+2026-09-26,Eastern Michigan,29,Lindenwood,3,False,401866427
+2026-09-26,Maryland,3,UCLA,54,False,401858462
+2026-09-26,Georgia State,35,Northern Illinois,14,False,401864511
+2026-09-26,Florida State,34,Central Arkansas,7,False,401858237
+2026-09-26,Wyoming,27,Hawai'i,10,False,401864510
+2026-09-26,UCF,21,TCU,13,False,401856815
+2026-09-26,Duke,62,William & Mary,7,False,401858244
+2026-09-26,Western Michigan,7,Boise State,32,False,401860897
+2026-09-26,Miami (OH),24,UConn,21,False,401861970
+2026-09-26,New Mexico State,18,New Mexico,42,False,401864579
+2026-09-26,Buffalo,31,Robert Morris,28,False,401866426
+2026-09-26,Ohio,35,Stonehill,7,False,401866428
+2026-09-26,Marshall,36,Gardner-Webb,35,False,401868188
+2026-09-26,East Carolina,42,North Carolina Central,9,False,401862781
+2026-09-26,Auburn,21,Vanderbilt,15,False,401856698
+2026-09-26,Michigan State,13,Nebraska,31,False,401858464
+2026-09-26,Bowling Green,6,South Florida,14,False,401862785
+2026-09-26,Virginia,42,Delaware,3,False,401858239
+2026-09-26,Texas State,63,Incarnate Word,10,False,401860892
+2026-09-26,Florida International,20,Long Island University,3,False,401867909
+2026-09-26,Old Dominion,20,James Madison,46,False,401869961
+2026-09-26,Charlotte,7,Louisiana,34,False,401862780
+2026-09-26,Cincinnati,31,Kansas State,26,False,401856814
+2026-09-26,West Virginia,24,Oklahoma State,41,False,401856881
+2026-09-26,Tulane,24,Southern Miss,21,False,401862784
+2026-09-26,Arkansas State,17,Kennesaw State,14,False,401869931
+2026-09-26,Western Kentucky,52,Mercyhurst,7,False,401870745
+2026-09-26,Jacksonville State,23,Middle Tennessee,13,False,401871048
+2026-09-26,Washington State,24,Arizona,34,False,401856804
+2026-09-26,Utah State,21,Troy,10,False,401860894
+2026-09-26,North Texas,63,Houston Christian,14,False,401862783
+2026-09-26,NC State,41,App State,31,False,401864572
+2026-09-27,Arkansas,34,Tulsa,6,False,401856697
+2026-09-27,UL Monroe,17,Florida Atlantic,45,False,401862782
+2026-09-27,UTEP,7,Oregon State,33,False,401860895
+2026-09-27,Sacramento State,6,Massachusetts,35,False,401866429
+2026-09-27,Fresno State,38,Rice,24,False,401860891
+2026-09-27,Stanford,34,Georgia Tech,27,False,401858240
+2026-09-27,Nevada,33,Air Force,36,False,401864509
+2026-09-27,Washington,24,Minnesota,27,False,401858470
+2026-09-25,Brown,10,Harvard,14,False,401867806
+2026-09-26,Sacred Heart,20,New Hampshire,13,False,401866642
+2026-09-26,Marist,42,Presbyterian,7,False,401868263
+2026-09-26,Duquesne,53,Rio Grande,0,False,401870839
+2026-09-26,Georgetown,17,Columbia,20,False,401867818
+2026-09-26,Lafayette,30,Holy Cross,38,False,401868024
+2026-09-26,Dartmouth,28,Monmouth,31,False,401866647
+2026-09-26,Fordham,16,Stony Brook,31,False,401866648
+2026-09-26,Cornell,38,Yale,25,False,401867827
+2026-09-26,Indiana State,35,North Dakota,42,False,401867858
+2026-09-26,Pennsylvania,7,Lehigh,20,False,401868034
+2026-09-26,Davidson,32,Drake,51,False,401868219
+2026-09-26,Merrimack,17,New Haven,10,False,401872618
+2026-09-26,Wofford,38,Tennessee Tech,42,False,401868390
+2026-09-26,Elon,43,Maine,17,False,401866643
+2026-09-26,Youngstown State,47,South Dakota,28,False,401867885
+2026-09-26,Richmond,13,Furman,9,False,401868037
+2026-09-26,Austin Peay,35,UT Martin,12,False,401868063
+2026-09-26,Valparaiso,28,Butler,33,False,401868211
+2026-09-26,St. Thomas,50,San Diego,17,False,401868281
+2026-09-26,The Citadel,8,Chattanooga,27,False,401868338
+2026-09-26,Villanova,21,Colgate,28,False,401868001
+2026-09-26,Princeton,22,UAlbany,0,False,401866646
+2026-09-26,East Tennessee State,58,Western Carolina,31,False,401868346
+2026-09-26,Samford,45,VMI,7,False,401868387
+2026-09-26,North Carolina A&T,22,Rhode Island,18,False,401866644
+2026-09-26,North Alabama,23,Western Illinois,20,False,401868206
+2026-09-26,Alcorn State,43,Texas Southern,40,False,401868358
+2026-09-26,Nicholls,18,Lamar,49,False,401869143
+2026-09-26,Northern Iowa,28,Illinois State,21,False,401867847
+2026-09-26,Hampton,20,Campbell,44,False,401866645
+2026-09-26,Delaware State,33,Towson,28,False,401866649
+2026-09-26,West Georgia,49,Fort Valley State,7,False,401868243
+2026-09-26,Stephen F. Austin,63,Northeastern State,14,False,401868308
+2026-09-26,Alabama State,41,Mississippi Valley State,15,False,401868327
+2026-09-26,Chicago State,20,Norfolk State,43,False,401867687
+2026-09-26,Murray State,6,Southern Illinois,46,False,401867868
+2026-09-26,Bethune-Cookman,21,South Carolina State,31,False,401867985
+2026-09-26,Eastern Washington,27,Cal Poly,31,False,401868076
+2026-09-26,South Dakota State,42,Eastern Illinois,7,False,401868179
+2026-09-26,Florida A&M,21,Alabama A&M,40,False,401868299
+2026-09-26,Northwestern State,21,SE Louisiana,52,False,401868318
+2026-09-26,Grambling,14,Prairie View A&M,21,True,401868954
+2026-09-26,Jackson State,35,Southern,17,False,401868960
+2026-09-26,McNeese,27,East Texas A&M,24,False,401869137
+2026-09-26,Southeast Missouri State,17,West Florida,20,False,401871472
+2026-09-27,Abilene Christian,17,Mercer,34,False,401868052
+2026-09-27,Southern Utah,24,Idaho State,28,False,401868103
+2026-09-27,Northern Colorado,37,Utah Tech,13,False,401868131
+2026-09-27,Weber State,41,Portland State,44,False,401868155
+2026-09-27,UC Davis,22,Montana,62,False,401868113
+2026-09-27,Montana State,28,Northern Arizona,14,False,401868120
+2026-10-02,New Mexico State,34,Western Kentucky,13,False,401871049
+2026-10-02,Tulsa,44,North Texas,45,False,401862786
+2026-10-02,Virginia Tech,33,Pittsburgh,35,False,401858245
+2026-10-02,Delaware,14,Liberty,30,False,401871050
+2026-10-03,Northwestern,34,Penn State,13,False,401858476
+2026-10-03,Georgia,38,Vanderbilt,14,False,401856705
+2026-10-03,North Carolina,26,Notre Dame,37,False,401858250
+2026-10-03,Clemson,13,Miami,41,False,401858249
+2026-10-03,Iowa,14,Ohio State,31,False,401858473
+2026-10-04,Rutgers,15,Indiana,47,False,401858477
+2026-10-03,Mississippi State,23,Alabama,56,False,401856707
+2026-10-03,Missouri,45,Florida,17,False,401856708
+2026-10-03,TCU,10,BYU,17,False,401856818
+2026-10-03,LSU,63,McNeese,14,False,401856706
+2026-10-03,Colorado,7,Texas Tech,29,False,401856821
+2026-10-03,Tennessee,24,Auburn,14,False,401856710
+2026-10-03,USC,25,Washington,21,False,401858478
+2026-10-03,Houston,27,UCF,17,False,401856819
+2026-10-03,SMU,25,Boston College,16,False,401858246
+2026-10-03,Boise State,37,Utah State,18,False,401860898
+2026-10-03,South Carolina,34,Kentucky,35,False,401856709
+2026-10-03,Charlotte,8,Memphis,59,False,401862787
+2026-10-03,Kansas,55,Middle Tennessee,0,False,401856807
+2026-10-03,Iowa State,45,West Virginia,42,False,401856822
+2026-10-03,Wake Forest,57,Stanford,3,False,401858251
+2026-10-03,UConn,41,Syracuse,42,False,401858252
+2026-10-03,Minnesota,20,Michigan,14,False,401858474
+2026-10-03,Air Force,14,Navy,9,False,401862791
+2026-10-03,Wisconsin,31,Michigan State,3,False,401858479
+2026-10-03,Buffalo,17,Western Michigan,20,False,401866432
+2026-10-03,Ball State,24,Toledo,39,False,401866431
+2026-10-03,UNLV,39,California,31,False,401858247
+2026-10-03,NC State,31,Louisville,28,False,401858248
+2026-10-03,Florida State,38,Virginia,7,False,401858253
+2026-10-03,UAB,33,Samford,14,False,401862793
+2026-10-03,North Dakota State,28,Wyoming,0,False,401864515
+2026-10-03,Central Michigan,41,Akron,17,False,401866430
+2026-10-03,Massachusetts,14,Eastern Michigan,38,False,401866433
+2026-10-03,Kent State,10,Ohio,13,False,401866434
+2026-10-03,Miami (OH),20,Bowling Green,24,False,401866477
+2026-10-03,Georgia State,42,Old Dominion,10,False,401869956
+2026-10-03,James Madison,45,Marshall,17,False,401869962
+2026-10-03,Nebraska,48,Maryland,23,False,401858475
+2026-10-03,New Mexico,61,UTEP,7,False,401864514
+2026-10-03,Illinois,17,Purdue,24,False,401858472
+2026-10-03,Colorado State,26,Oregon State,56,False,401860899
+2026-10-03,Florida Atlantic,66,Texas Southern,10,False,401862790
+2026-10-03,Texas A&M,34,Arkansas,7,False,401856711
+2026-10-03,Rice,14,UTSA,16,False,401862788
+2026-10-03,Coastal Carolina,24,Georgia Southern,31,False,401869942
+2026-10-03,South Alabama,52,UL Monroe,35,False,401871089
+2026-10-03,South Florida,13,Temple,17,False,401862792
+2026-10-03,Louisiana Tech,31,Army,29,False,401869842
+2026-10-04,Louisiana,23,Arkansas State,20,False,401869932
+2026-10-04,Washington State,6,Fresno State,26,False,401860921
+2026-10-04,Arizona State,19,Baylor,55,False,401856817
+2026-10-04,San Diego State,31,Texas State,29,False,401860900
+2026-10-04,Arizona,34,Cincinnati,7,False,401856820
+2026-10-04,Hawai'i,16,San José State,20,False,401864513
+2026-10-03,Idaho,35,Montana State,34,False,401868094
+2026-10-03,Rhode Island,13,Brown,10,False,401866654
+2026-10-03,Columbia,7,Princeton,35,False,401867819
+2026-10-03,Central Connecticut,45,Wagner,14,False,401867899
+2026-10-03,Long Island University,27,Mercyhurst,24,False,401867910
+2026-10-03,Lehigh,34,Fordham,0,False,401868010
+2026-10-03,Presbyterian,55,St. Thomas,21,False,401868276
+2026-10-03,Yale,41,Merrimack,24,False,401870840
+2026-10-03,Georgetown,14,Cornell,35,False,401867828
+2026-10-03,Lafayette,31,Richmond,40,False,401868029
+2026-10-03,New Hampshire,30,Elon,23,False,401866650
+2026-10-03,Monmouth,41,Towson,40,False,401866651
+2026-10-03,Villanova,35,Morgan State,38,False,401867967
+2026-10-03,Drake,30,Dayton,22,False,401868228
+2026-10-03,Stetson,14,Marist,28,False,401868264
+2026-10-03,Morehead State,3,Valparaiso,37,False,401868270
+2026-10-03,Dartmouth,14,Pennsylvania,10,False,401867835
+2026-10-03,VMI,3,Mercer,54,False,401868381
+2026-10-03,North Dakota,55,Murray State,28,False,401867869
+2026-10-03,Robert Morris,33,Norfolk State,31,False,401867918
+2026-10-03,South Carolina State,31,The Citadel,34,False,401867986
+2026-10-03,Furman,25,Wofford,32,False,401868375
+2026-10-03,Hampton,13,Howard,27,True,401866656
+2026-10-03,South Dakota,44,Indiana State,14,False,401867859
+2026-10-03,Grambling,63,Alcorn State,59,False,401868359
+2026-10-03,Mississippi Valley State,28,Prairie View A&M,27,False,401868965
+2026-10-03,Maine,16,Sacred Heart,24,False,401866652
+2026-10-03,UAlbany,28,Delaware State,3,False,401866655
+2026-10-03,William & Mary,14,Holy Cross,41,False,401868025
+2026-10-03,East Tennessee State,14,Chattanooga,3,False,401868339
+2026-10-03,Montana,36,Northern Colorado,14,False,401868114
+2026-10-03,Western Illinois,28,Tennessee State,21,False,401868197
+2026-10-03,San Diego,63,Davidson,14,False,401868220
+2026-10-03,Bethune-Cookman,16,Alabama State,10,False,401868328
+2026-10-03,Southern Illinois,16,Youngstown State,28,False,401867891
+2026-10-03,Austin Peay,42,New Haven,17,False,401868064
+2026-10-03,Jackson State,31,Alabama A&M,28,True,401868295
+2026-10-03,Bryant,31,North Carolina A&T,30,False,401866653
+2026-10-03,North Carolina Central,31,Campbell,38,False,401866657
+2026-10-03,Eastern Kentucky,16,North Alabama,20,False,401868143
+2026-10-03,Charleston Southern,10,Gardner-Webb,12,False,401868173
+2026-10-03,Stephen F. Austin,28,Incarnate Word,26,False,401868309
+2026-10-03,Western Carolina,44,Tennessee Tech,20,False,401868391
+2026-10-03,Tarleton State,56,Chicago State,21,False,401867688
+2026-10-03,Harvard,20,Colgate,17,False,401867840
+2026-10-03,Illinois State,14,South Dakota State,31,False,401867848
+2026-10-03,East Texas A&M,20,UT Rio Grande Valley,17,False,401868248
+2026-10-03,Southern,10,Arkansas-Pine Bluff,41,False,401868936
+2026-10-03,Lamar,42,Northwestern State,14,False,401869131
+2026-10-03,Houston Christian,16,Nicholls,2,False,401869151
+2026-10-04,Abilene Christian,35,West Florida,7,False,401868053
+2026-10-04,Cal Poly,34,Weber State,42,False,401868077
+2026-10-04,Idaho State,31,Northern Arizona,38,False,401868104
+2026-10-04,Utah Tech,33,Southern Utah,46,False,401868160
+2026-10-04,UC Davis,49,Eastern Washington,38,False,401868086
+2026-10-07,Troy,55,Southern Miss,34,False,401871090
+2026-10-07,Kennesaw State,26,Jacksonville State,27,False,401871051
+2026-10-08,Florida International,22,New Mexico State,3,False,401871066
+2026-10-08,Liberty,35,Sam Houston,3,False,401870766
+2026-10-08,Western Kentucky,34,Missouri State,13,False,401871052
+2026-10-08,UTSA,31,South Florida,24,False,401862794
+2026-10-08,Arkansas State,49,South Alabama,56,False,401869933
+2026-10-10,BYU,24,Iowa State,10,False,401856826
+2026-10-10,Washington,24,Iowa,41,False,401858487
+2026-10-09,Louisville,44,Florida State,20,False,401858254
+2026-10-10,Utah State,17,Washington State,16,False,401860922
+2026-10-10,San José State,13,Wyoming,16,False,401864519
+2026-10-10,Oklahoma,27,Texas,24,True,401856717
+2026-10-10,Alabama,17,Georgia,20,False,401856712
+2026-10-10,Notre Dame,58,Stanford,7,False,401858257
+2026-10-10,Ohio State,45,Maryland,16,False,401858483
+2026-10-10,Nebraska,17,Indiana,20,False,401858481
+2026-10-10,Vanderbilt,17,Ole Miss,52,False,401856718
+2026-10-10,Kentucky,35,LSU,34,False,401856715
+2026-10-11,Utah,41,Kansas,24,False,401856827
+2026-10-10,Oregon,15,UCLA,17,False,401858484
+2026-10-10,Missouri,27,Texas A&M,6,False,401856716
+2026-10-10,Arkansas,17,Tennessee,24,False,401856713
+2026-10-10,Florida,19,South Carolina,38,False,401856714
+2026-10-10,Oklahoma State,42,UCF,28,False,401856824
+2026-10-10,Penn State,23,USC,31,False,401858485
+2026-10-10,Kansas State,16,Houston,35,False,401856825
+2026-10-11,Fresno State,31,Boise State,38,False,401860901
+2026-10-10,Pittsburgh,17,North Carolina,21,False,401858256
+2026-10-10,West Virginia,31,Arizona,52,False,401856823
+2026-10-10,NC State,14,Wake Forest,38,False,401858260
+2026-10-10,Army,20,Tulane,17,False,401862795
+2026-10-10,Bowling Green,38,Sacramento State,10,False,401866436
+2026-10-10,Northwestern,45,Ball State,14,False,401858482
+2026-10-10,East Carolina,28,Rice,12,False,401862797
+2026-10-10,App State,3,Old Dominion,10,False,401869843
+2026-10-10,Massachusetts,19,Miami (OH),20,False,401866440
+2026-10-10,Georgia Tech,28,Duke,25,False,401858255
+2026-10-10,California,25,Virginia Tech,20,False,401858259
+2026-10-10,Michigan State,37,Illinois,38,False,401858480
+2026-10-10,North Texas,50,Charlotte,10,False,401862796
+2026-10-10,Navy,34,Tulsa,26,False,401862799
+2026-10-10,Akron,23,Eastern Michigan,25,False,401866435
+2026-10-10,Toledo,8,Buffalo,23,False,401866437
+2026-10-10,Ohio,31,Central Michigan,14,False,401866438
+2026-10-10,Western Michigan,38,Kent State,7,False,401866439
+2026-10-10,Temple,20,UConn,34,False,401861964
+2026-10-10,Oregon State,66,San Diego State,14,False,401860902
+2026-10-10,Memphis,38,UAB,13,False,401862798
+2026-10-10,UTEP,13,Nevada,30,False,401864517
+2026-10-10,UNLV,13,North Dakota State,7,False,401864518
+2026-10-10,Marshall,21,Coastal Carolina,27,False,401869943
+2026-10-10,Virginia,28,Syracuse,25,False,401858258
+2026-10-10,Northern Illinois,7,Air Force,28,False,401864516
+2026-10-10,Louisiana Tech,32,Louisiana,31,False,401869965
+2026-10-11,Purdue,41,Minnesota,13,False,401858486
+2026-10-11,Georgia Southern,24,James Madison,27,False,401869949
+2026-10-11,Arizona State,30,Hawai'i,12,False,401856808
+2026-10-09,Alabama State,27,Florida A&M,28,False,401868329
+2026-10-09,Marist,28,Columbia,41,False,401868265
+2026-10-10,North Carolina A&T,30,New Hampshire,27,False,401866658
+2026-10-10,Sacred Heart,7,Stonehill,28,False,401866660
+2026-10-10,Brown,28,Bryant,13,False,401866662
+2026-10-10,Yale,28,Dartmouth,7,False,401867836
+2026-10-10,Morgan State,28,Robert Morris,27,False,401867919
+2026-10-10,Wagner,13,Princeton,28,False,401867930
+2026-10-10,Presbyterian,38,Davidson,21,False,401868221
+2026-10-10,Dayton,56,Morehead State,28,False,401868229
+2026-10-10,The Citadel,16,East Tennessee State,34,False,401868347
+2026-10-10,Georgetown,21,Bucknell,14,False,401867992
+2026-10-10,Cornell,29,Harvard,41,False,401867829
+2026-10-10,Indiana State,24,Youngstown State,57,False,401867860
+2026-10-10,Central Connecticut,51,American International,14,False,401867907
+2026-10-10,Duquesne,14,Long Island University,17,False,401867911
+2026-10-10,Delaware State,34,Franklin Pierce,0,False,401867954
+2026-10-10,Pennsylvania,24,Howard,20,False,401867960
+2026-10-10,North Carolina Central,14,William & Mary,17,False,401867980
+2026-10-10,Charleston Southern,49,South Carolina State,39,False,401867987
+2026-10-10,Butler,41,San Diego,10,False,401868212
+2026-10-10,Alabama A&M,55,Bethune-Cookman,17,False,401868300
+2026-10-10,Chattanooga,19,Samford,3,False,401868340
+2026-10-10,Elon,0,Wofford,16,False,401866661
+2026-10-10,South Dakota,31,Southern Illinois,10,False,401867886
+2026-10-10,Norfolk State,62,Virginia Lynchburg,0,False,401867974
+2026-10-10,Valparaiso,21,Drake,13,False,401868256
+2026-10-10,St. Thomas,64,Stetson,21,False,401868282
+2026-10-10,Lindenwood,27,Southeast Missouri State,38,False,401871473
+2026-10-10,Weber State,38,Idaho,27,False,401868095
+2026-10-10,Alcorn State,63,Arkansas Baptist,7,False,401868360
+2026-10-10,Mercer,17,Western Carolina,14,False,401868382
+2026-10-10,Texas Southern,34,Mississippi Valley State,38,False,401868966
+2026-10-10,Fordham,20,Richmond,14,False,401868011
+2026-10-10,Gardner-Webb,7,Eastern Illinois,21,False,401868180
+2026-10-10,Tennessee State,28,UT Martin,42,False,401868198
+2026-10-10,Tennessee Tech,20,Furman,15,False,401868376
+2026-10-10,Towson,24,Stony Brook,31,False,401866659
+2026-10-10,Portland State,30,Utah Tech,14,False,401868156
+2026-10-10,Prairie View A&M,14,Southern,28,False,401868968
+2026-10-10,Lamar,38,Incarnate Word,35,False,401869144
+2026-10-10,Northern Iowa,24,North Dakota,17,False,401867877
+2026-10-10,Northern Arizona,49,Montana,44,False,401868115
+2026-10-10,Grambling,45,Jackson State,38,False,401868955
+2026-10-10,Idaho State,24,Cal Poly,25,False,401868078
+2026-10-10,Eastern Kentucky,30,West Georgia,20,False,401868144
+2026-10-10,Austin Peay,32,Tarleton State,40,False,401868065
+2026-10-10,Eastern Washington,31,Northern Colorado,22,False,401868087
+2026-10-11,Abilene Christian,20,Central Arkansas,14,False,401868054
+2026-10-11,UT Rio Grande Valley,13,SE Louisiana,3,False,401868249
+2026-10-13,Middle Tennessee,33,Delaware,30,False,401871067
+2026-10-14,Jacksonville State,27,Florida International,24,False,401871053
+2026-10-14,Missouri State,24,Kennesaw State,21,False,401871054
+2026-10-15,Sam Houston,3,Western Kentucky,16,False,401871068
+2026-10-15,UAB,30,East Carolina,17,False,401862800
+2026-10-15,Old Dominion,15,Georgia Southern,23,False,401869950
+2026-10-16,Texas State,66,Colorado State,27,False,401860923
+2026-10-16,Tulane,31,Memphis,17,False,401862801
+2026-10-17,Purdue,26,Washington,38,False,401858493
+2026-10-17,Coastal Carolina,32,App State,35,False,401869844
+2026-10-17,Georgia,24,Auburn,27,False,401856719
+2026-10-17,BYU,28,Notre Dame,24,False,401856809
+2026-10-17,Miami,43,Florida State,35,False,401858263
+2026-10-17,Indiana,15,Ohio State,19,False,401858488
+2026-10-17,Tennessee,26,Alabama,10,False,401856723
+2026-10-17,Texas,24,Florida,27,False,401856724
+2026-10-17,Ole Miss,31,Missouri,3,False,401856721
+2026-10-17,Texas Tech,53,Arizona State,25,False,401856828
+2026-10-18,Colorado,24,Utah,27,False,401856833
+2026-10-17,UCLA,17,Wisconsin,7,False,401858494
+2026-10-17,Oklahoma,13,Kentucky,21,False,401856722
+2026-10-17,LSU,31,Mississippi State,0,False,401856720
+2026-10-17,Houston,35,Oklahoma State,32,False,401856831
+2026-10-18,California,7,Wake Forest,41,False,401858269
+2026-10-17,SMU,23,Virginia,13,False,401858268
+2026-10-17,Michigan State,21,Northwestern,24,False,401858491
+2026-10-17,West Virginia,45,Cincinnati,42,False,401856829
+2026-10-17,Kansas State,35,Kansas,24,False,401856830
+2026-10-17,Clemson,37,Charleston Southern,0,False,401858261
+2026-10-17,Boston College,27,Pittsburgh,21,False,401858267
+2026-10-17,Army,56,Florida Atlantic,24,False,401862802
+2026-10-17,Bowling Green,31,Ball State,32,False,401866441
+2026-10-17,James Madison,49,Georgia State,22,False,401869957
+2026-10-17,Maryland,30,Rutgers,37,False,401858489
+2026-10-17,Texas A&M,41,The Citadel,0,False,401856725
+2026-10-17,Temple,31,Charlotte,38,False,401862803
+2026-10-17,Buffalo,25,Massachusetts,18,False,401866442
+2026-10-17,Central Michigan,14,Western Michigan,21,False,401866443
+2026-10-17,Virginia Tech,34,Georgia Tech,24,False,401858264
+2026-10-17,Duke,20,North Carolina,24,False,401858266
+2026-10-17,Michigan,21,Penn State,18,False,401858490
+2026-10-17,Wyoming,41,Northern Illinois,23,False,401864522
+2026-10-17,Air Force,41,UNLV,31,False,401864524
+2026-10-17,Eastern Michigan,14,Toledo,34,False,401866444
+2026-10-17,Miami (OH),34,Akron,14,False,401866478
+2026-10-17,Rice,17,Tulsa,38,False,401862805
+2026-10-17,Louisiana,33,Troy,6,False,401869966
+2026-10-17,Oregon State,48,Washington State,30,False,401860903
+2026-10-17,Vanderbilt,21,Arkansas,31,False,401856726
+2026-10-17,Baylor,6,TCU,17,False,401856832
+2026-10-17,South Florida,29,Kent State,2,False,401862806
+2026-10-17,North Dakota State,31,Nevada,17,False,401864520
+2026-10-17,Southern Miss,13,Arkansas State,23,False,401869934
+2026-10-17,Stanford,34,Elon,7,False,401858262
+2026-10-17,Syracuse,26,Louisville,34,False,401858265
+2026-10-18,UTSA,38,Navy,34,False,401862804
+2026-10-18,UL Monroe,0,Louisiana Tech,24,False,401871091
+2026-10-18,UTEP,11,San José State,24,False,401864523
+2026-10-18,Sacramento State,7,Ohio,48,False,401866445
+2026-10-18,San Diego State,26,Fresno State,23,False,401860904
+2026-10-18,Hawai'i,10,New Mexico,21,False,401864521
+2026-10-18,Oregon,17,Nebraska,14,False,401858492
+2026-10-17,Pennsylvania,27,Columbia,28,False,401867821
+2026-10-17,Sacred Heart,35,Hampton,21,False,401866663
+2026-10-17,North Carolina A&T,27,Chicago State,12,False,401866668
+2026-10-17,Yale,23,Rhode Island,41,False,401866669
+2026-10-17,Princeton,16,Brown,10,False,401867807
+2026-10-17,Mercyhurst,40,Central Connecticut,43,False,401867901
+2026-10-17,Robert Morris,15,New Haven,26,False,401867920
+2026-10-17,Stonehill,7,Duquesne,14,False,401867925
+2026-10-17,Maine,14,Bryant,17,False,401866664
+2026-10-17,New Hampshire,21,Monmouth,42,False,401866665
+2026-10-17,Dartmouth,27,Merrimack,21,False,401867837
+2026-10-17,Harvard,30,Holy Cross,7,False,401867841
+2026-10-17,Colgate,17,Georgetown,27,False,401868002
+2026-10-17,Butler,9,Dayton,19,False,401868213
+2026-10-17,Davidson,34,Morehead State,31,False,401868222
+2026-10-17,Drake,22,Marist,27,False,401868257
+2026-10-17,Northwestern State,21,McNeese,24,False,401869132
+2026-10-17,Wofford,41,VMI,14,False,401868398
+2026-10-17,Cornell,48,Lehigh,38,False,401867830
+2026-10-17,North Dakota,21,South Dakota State,10,False,401867878
+2026-10-17,West Georgia,10,Austin Peay,24,False,401868066
+2026-10-17,Stetson,43,Presbyterian,47,False,401868277
+2026-10-17,West Florida,37,West Alabama,3,False,401874037
+2026-10-17,Stony Brook,31,UAlbany,48,False,401866666
+2026-10-17,Tennessee Tech,49,Eastern Kentucky,20,False,401868145
+2026-10-17,Bucknell,7,Lafayette,20,False,401867993
+2026-10-17,Montana,35,Idaho,42,False,401868096
+2026-10-17,Weber State,27,Idaho State,20,False,401868105
+2026-10-17,Eastern Illinois,13,Lindenwood,20,False,401868181
+2026-10-17,UT Martin,17,Gardner-Webb,6,False,401868189
+2026-10-17,Southeast Missouri State,40,Western Illinois,30,False,401868207
+2026-10-17,Alabama A&M,61,Grambling,31,False,401868301
+2026-10-17,Arkansas-Pine Bluff,15,Alabama State,21,False,401868330
+2026-10-17,Prairie View A&M,41,Alcorn State,38,False,401868361
+2026-10-17,Mississippi Valley State,14,Bethune-Cookman,34,False,401868943
+2026-10-17,Jackson State,27,Florida A&M,17,False,401868949
+2026-10-17,Campbell,24,Towson,20,False,401866667
+2026-10-17,Howard,31,Morehouse,17,False,401867961
+2026-10-17,Fordham,17,Villanova,38,False,401868012
+2026-10-17,Southern Illinois,14,Illinois State,35,False,401867849
+2026-10-17,San Diego,38,Valparaiso,13,False,401868289
+2026-10-17,Nicholls,0,Stephen F. Austin,56,False,401868310
+2026-10-17,Murray State,20,South Dakota,48,False,401867870
+2026-10-17,Wagner,9,Long Island University,14,False,401867912
+2026-10-17,SE Louisiana,34,Lamar,31,False,401868319
+2026-10-17,Youngstown State,35,Northern Iowa,22,False,401867897
+2026-10-17,Tennessee State,25,Morgan State,16,False,401867968
+2026-10-17,North Alabama,28,Abilene Christian,31,False,401868055
+2026-10-17,Eastern Washington,20,Montana State,56,False,401868088
+2026-10-17,Northern Arizona,38,Portland State,25,False,401868125
+2026-10-17,Tarleton State,49,Central Arkansas,35,False,401868134
+2026-10-17,Incarnate Word,41,UT Rio Grande Valley,16,False,401868250
+2026-10-17,Samford,21,Mercer,31,False,401868383
+2026-10-17,Houston Christian,43,East Texas A&M,24,False,401869152
+2026-10-18,Northern Colorado,28,Cal Poly,18,False,401868079
+2026-10-18,Southern Utah,38,UC Davis,17,False,401868161
+2026-10-20,Florida International,23,Middle Tennessee,26,False,401871055
+2026-10-20,Delaware,61,Missouri State,38,False,401871069
+2026-10-20,Marshall,20,South Alabama,13,False,401871092
+2026-10-22,Sam Houston,24,New Mexico State,30,False,401871070
+2026-10-22,App State,34,James Madison,31,False,401869845
+2026-10-22,Kennesaw State,6,Liberty,34,False,401871056
+2026-10-22,Memphis,41,East Carolina,34,False,401862807
+2026-10-23,Virginia,16,Duke,19,False,401858271
+2026-10-23,UConn,35,Massachusetts,16,False,401861965
+2026-10-24,Tulsa,35,Army,38,False,401862808
+2026-10-24,Wyoming,28,Air Force,14,False,401864525
+2026-10-24,Stanford,31,NC State,28,False,401858272
+2026-10-24,Miami,52,Pittsburgh,23,False,401858274
+2026-10-24,UCF,39,BYU,31,False,401856835
+2026-10-24,Michigan,6,Indiana,13,False,401858496
+2026-10-24,Texas,34,Ole Miss,27,False,401856732
+2026-10-24,Cincinnati,37,Texas Tech,24,False,401856840
+2026-10-24,UCLA,28,Michigan State,10,False,401858499
+2026-10-25,Utah,21,Houston,13,False,401856837
+2026-10-24,South Carolina,27,Tennessee,24,False,401856731
+2026-10-24,Kentucky,34,Vanderbilt,17,False,401856729
+2026-10-24,Alabama,31,Texas A&M,20,False,401856727
+2026-10-24,Minnesota,13,Iowa,10,False,401858497
+2026-10-24,Wisconsin,24,USC,7,False,401858500
+2026-10-24,Auburn,17,LSU,38,False,401856728
+2026-10-24,Washington State,10,Boise State,31,False,401860907
+2026-10-24,SMU,59,California,20,False,401858270
+2026-10-24,Northwestern,42,Rutgers,14,False,401858498
+2026-10-24,Arizona,39,Iowa State,3,False,401856838
+2026-10-24,TCU,20,West Virginia,24,False,401856841
+2026-10-24,Florida Atlantic,51,Rice,49,False,401862809
+2026-10-24,Toledo,45,Western Michigan,38,False,401866450
+2026-10-24,Kansas,25,Baylor,24,False,401856834
+2026-10-24,Kent State,35,Akron,20,False,401866446
+2026-10-24,Central Michigan,27,Miami (OH),28,False,401866476
+2026-10-24,Illinois,21,Oregon,10,False,401858495
+2026-10-24,Mississippi State,15,Oklahoma,23,False,401856730
+2026-10-24,Georgia Tech,27,Boston College,49,False,401858273
+2026-10-24,Navy,39,North Texas,49,False,401862810
+2026-10-24,Northern Illinois,21,Hawai'i,56,False,401864526
+2026-10-24,Ball State,34,Sacramento State,17,False,401866447
+2026-10-24,Buffalo,31,Bowling Green,24,False,401866448
+2026-10-24,Arizona State,28,Kansas State,17,False,401856839
+2026-10-24,Ohio,24,Eastern Michigan,20,False,401866449
+2026-10-24,Troy,14,UL Monroe,21,False,401871094
+2026-10-24,Nevada,28,San José State,13,False,401864528
+2026-10-24,Southern Miss,35,Louisiana,31,False,401869967
+2026-10-24,Louisiana Tech,26,Old Dominion,0,False,401871093
+2026-10-24,Colorado State,56,San Diego State,49,False,401860905
+2026-10-24,Oklahoma State,57,Colorado,24,False,401856836
+2026-10-24,Clemson,16,Virginia Tech,20,False,401858276
+2026-10-24,Arkansas State,38,Georgia State,32,False,401869935
+2026-10-24,North Carolina,30,Syracuse,31,False,401858275
+2026-10-24,Texas State,20,Utah State,17,False,401860906
+2026-10-25,Tulane,19,UTSA,42,False,401862811
+2026-10-25,New Mexico,21,North Dakota State,16,False,401864527
+2026-10-23,Delaware State,12,North Carolina Central,31,False,401867955
+2026-10-23,Pennsylvania,24,Yale,21,False,401870841
+2026-10-24,Rhode Island,21,UAlbany,38,False,401866670
+2026-10-24,Merrimack,24,New Hampshire,17,False,401866674
+2026-10-24,Brown,38,Cornell,31,False,401867808
+2026-10-24,Central Connecticut,42,New Haven,20,False,401867902
+2026-10-24,Long Island University,14,Stonehill,18,False,401867913
+2026-10-24,Duquesne,52,Wagner,21,False,401867931
+2026-10-24,Dayton,37,San Diego,32,False,401868230
+2026-10-24,Marist,13,St. Thomas,35,False,401868266
+2026-10-24,Maine,6,Campbell,35,False,401866671
+2026-10-24,Holy Cross,34,Bucknell,3,False,401867994
+2026-10-24,Fordham,17,Lafayette,31,False,401868013
+2026-10-24,Drake,21,Butler,33,False,401868214
+2026-10-24,Valparaiso,24,Presbyterian,7,False,401868278
+2026-10-24,Bethune-Cookman,24,Jackson State,21,False,401868944
+2026-10-24,Columbia,18,Dartmouth,38,False,401867822
+2026-10-24,South Carolina State,22,Norfolk State,7,False,401867975
+2026-10-24,VMI,0,East Tennessee State,38,False,401868348
+2026-10-24,Bryant,17,Stony Brook,27,False,401866672
+2026-10-24,Hampton,13,Monmouth,49,False,401866673
+2026-10-24,South Dakota,26,North Dakota,23,False,401867879
+2026-10-24,Southern Illinois,20,Northern Iowa,17,False,401867892
+2026-10-24,Robert Morris,28,Mercyhurst,14,False,401867921
+2026-10-24,Richmond,13,Colgate,6,False,401868003
+2026-10-24,West Georgia,6,Tarleton State,49,False,401868238
+2026-10-24,Morehead State,38,Stetson,31,False,401868271
+2026-10-24,Furman,6,Samford,13,False,401868377
+2026-10-24,The Citadel,13,Tennessee Tech,28,False,401868392
+2026-10-24,Western Carolina,18,Chattanooga,41,False,401868341
+2026-10-24,Lindenwood,44,Chicago State,9,False,401867689
+2026-10-24,Harvard,35,Princeton,7,False,401867842
+2026-10-24,Illinois State,17,Indiana State,10,False,401867850
+2026-10-24,South Dakota State,42,Murray State,9,False,401867871
+2026-10-24,Morgan State,20,Howard,26,False,401867962
+2026-10-24,Montana State,38,Weber State,33,False,401868121
+2026-10-24,Eastern Kentucky,16,West Florida,13,False,401868146
+2026-10-24,Eastern Illinois,10,Southeast Missouri State,20,False,401868182
+2026-10-24,Florida A&M,28,Arkansas-Pine Bluff,31,False,401868937
+2026-10-24,Texas Southern,24,Southern,21,False,401868972
+2026-10-24,Northwestern State,27,Nicholls,31,False,401869133
+2026-10-24,William & Mary,27,Georgetown,28,False,401868019
+2026-10-24,Villanova,24,Lehigh,18,False,401868035
+2026-10-24,Tennessee State,7,Charleston Southern,20,False,401868174
+2026-10-24,Western Illinois,55,UT Martin,24,False,401868201
+2026-10-24,Lamar,35,Houston Christian,10,False,401869145
+2026-10-24,Cal Poly,26,Utah Tech,43,False,401868080
+2026-10-24,Idaho,31,Southern Utah,28,False,401868097
+2026-10-24,Central Arkansas,27,UT Rio Grande Valley,30,False,401868135
+2026-10-24,Incarnate Word,38,McNeese,6,False,401869138
+2026-10-24,Idaho State,38,Portland State,8,False,401868106
+2026-10-24,Stephen F. Austin,45,SE Louisiana,24,False,401868311
+2026-10-24,North Alabama,21,Austin Peay,27,False,401868067
+2026-10-24,UC Davis,33,Northern Colorado,6,False,401868132
+2026-10-24,East Texas A&M,19,Prairie View A&M,30,False,401868969
+2026-10-27,Western Kentucky,21,Delaware,35,False,401871071
+2026-10-28,Missouri State,24,Sam Houston,3,False,401871072
+2026-10-28,Middle Tennessee,28,Kennesaw State,44,False,401871058
+2026-10-29,New Mexico State,0,Jacksonville State,24,False,401871057
+2026-10-29,North Texas,48,Florida Atlantic,41,False,401862812
+2026-10-29,James Madison,21,Troy,24,False,401869963
+2026-10-30,Charlotte,31,Tulane,38,False,401862813
+2026-10-30,UCF,9,Baylor,41,False,401856844
+2026-10-31,Sacramento State,31,Kent State,10,False,401866451
+2026-10-31,North Carolina,35,Miami,38,False,401858282
+2026-10-31,USC,30,Ohio State,18,False,401858509
+2026-10-31,Georgia,27,Florida,8,True,401856734
+2026-10-31,Indiana,23,Minnesota,16,False,401858501
+2026-10-31,Navy,13,Notre Dame,35,True,401859185
+2026-10-31,Cincinnati,25,Utah,49,False,401856848
+2026-10-31,UCLA,27,Nevada,0,False,401858508
+2026-10-31,BYU,27,Arizona State,20,False,401856843
+2026-10-31,Texas,31,Mississippi State,3,False,401856737
+2026-10-31,Ole Miss,45,Auburn,15,False,401856735
+2026-10-31,Texas Tech,34,Arizona,26,False,401856842
+2026-10-31,Wake Forest,51,Virginia,7,False,401858284
+2026-10-31,Syracuse,30,SMU,27,False,401858278
+2026-10-31,Oregon,34,Northwestern,26,False,401858505
+2026-11-01,Boise State,46,Texas State,45,False,401860908
+2026-10-31,Arkansas,10,Missouri,34,False,401856733
+2026-10-31,Iowa State,51,Oklahoma State,49,False,401856847
+2026-10-31,Iowa,30,Wisconsin,0,False,401858502
+2026-10-31,NC State,31,California,10,False,401858277
+2026-10-31,Duke,47,Boston College,2,False,401858279
+2026-10-31,Maryland,17,Illinois,20,False,401858503
+2026-10-31,South Florida,30,UAB,10,False,401862816
+2026-10-31,Western Michigan,23,Bowling Green,10,False,401866452
+2026-10-31,Rutgers,21,Michigan,28,False,401858507
+2026-10-31,Old Dominion,23,Marshall,36,False,401871096
+2026-10-31,Colorado,27,Kansas State,24,False,401856846
+2026-10-31,Georgia State,20,Coastal Carolina,31,False,401869944
+2026-10-31,Air Force,35,UConn,26,False,401861966
+2026-10-31,East Carolina,17,Temple,9,False,401862815
+2026-10-31,South Alabama,20,Louisiana Tech,35,False,401871097
+2026-10-31,Louisville,52,Stanford,24,False,401858283
+2026-10-31,TCU,22,Kansas,16,False,401856845
+2026-10-31,Utah State,31,Colorado State,14,False,401860910
+2026-10-31,North Dakota State,31,UTEP,7,False,401864531
+2026-10-31,Liberty,49,Florida International,10,False,401871059
+2026-10-31,UL Monroe,21,Southern Miss,35,False,401871095
+2026-10-31,San José State,16,New Mexico,21,False,401864529
+2026-10-31,Oklahoma,25,South Carolina,42,False,401856736
+2026-10-31,Penn State,31,Purdue,17,False,401858506
+2026-10-31,Georgia Southern,19,App State,3,False,401869846
+2026-10-31,Florida State,24,Clemson,36,False,401858280
+2026-10-31,San Diego State,26,Washington State,20,False,401860909
+2026-10-31,Pittsburgh,34,Georgia Tech,11,False,401858281
+2026-11-01,Nebraska,10,Washington,17,False,401858504
+2026-11-01,Memphis,49,Army,22,False,401862814
+2026-11-01,UNLV,31,Northern Illinois,24,False,401864530
+2026-11-01,Fresno State,38,Oregon State,22,False,401860924
+2026-10-29,Morgan State,10,South Carolina State,51,False,401867969
+2026-10-30,Dartmouth,24,Harvard,14,False,401867838
+2026-10-31,UAlbany,45,Campbell,35,False,401866675
+2026-10-31,Rhode Island,14,Maine,13,False,401866676
+2026-10-31,Stony Brook,31,Sacred Heart,32,False,401866677
+2026-10-31,Brown,36,Pennsylvania,17,False,401867809
+2026-10-31,Columbia,8,Yale,26,False,401867823
+2026-10-31,Princeton,21,Cornell,20,False,401867831
+2026-10-31,Youngstown State,31,North Dakota,28,False,401867880
+2026-10-31,Central Connecticut,49,Robert Morris,14,False,401867903
+2026-10-31,Stonehill,34,Mercyhurst,28,False,401867926
+2026-10-31,Merrimack,19,Wagner,14,False,401867932
+2026-10-31,Lehigh,31,Bucknell,30,False,401867995
+2026-10-31,New Haven,14,Duquesne,41,False,401869154
+2026-10-31,Lafayette,21,Villanova,44,False,401868030
+2026-10-31,Monmouth,34,Bryant,21,False,401866678
+2026-10-31,North Carolina A&T,13,Elon,10,False,401866679
+2026-10-31,Towson,44,Hampton,13,False,401866680
+2026-10-31,Colgate,37,William & Mary,0,False,401868004
+2026-10-31,Holy Cross,33,Richmond,14,False,401868026
+2026-10-31,Presbyterian,10,Butler,27,False,401868215
+2026-10-31,Stetson,34,Dayton,44,False,401868231
+2026-10-31,Morehead State,35,Drake,45,False,401868258
+2026-10-31,Chattanooga,24,VMI,10,False,401868342
+2026-10-31,Illinois State,35,Murray State,14,False,401867851
+2026-10-31,Northern Iowa,45,Indiana State,23,False,401867861
+2026-10-31,North Carolina Central,34,Howard,0,False,401867963
+2026-10-31,Charleston Southern,35,Western Illinois,42,False,401868175
+2026-10-31,Southeast Missouri State,10,Gardner-Webb,34,False,401868190
+2026-10-31,Lindenwood,27,Tennessee State,0,False,401868199
+2026-10-31,St. Thomas,35,Davidson,7,False,401868223
+2026-10-31,Furman,26,Western Carolina,27,False,401868378
+2026-10-31,Incarnate Word,66,Northwestern State,14,False,401869134
+2026-10-31,Chicago State,80,UFTL,17,False,401867690
+2026-10-31,Norfolk State,33,Delaware State,36,True,401867956
+2026-10-31,Montana State,61,Cal Poly,7,False,401868081
+2026-10-31,Utah Tech,27,Idaho State,34,False,401868107
+2026-10-31,Southern Utah,27,Northern Arizona,34,False,401868126
+2026-10-31,Weber State,38,UC Davis,14,False,401868165
+2026-10-31,UT Martin,16,Eastern Illinois,45,False,401868183
+2026-10-31,Stephen F. Austin,37,Houston Christian,6,False,401868312
+2026-10-31,Mississippi Valley State,17,Alcorn State,52,False,401868362
+2026-10-31,Mercer,28,The Citadel,19,False,401868384
+2026-10-31,Arkansas-Pine Bluff,63,Bethune-Cookman,21,False,401868938
+2026-10-31,Florida A&M,14,Southern,42,False,401868950
+2026-10-31,McNeese,16,Nicholls,3,False,401869139
+2026-10-31,Alabama A&M,31,Alabama State,28,True,401868296
+2026-10-31,East Tennessee State,17,Tennessee Tech,24,False,401868349
+2026-10-31,South Dakota State,31,South Dakota,21,False,401867887
+2026-10-31,Abilene Christian,59,West Georgia,0,False,401868056
+2026-10-31,Eastern Washington,33,Montana,42,False,401868089
+2026-10-31,Portland State,14,Idaho,38,False,401868098
+2026-10-31,San Diego,41,Marist,40,False,401868267
+2026-10-31,East Texas A&M,10,SE Louisiana,7,False,401868320
+2026-10-31,Central Arkansas,9,North Alabama,14,False,401868136
+2026-10-31,Tarleton State,28,Eastern Kentucky,24,False,401868147
+2026-10-31,Samford,10,Wofford,9,False,401868388
+2026-11-01,UT Rio Grande Valley,23,Lamar,52,False,401868251
+2026-11-01,Texas Southern,23,Grambling,20,False,401868956
+2026-11-04,Akron,20,Ohio,28,False,401866453
+2026-11-04,Miami (OH),31,Buffalo,34,False,401866454
+2026-11-05,Massachusetts,31,Ball State,30,False,401866455
+2026-11-05,Sacramento State,17,Toledo,20,False,401866457
+2026-11-05,Eastern Michigan,7,Central Michigan,35,True,401866456
+2026-11-06,Florida Atlantic,60,UTSA,29,False,401862817
+2026-11-06,Southern Miss,23,James Madison,54,False,401869964
+2026-11-07,Arizona,29,TCU,28,False,401856855
+2026-11-07,SMU,51,Virginia Tech,28,False,401858288
+2026-11-07,East Carolina,20,South Florida,17,False,401862818
+2026-11-07,Illinois,24,Nebraska,13,False,401858510
+2026-11-07,Nevada,3,New Mexico,31,False,401864533
+2026-11-08,Notre Dame,31,Miami,24,False,401858291
+2026-11-08,Ole Miss,7,Georgia,42,False,401856741
+2026-11-07,Utah,28,BYU,20,False,401856849
+2026-11-07,LSU,13,Alabama,31,False,401856740
+2026-11-07,Tennessee,34,Kentucky,6,False,401856745
+2026-11-07,Missouri,20,Texas,34,False,401856743
+2026-11-07,Minnesota,20,UCLA,34,False,401858512
+2026-11-07,Ohio State,28,Oregon,41,False,401858514
+2026-11-08,Texas Tech,53,West Virginia,48,False,401856856
+2026-11-07,Wake Forest,77,Merrimack,0,False,401858290
+2026-11-07,Houston,31,Cincinnati,24,False,401856851
+2026-11-08,Northwestern,10,Iowa,24,False,401858513
+2026-11-07,South Carolina,17,Texas A&M,9,False,401856744
+2026-11-08,Florida,7,Oklahoma,23,False,401856739
+2026-11-07,Colorado State,38,Boise State,64,False,401860911
+2026-11-07,Baylor,42,Iowa State,31,False,401856853
+2026-11-07,Syracuse,13,Clemson,18,False,401858285
+2026-11-07,Boston College,24,Florida State,31,False,401858289
+2026-11-07,UConn,21,North Carolina,38,False,401858292
+2026-11-07,Tulane,10,Tulsa,60,False,401862822
+2026-11-07,NC State,3,Duke,41,False,401858286
+2026-11-07,Purdue,29,Maryland,34,False,401858515
+2026-11-07,Auburn,26,Arkansas,23,False,401856738
+2026-11-07,Kansas State,28,Oklahoma State,66,False,401856854
+2026-11-07,Coastal Carolina,8,Old Dominion,21,False,401869945
+2026-11-07,App State,23,Georgia State,39,False,401869927
+2026-11-07,Arkansas State,17,UL Monroe,19,False,401869936
+2026-11-07,Kennesaw State,42,Delaware,40,False,401871073
+2026-11-07,Washington,25,Penn State,28,False,401858516
+2026-11-07,UAB,23,Charlotte,12,False,401862819
+2026-11-07,Navy,42,Temple,35,False,401862820
+2026-11-07,Georgia Southern,49,Marshall,13,False,401869951
+2026-11-07,Middle Tennessee,51,Western Kentucky,42,False,401871076
+2026-11-07,Kansas,32,UCF,33,False,401856850
+2026-11-07,North Texas,52,Rice,23,False,401862821
+2026-11-07,San José State,30,Northern Illinois,19,False,401864534
+2026-11-07,Florida International,23,Missouri State,20,False,401871074
+2026-11-07,Troy,17,Louisiana Tech,41,False,401871098
+2026-11-07,Mississippi State,23,Vanderbilt,25,False,401856742
+2026-11-07,Wisconsin,31,Rutgers,10,False,401858517
+2026-11-07,Louisiana,28,South Alabama,26,False,401869968
+2026-11-08,Jacksonville State,47,Sam Houston,14,False,401871075
+2026-11-08,Arizona State,20,Colorado,10,False,401856852
+2026-11-08,Georgia Tech,17,Louisville,44,False,401858287
+2026-11-08,Michigan,6,Michigan State,15,False,401858511
+2026-11-08,Army,21,Air Force,24,False,401862823
+2026-11-08,New Mexico State,14,Liberty,30,False,401870795
+2026-11-08,Utah State,17,Fresno State,10,False,401860913
+2026-11-08,UTEP,14,Hawai'i,17,False,401864532
+2026-11-08,Oregon State,21,Texas State,42,False,401860912
+2026-11-08,UNLV,35,Wyoming,41,False,401864535
+2026-11-06,Howard,28,South Carolina State,35,False,401867964
+2026-11-07,Monmouth,21,North Carolina A&T,17,False,401866681
+2026-11-07,Sacred Heart,40,Towson,43,False,401866682
+2026-11-07,Yale,20,Brown,24,False,401867810
+2026-11-07,Princeton,21,Dartmouth,14,False,401867839
+2026-11-07,New Haven,17,Long Island University,10,False,401867914
+2026-11-07,Duquesne,10,Robert Morris,13,False,401867922
+2026-11-07,Mercyhurst,28,Wagner,33,False,401867933
+2026-11-07,Norfolk State,28,North Carolina Central,29,False,401867976
+2026-11-07,Lehigh,33,Colgate,7,False,401868005
+2026-11-07,Dayton,31,Valparaiso,20,False,401868232
+2026-11-07,Marist,14,Morehead State,13,False,401868268
+2026-11-07,Georgetown,24,Holy Cross,27,False,401868020
+2026-11-07,Bryant,31,UAlbany,7,False,401866683
+2026-11-07,Campbell,48,Stony Brook,35,False,401866684
+2026-11-07,New Hampshire,24,Rhode Island,21,False,401866686
+2026-11-07,Harvard,37,Columbia,0,False,401867824
+2026-11-07,Cornell,13,Pennsylvania,14,False,401867832
+2026-11-07,Stonehill,7,Central Connecticut,31,False,401867904
+2026-11-07,Delaware State,24,Morgan State,14,False,401867957
+2026-11-07,Bucknell,13,Fordham,38,False,401867996
+2026-11-07,William & Mary,14,Lafayette,19,False,401868031
+2026-11-07,Villanova,30,Richmond,0,False,401868038
+2026-11-07,Butler,41,St. Thomas,14,False,401868216
+2026-11-07,Davidson,33,Stetson,14,False,401868224
+2026-11-07,Drake,17,San Diego,40,False,401868259
+2026-11-07,Chattanooga,7,Mercer,14,False,401868343
+2026-11-07,East Tennessee State,35,Samford,37,False,401868350
+2026-11-07,Western Carolina,26,Wofford,10,False,401868399
+2026-11-07,Gardner-Webb,21,Lindenwood,34,False,401868191
+2026-11-07,Elon,24,Hampton,6,False,401866685
+2026-11-07,North Dakota,49,Illinois State,21,False,401867852
+2026-11-07,Murray State,35,Youngstown State,62,False,401867872
+2026-11-07,Charleston Southern,10,UT Martin,20,False,401868176
+2026-11-07,Northwestern State,7,UT Rio Grande Valley,52,False,401868252
+2026-11-07,The Citadel,14,Furman,24,False,401868379
+2026-11-07,Northern Iowa,15,South Dakota State,41,False,401872617
+2026-11-07,Tennessee Tech,66,VMI,14,False,401868393
+2026-11-07,Montana,57,Portland State,24,False,401868116
+2026-11-07,Southern Utah,31,Northern Colorado,24,False,401868153
+2026-11-07,Eastern Illinois,23,Western Illinois,44,False,401868184
+2026-11-07,Prairie View A&M,31,Alabama A&M,10,False,401868302
+2026-11-07,Texas Southern,31,Alabama State,34,False,401868331
+2026-11-07,Alcorn State,38,Florida A&M,20,False,401868363
+2026-11-07,Grambling,32,Arkansas-Pine Bluff,35,False,401868939
+2026-11-07,Southern,45,Bethune-Cookman,17,False,401868945
+2026-11-07,Jackson State,38,Mississippi Valley State,7,False,401868961
+2026-11-07,Tennessee State,14,Southeast Missouri State,33,False,401868200
+2026-11-07,Austin Peay,55,Eastern Kentucky,31,False,401868068
+2026-11-07,Lamar,45,Stephen F. Austin,28,False,401868313
+2026-11-07,Nicholls,32,East Texas A&M,31,False,401869153
+2026-11-07,Cal Poly,10,Northern Arizona,38,False,401868082
+2026-11-07,Idaho,62,Eastern Washington,31,False,401868090
+2026-11-07,Central Arkansas,35,West Georgia,14,False,401868137
+2026-11-07,Houston Christian,0,McNeese,10,False,401869140
+2026-11-07,Indiana State,20,Southern Illinois,37,False,401867862
+2026-11-07,Idaho State,26,Montana State,28,False,401868108
+2026-11-08,Tarleton State,40,Abilene Christian,27,False,401868057
+2026-11-08,North Alabama,28,West Florida,21,False,401868152
+2026-11-08,UC Davis,24,Utah Tech,17,False,401868166
+2026-11-08,SE Louisiana,16,Incarnate Word,35,False,401868321
+2026-11-11,Akron,14,Western Michigan,42,False,401866458
+2026-11-11,Bowling Green,33,Kent State,28,False,401866459
+2026-11-11,Miami (OH),34,Ohio,17,False,401866460
+2026-11-12,Ball State,7,Buffalo,28,False,401866461
+2026-11-12,Central Michigan,28,Sacramento State,7,False,401866462
+2026-11-12,Toledo,24,Massachusetts,0,False,401866463
+2026-11-13,South Florida,41,Memphis,52,False,401862824
+2026-11-13,UL Monroe,21,Louisiana,42,False,401869969
+2026-11-14,UCLA,22,Illinois,14,False,401858526
+2026-11-14,Colorado,42,Houston,32,False,401856860
+2026-11-14,Pittsburgh,10,Florida State,16,False,401858293
+2026-11-14,Georgia,48,Missouri,21,False,401856883
+2026-11-15,Arizona,39,Utah,40,False,401856864
+2026-11-14,Vanderbilt,6,Alabama,21,False,401856889
+2026-11-14,Notre Dame,41,Boston College,7,False,401858294
+2026-11-15,LSU,21,Texas,22,False,401856885
+2026-11-14,Miami,36,Duke,25,False,401858296
+2026-11-14,Texas A&M,7,Tennessee,22,False,401856888
+2026-11-14,Indiana,27,USC,13,False,401858518
+2026-11-15,BYU,28,Baylor,7,False,401856858
+2026-11-14,Kentucky,14,Florida,21,False,401856884
+2026-11-15,Oklahoma State,27,Texas Tech,52,False,401856863
+2026-11-14,SMU,7,Wake Forest,49,False,401858301
+2026-11-15,Iowa,28,Purdue,7,False,401858519
+2026-11-14,Oregon,31,Michigan,7,False,401858523
+2026-11-15,Arkansas,34,South Carolina,6,False,401856882
+2026-11-14,Ohio State,28,Northwestern,19,False,401858522
+2026-11-14,Boise State,46,Oregon State,41,False,401860914
+2026-11-14,Iowa State,41,Cincinnati,13,False,401856859
+2026-11-14,NC State,31,Syracuse,34,False,401858300
+2026-11-14,Maryland,24,Wisconsin,21,False,401858520
+2026-11-14,UConn,46,James Madison,22,False,401861967
+2026-11-14,Clemson,6,Georgia Tech,20,False,401858297
+2026-11-14,Rutgers,0,Nebraska,31,False,401858525
+2026-11-14,Charlotte,16,East Carolina,17,False,401862825
+2026-11-14,Temple,10,UAB,36,False,401862829
+2026-11-14,Coastal Carolina,28,Arkansas State,21,False,401869937
+2026-11-14,TCU,20,Kansas State,10,False,401856862
+2026-11-14,Sam Houston,7,Kennesaw State,26,False,401870769
+2026-11-14,Missouri State,27,New Mexico State,21,False,401870796
+2026-11-14,Delaware,24,Florida International,16,False,401871060
+2026-11-14,West Virginia,14,Kansas,37,False,401856861
+2026-11-14,Virginia,36,California,7,False,401858295
+2026-11-14,Northern Illinois,7,Nevada,28,False,401864536
+2026-11-14,Georgia State,17,Georgia Southern,34,False,401869952
+2026-11-14,Western Kentucky,34,Jacksonville State,24,False,401870752
+2026-11-14,Liberty,28,Middle Tennessee,23,False,401871061
+2026-11-14,Texas State,37,Fresno State,35,False,401860916
+2026-11-14,Mississippi State,9,Auburn,41,False,401856886
+2026-11-14,Rice,17,Tulane,20,False,401862828
+2026-11-14,Louisiana Tech,63,Southern Miss,31,False,401871099
+2026-11-14,UCF,13,Arizona State,26,False,401856857
+2026-11-14,Michigan State,14,Washington,21,False,401858521
+2026-11-14,Marshall,16,App State,20,False,401869928
+2026-11-15,North Carolina,14,Louisville,16,False,401858298
+2026-11-15,Penn State,42,Minnesota,14,False,401858524
+2026-11-15,Air Force,24,San José State,3,False,401864538
+2026-11-15,South Alabama,27,Troy,14,False,401871100
+2026-11-15,Tulsa,38,Florida Atlantic,21,False,401862826
+2026-11-15,Virginia Tech,22,Stanford,40,False,401858299
+2026-11-15,New Mexico,17,UNLV,21,False,401864539
+2026-11-15,UTSA,35,North Texas,16,False,401862827
+2026-11-15,San Diego State,30,Utah State,13,False,401860915
+2026-11-15,UTEP,15,Wyoming,27,False,401864540
+2026-11-15,Washington State,73,Colorado State,7,False,401860917
+2026-11-15,Hawai'i,13,North Dakota State,21,False,401864537
+2026-11-15,Oklahoma,24,Ole Miss,17,False,401856887
+2026-11-14,Portland State,21,Southern Utah,23,False,401868157
+2026-11-14,UAlbany,37,Maine,3,False,401866687
+2026-11-14,Sacred Heart,23,Bryant,31,False,401866688
+2026-11-14,Rhode Island,16,Towson,19,False,401866689
+2026-11-14,Monmouth,28,Merrimack,29,False,401866693
+2026-11-14,Brown,28,Columbia,20,False,401867811
+2026-11-14,Long Island University,20,Central Connecticut,14,False,401867905
+2026-11-14,Robert Morris,14,Stonehill,3,False,401867923
+2026-11-14,Wagner,14,New Haven,10,False,401867934
+2026-11-14,Morgan State,17,Norfolk State,7,False,401867970
+2026-11-14,Fordham,37,Georgetown,15,False,401868014
+2026-11-14,Holy Cross,30,Villanova,27,False,401868027
+2026-11-14,Marist,0,Butler,28,False,401868217
+2026-11-14,Dayton,34,Davidson,3,False,401868225
+2026-11-14,Morehead State,28,Presbyterian,25,False,401868272
+2026-11-14,Duquesne,20,Mercyhurst,10,False,401869155
+2026-11-14,Yale,28,Princeton,0,False,401870842
+2026-11-14,VMI,21,The Citadel,24,False,401868395
+2026-11-14,Hampton,14,North Carolina A&T,41,False,401866690
+2026-11-14,New Hampshire,20,Stony Brook,17,False,401866691
+2026-11-14,Cornell,20,Dartmouth,14,False,401867833
+2026-11-14,Pennsylvania,24,Harvard,38,False,401867843
+2026-11-14,Indiana State,14,Murray State,44,False,401867863
+2026-11-14,Howard,30,Delaware State,24,False,401867958
+2026-11-14,William & Mary,41,Bucknell,24,False,401867997
+2026-11-14,Colgate,19,Lafayette,7,False,401868006
+2026-11-14,Furman,10,Chattanooga,17,False,401868344
+2026-11-14,Bethune-Cookman,21,Grambling,32,False,401868946
+2026-11-14,Chicago State,45,Virginia Lynchburg,0,False,401915931
+2026-11-14,South Carolina State,38,North Carolina Central,24,False,401867981
+2026-11-14,Wofford,17,East Tennessee State,20,False,401868351
+2026-11-14,Elon,28,Campbell,24,False,401866692
+2026-11-14,South Dakota,41,Northern Iowa,30,False,401867888
+2026-11-14,Southern Illinois,16,South Dakota State,52,False,401867893
+2026-11-14,Richmond,14,Lehigh,21,False,401868036
+2026-11-14,Austin Peay,31,Abilene Christian,34,False,401868058
+2026-11-14,Eastern Kentucky,35,Central Arkansas,38,False,401868138
+2026-11-14,Charleston Southern,17,Southeast Missouri State,43,False,401868177
+2026-11-14,Western Illinois,45,Gardner-Webb,7,False,401868192
+2026-11-14,West Georgia,7,North Alabama,28,False,401868233
+2026-11-14,St. Thomas,55,Drake,35,False,401868260
+2026-11-14,Northwestern State,21,Houston Christian,28,False,401869135
+2026-11-14,Tennessee Tech,31,Mercer,38,False,401868385
+2026-11-14,UT Martin,38,Lindenwood,31,False,401868202
+2026-11-14,West Florida,17,Tarleton State,31,False,401868239
+2026-11-14,Alabama A&M,35,Texas Southern,6,False,401868303
+2026-11-14,Alabama State,20,Jackson State,13,False,401868332
+2026-11-14,Southern,41,Alcorn State,28,False,401868364
+2026-11-14,Arkansas-Pine Bluff,10,Prairie View A&M,13,False,401868940
+2026-11-14,Florida A&M,16,Mississippi Valley State,13,False,401868951
+2026-11-14,Tennessee State,13,Eastern Illinois,12,False,401868185
+2026-11-14,Stetson,31,Valparaiso,34,False,401868286
+2026-11-14,Samford,12,Western Carolina,17,False,401868389
+2026-11-14,Lamar,45,East Texas A&M,26,False,401869146
+2026-11-14,Incarnate Word,42,Nicholls,24,False,401869148
+2026-11-14,Youngstown State,33,Illinois State,34,False,401867853
+2026-11-14,Northern Arizona,21,Weber State,25,False,401868127
+2026-11-14,UT Rio Grande Valley,0,Stephen F. Austin,48,False,401868293
+2026-11-15,SE Louisiana,21,McNeese,17,False,401868322
+2026-11-15,Northern Colorado,21,Montana State,31,False,401868122
+2026-11-15,Idaho,24,UC Davis,28,False,401868099
+2026-11-15,Utah Tech,28,Eastern Washington,31,False,401868091
+2026-11-15,Montana,38,Idaho State,30,False,401868109

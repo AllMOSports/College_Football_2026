@@ -6,60 +6,61 @@
 #   cfb_ratings_2026.py                 (anywhere in the repo -- root is fine)
 #   .github/workflows/cfb-ratings.yml   (this file)
 #
-# Runs automatically every Sunday morning (after Saturday's late games) and
-# can be run by hand from the Actions tab, where you can choose the weeks.
- 
+# Runs three times a week and can be run by hand from the Actions tab:
+#   Sunday   -- ratings after Saturday's games; grades last week's picks;
+#               picks for next week against the opening lines
+#   Thursday -- refreshes picks/lines before the midweek games
+#   Saturday -- refreshes picks/lines shortly before the Saturday slate, so
+#               the prediction log holds a line close to the closing line
+# Each pick in the log is the LAST one written before kickoff.
+
 name: CFB Ratings
- 
+
 on:
   schedule:
-    # Sundays at 10:47 UTC = 5:47 AM Central (CDT). GitHub cron is always UTC.
-    # Odd minute on purpose: on-the-hour cron jobs get delayed by GitHub load.
-    - cron: "47 10 * * 0"
+    # GitHub cron is UTC. Odd minutes on purpose: on-the-hour jobs get delayed.
+    - cron: "47 10 * * 0"   # Sun 4:47 AM CST / 5:47 AM CDT
+    - cron: "47 14 * * 4"   # Thu 8:47 AM CST / 9:47 AM CDT
+    - cron: "47 14 * * 6"   # Sat 8:47 AM CST / 9:47 AM CDT
   workflow_dispatch:
     inputs:
       weeks:
         description: 'Weeks to pull: "1", "1,2,3", or "1-15"'
         required: false
         default: "1-15"
-      include_fcs:
-        description: "Also pull FCS-vs-FCS games (ESPN group 81)"
-        type: boolean
-        default: false
- 
+
 permissions:
   contents: write   # needed to commit the ratings files back to the repo
- 
+
 concurrency:
   group: cfb-ratings
   cancel-in-progress: false
- 
+
 env:
   OUTPUT_DIR: data/cfb/2026
- 
+
 jobs:
   ratings:
     runs-on: ubuntu-latest
     timeout-minutes: 20
- 
+
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
- 
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
- 
+
       - name: Install dependencies
         run: pip install requests pandas
- 
+
       - name: Run ratings
         env:
           # Scheduled runs pull weeks 1-15; unplayed weeks contribute nothing,
           # so this always rebuilds the full season to date.
           CFB_WEEKS: ${{ github.event.inputs.weeks || '1-15' }}
-          INCLUDE_FCS: ${{ github.event.inputs.include_fcs || 'false' }}
         run: |
           # Find the script anywhere in the repo (root, scripts/, etc.),
           # ignoring the copy-in-progress location under the output folder.
@@ -73,12 +74,11 @@ jobs:
           mkdir -p "$OUTPUT_DIR"
           cp "$SCRIPT" "$OUTPUT_DIR/"
           cd "$OUTPUT_DIR"
-          if [ "$INCLUDE_FCS" = "true" ]; then
-            sed -i 's/^GROUPS *= *\[80\]/GROUPS        = [80, 81]/' cfb_ratings_2026.py
-          fi
+          # Runs in the output folder so it reads its own prediction log and
+          # any prior-season file (cfb_ratings_2025.json) kept there.
           python cfb_ratings_2026.py
           rm cfb_ratings_2026.py
- 
+
       - name: Upload raw ESPN responses (for auditing)
         if: always()
         uses: actions/upload-artifact@v4
@@ -87,7 +87,7 @@ jobs:
           path: ${{ env.OUTPUT_DIR }}/espn_raw/
           retention-days: 14
           if-no-files-found: ignore
- 
+
       - name: Commit updated ratings
         run: |
           rm -rf "$OUTPUT_DIR/espn_raw"

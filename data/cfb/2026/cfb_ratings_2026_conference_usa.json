@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 at 04:32 PM",
+  "last_updated": "November 19, 2026 at 10:28 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -19,7 +19,7 @@
     15
   ],
   "league_average": 26.46,
-  "home_field": 2.59,
+  "home_field": 2.58,
   "fit_converged": true,
   "conference": "Conference USA",
   "teams": [
@@ -31,12 +31,12 @@
       "conference": "Conference USA",
       "record": "9-1",
       "games": 10,
-      "ovr_rating": 20.07,
-      "off_rating": 8.42,
+      "ovr_rating": 20.05,
+      "off_rating": 8.41,
       "off_rank": 1,
       "def_rating": 11.64,
       "def_rank": 1,
-      "sos": 5.74,
+      "sos": 5.88,
       "sos_rank": 10
     },
     {
@@ -47,12 +47,12 @@
       "conference": "Conference USA",
       "record": "7-3",
       "games": 10,
-      "ovr_rating": 12.65,
-      "off_rating": 5.78,
+      "ovr_rating": 12.69,
+      "off_rating": 5.76,
       "off_rank": 4,
-      "def_rating": 6.87,
+      "def_rating": 6.93,
       "def_rank": 3,
-      "sos": 6.51,
+      "sos": 6.56,
       "sos_rank": 9
     },
     {
@@ -63,13 +63,13 @@
       "conference": "Conference USA",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": 11.12,
-      "off_rating": 8.18,
+      "ovr_rating": 11.19,
+      "off_rating": 8.17,
       "off_rank": 2,
-      "def_rating": 2.94,
+      "def_rating": 3.02,
       "def_rank": 7,
-      "sos": 9.81,
-      "sos_rank": 5
+      "sos": 9.91,
+      "sos_rank": 6
     },
     {
       "ovr_rank": 4,
@@ -79,12 +79,12 @@
       "conference": "Conference USA",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 9.82,
-      "off_rating": 4.28,
+      "ovr_rating": 9.9,
+      "off_rating": 4.33,
       "off_rank": 6,
-      "def_rating": 5.53,
+      "def_rating": 5.57,
       "def_rank": 4,
-      "sos": 10.2,
+      "sos": 10.28,
       "sos_rank": 4
     },
     {
@@ -95,12 +95,12 @@
       "conference": "Conference USA",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": 7.67,
-      "off_rating": 6.19,
+      "ovr_rating": 7.77,
+      "off_rating": 6.21,
       "off_rank": 3,
-      "def_rating": 1.48,
+      "def_rating": 1.57,
       "def_rank": 10,
-      "sos": 10.78,
+      "sos": 10.87,
       "sos_rank": 2
     },
     {
@@ -111,12 +111,12 @@
       "conference": "Conference USA",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 6.64,
-      "off_rating": -1.09,
+      "ovr_rating": 6.82,
+      "off_rating": -1.0,
       "off_rank": 9,
-      "def_rating": 7.73,
+      "def_rating": 7.82,
       "def_rank": 2,
-      "sos": 7.77,
+      "sos": 7.97,
       "sos_rank": 8
     },
     {
@@ -127,12 +127,12 @@
       "conference": "Conference USA",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 6.3,
-      "off_rating": 4.43,
+      "ovr_rating": 6.42,
+      "off_rating": 4.47,
       "off_rank": 5,
-      "def_rating": 1.87,
+      "def_rating": 1.95,
       "def_rank": 9,
-      "sos": 11.62,
+      "sos": 11.7,
       "sos_rank": 1
     },
     {
@@ -143,13 +143,13 @@
       "conference": "Conference USA",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 6.21,
-      "off_rating": 3.47,
+      "ovr_rating": 6.35,
+      "off_rating": 3.53,
       "off_rank": 7,
-      "def_rating": 2.74,
+      "def_rating": 2.83,
       "def_rank": 8,
-      "sos": 9.8,
-      "sos_rank": 6
+      "sos": 9.92,
+      "sos_rank": 5
     },
     {
       "ovr_rank": 9,
@@ -159,12 +159,12 @@
       "conference": "Conference USA",
       "record": "3-7",
       "games": 10,
-      "ovr_rating": 4.29,
-      "off_rating": 0.04,
+      "ovr_rating": 4.43,
+      "off_rating": 0.13,
       "off_rank": 8,
-      "def_rating": 4.26,
+      "def_rating": 4.3,
       "def_rank": 5,
-      "sos": 8.57,
+      "sos": 8.64,
       "sos_rank": 7
     },
     {
@@ -175,12 +175,12 @@
       "conference": "Conference USA",
       "record": "1-9",
       "games": 10,
-      "ovr_rating": -0.04,
-      "off_rating": -3.69,
+      "ovr_rating": 0.15,
+      "off_rating": -3.56,
       "off_rank": 10,
-      "def_rating": 3.65,
+      "def_rating": 3.71,
       "def_rank": 6,
-      "sos": 10.38,
+      "sos": 10.46,
       "sos_rank": 3
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 at 04:32 PM",
+  "last_updated": "November 19, 2026 at 10:28 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -19,7 +19,7 @@
     15
   ],
   "league_average": 26.46,
-  "home_field": 2.59,
+  "home_field": 2.58,
   "fit_converged": true,
   "conference": "FBS Independents",
   "teams": [
@@ -31,12 +31,12 @@
       "conference": "FBS Independents",
       "record": "9-1",
       "games": 10,
-      "ovr_rating": 43.93,
-      "off_rating": 22.8,
+      "ovr_rating": 43.86,
+      "off_rating": 22.79,
       "off_rank": 1,
-      "def_rating": 21.13,
+      "def_rating": 21.07,
       "def_rank": 1,
-      "sos": 25.34,
+      "sos": 25.4,
       "sos_rank": 1
     },
     {
@@ -47,12 +47,12 @@
       "conference": "FBS Independents",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": 24.19,
-      "off_rating": 15.37,
+      "ovr_rating": 24.37,
+      "off_rating": 15.47,
       "off_rank": 2,
-      "def_rating": 8.82,
+      "def_rating": 8.91,
       "def_rank": 2,
-      "sos": 11.75,
+      "sos": 11.84,
       "sos_rank": 2
     }
   ]

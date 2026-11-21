@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 19, 2026 at 10:28 PM",
+  "last_updated": "November 21, 2026 at 08:41 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -18,8 +18,8 @@
     14,
     15
   ],
-  "league_average": 26.46,
-  "home_field": 2.58,
+  "league_average": 26.42,
+  "home_field": 2.49,
   "fit_converged": true,
   "conference": "Sun Belt",
   "teams": [
@@ -31,13 +31,13 @@
       "conference": "Sun Belt",
       "record": "8-2",
       "games": 10,
-      "ovr_rating": 21.32,
-      "off_rating": 11.87,
+      "ovr_rating": 21.37,
+      "off_rating": 12.01,
       "off_rank": 1,
-      "def_rating": 9.45,
+      "def_rating": 9.37,
       "def_rank": 2,
-      "sos": 11.57,
-      "sos_rank": 4
+      "sos": 11.49,
+      "sos_rank": 5
     },
     {
       "ovr_rank": 2,
@@ -47,12 +47,12 @@
       "conference": "Sun Belt",
       "record": "8-3",
       "games": 11,
-      "ovr_rating": 19.11,
-      "off_rating": 11.8,
+      "ovr_rating": 19.33,
+      "off_rating": 11.91,
       "off_rank": 2,
-      "def_rating": 7.31,
+      "def_rating": 7.42,
       "def_rank": 4,
-      "sos": 8.54,
+      "sos": 8.81,
       "sos_rank": 13
     },
     {
@@ -63,12 +63,12 @@
       "conference": "Sun Belt",
       "record": "6-4",
       "games": 10,
-      "ovr_rating": 18.22,
-      "off_rating": 7.57,
+      "ovr_rating": 18.5,
+      "off_rating": 7.77,
       "off_rank": 6,
-      "def_rating": 10.65,
+      "def_rating": 10.73,
       "def_rank": 1,
-      "sos": 12.05,
+      "sos": 12.43,
       "sos_rank": 2
     },
     {
@@ -79,13 +79,13 @@
       "conference": "Sun Belt",
       "record": "7-3",
       "games": 10,
-      "ovr_rating": 16.77,
-      "off_rating": 8.05,
+      "ovr_rating": 16.94,
+      "off_rating": 8.16,
       "off_rank": 5,
-      "def_rating": 8.72,
+      "def_rating": 8.78,
       "def_rank": 3,
-      "sos": 10.66,
-      "sos_rank": 8
+      "sos": 10.83,
+      "sos_rank": 9
     },
     {
       "ovr_rank": 5,
@@ -95,12 +95,12 @@
       "conference": "Sun Belt",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": 12.19,
-      "off_rating": 8.85,
+      "ovr_rating": 12.49,
+      "off_rating": 8.97,
       "off_rank": 4,
-      "def_rating": 3.33,
+      "def_rating": 3.51,
       "def_rank": 10,
-      "sos": 9.19,
+      "sos": 9.59,
       "sos_rank": 12
     },
     {
@@ -111,13 +111,13 @@
       "conference": "Sun Belt",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": 11.84,
-      "off_rating": 8.9,
+      "ovr_rating": 12.11,
+      "off_rating": 9.08,
       "off_rank": 3,
-      "def_rating": 2.94,
+      "def_rating": 3.03,
       "def_rank": 11,
-      "sos": 10.53,
-      "sos_rank": 9
+      "sos": 10.89,
+      "sos_rank": 8
     },
     {
       "ovr_rank": 7,
@@ -127,12 +127,12 @@
       "conference": "Sun Belt",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 9.97,
-      "off_rating": 3.65,
+      "ovr_rating": 10.17,
+      "off_rating": 3.8,
       "off_rank": 9,
-      "def_rating": 6.33,
+      "def_rating": 6.38,
       "def_rank": 6,
-      "sos": 9.88,
+      "sos": 9.98,
       "sos_rank": 11
     },
     {
@@ -143,12 +143,12 @@
       "conference": "Sun Belt",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 9.88,
-      "off_rating": 4.51,
+      "ovr_rating": 10.07,
+      "off_rating": 4.61,
       "off_rank": 8,
-      "def_rating": 5.37,
+      "def_rating": 5.46,
       "def_rank": 9,
-      "sos": 9.93,
+      "sos": 10.04,
       "sos_rank": 10
     },
     {
@@ -159,12 +159,12 @@
       "conference": "Sun Belt",
       "record": "6-4",
       "games": 10,
-      "ovr_rating": 9.65,
-      "off_rating": 3.37,
+      "ovr_rating": 9.93,
+      "off_rating": 3.63,
       "off_rank": 10,
-      "def_rating": 6.27,
+      "def_rating": 6.3,
       "def_rank": 7,
-      "sos": 8.39,
+      "sos": 8.7,
       "sos_rank": 14
     },
     {
@@ -175,12 +175,12 @@
       "conference": "Sun Belt",
       "record": "4-6",
       "games": 10,
-      "ovr_rating": 7.16,
-      "off_rating": 1.69,
+      "ovr_rating": 7.36,
+      "off_rating": 1.81,
       "off_rank": 12,
-      "def_rating": 5.47,
+      "def_rating": 5.54,
       "def_rank": 8,
-      "sos": 11.1,
+      "sos": 11.19,
       "sos_rank": 7
     },
     {
@@ -191,13 +191,13 @@
       "conference": "Sun Belt",
       "record": "3-7",
       "games": 10,
-      "ovr_rating": 5.77,
-      "off_rating": -0.96,
+      "ovr_rating": 6.13,
+      "off_rating": -0.63,
       "off_rank": 14,
-      "def_rating": 6.73,
+      "def_rating": 6.76,
       "def_rank": 5,
-      "sos": 11.26,
-      "sos_rank": 5
+      "sos": 11.74,
+      "sos_rank": 4
     },
     {
       "ovr_rank": 12,
@@ -207,12 +207,12 @@
       "conference": "Sun Belt",
       "record": "5-5",
       "games": 10,
-      "ovr_rating": 5.67,
-      "off_rating": 2.83,
+      "ovr_rating": 5.91,
+      "off_rating": 2.95,
       "off_rank": 11,
-      "def_rating": 2.84,
+      "def_rating": 2.96,
       "def_rank": 12,
-      "sos": 11.14,
+      "sos": 11.28,
       "sos_rank": 6
     },
     {
@@ -223,12 +223,12 @@
       "conference": "Sun Belt",
       "record": "3-7",
       "games": 10,
-      "ovr_rating": 5.11,
-      "off_rating": 6.37,
+      "ovr_rating": 5.38,
+      "off_rating": 6.55,
       "off_rank": 7,
-      "def_rating": -1.26,
+      "def_rating": -1.18,
       "def_rank": 14,
-      "sos": 12.84,
+      "sos": 13.07,
       "sos_rank": 1
     },
     {
@@ -239,12 +239,12 @@
       "conference": "Sun Belt",
       "record": "2-8",
       "games": 10,
-      "ovr_rating": 2.28,
-      "off_rating": 0.82,
+      "ovr_rating": 2.57,
+      "off_rating": 1.0,
       "off_rank": 13,
-      "def_rating": 1.46,
+      "def_rating": 1.57,
       "def_rank": 13,
-      "sos": 11.89,
+      "sos": 12.18,
       "sos_rank": 3
     }
   ]

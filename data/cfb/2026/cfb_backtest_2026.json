@@ -1,68 +1,68 @@
 {
-  "last_updated": "November 19, 2026 at 10:28 PM",
+  "last_updated": "November 21, 2026 at 08:41 PM",
   "note": "Graded against the last line logged before kickoff. About 52.4% is needed to break even at -110.",
   "spread": {
     "High": {
       "wins": 0,
-      "losses": 1,
+      "losses": 3,
       "pushes": 0,
       "win_pct": 0.0
     },
     "Medium": {
-      "wins": 0,
-      "losses": 0,
+      "wins": 1,
+      "losses": 5,
       "pushes": 0,
-      "win_pct": null
+      "win_pct": 0.167
     },
     "Low": {
-      "wins": 0,
-      "losses": 1,
+      "wins": 1,
+      "losses": 5,
       "pushes": 0,
-      "win_pct": 0.0
+      "win_pct": 0.167
     },
     "Pass": {
-      "wins": 2,
-      "losses": 1,
+      "wins": 4,
+      "losses": 5,
       "pushes": 0,
-      "win_pct": 0.667
+      "win_pct": 0.444
     },
     "All": {
-      "wins": 2,
-      "losses": 3,
+      "wins": 6,
+      "losses": 18,
       "pushes": 0,
-      "win_pct": 0.4
+      "win_pct": 0.25
     }
   },
   "total": {
     "High": {
-      "wins": 0,
-      "losses": 0,
+      "wins": 1,
+      "losses": 3,
       "pushes": 0,
-      "win_pct": null
+      "win_pct": 0.25
     },
     "Medium": {
-      "wins": 1,
-      "losses": 1,
+      "wins": 5,
+      "losses": 3,
       "pushes": 0,
-      "win_pct": 0.5
+      "win_pct": 0.625
     },
     "Low": {
       "wins": 0,
-      "losses": 0,
-      "pushes": 0,
-      "win_pct": null
-    },
-    "Pass": {
-      "wins": 1,
       "losses": 2,
       "pushes": 0,
-      "win_pct": 0.333
+      "win_pct": 0.0
+    },
+    "Pass": {
+      "wins": 5,
+      "losses": 5,
+      "pushes": 0,
+      "win_pct": 0.5
     },
     "All": {
-      "wins": 2,
-      "losses": 3,
+      "wins": 11,
+      "losses": 13,
       "pushes": 0,
-      "win_pct": 0.4
+      "win_pct": 0.458
     }
   }
 }

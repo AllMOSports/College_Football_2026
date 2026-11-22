@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 21, 2026 at 08:41 PM",
+  "last_updated": "November 22, 2026 at 06:03 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -19,7 +19,7 @@
     15
   ],
   "league_average": 26.42,
-  "home_field": 2.49,
+  "home_field": 2.4,
   "fit_converged": true,
   "conference": "FBS Independents",
   "teams": [
@@ -29,14 +29,14 @@
       "team_id": "87",
       "abbreviation": "ND",
       "conference": "FBS Independents",
-      "record": "9-1",
-      "games": 10,
-      "ovr_rating": 43.68,
-      "off_rating": 22.63,
+      "record": "10-1",
+      "games": 11,
+      "ovr_rating": 43.26,
+      "off_rating": 20.57,
       "off_rank": 1,
-      "def_rating": 21.05,
+      "def_rating": 22.69,
       "def_rank": 1,
-      "sos": 25.25,
+      "sos": 25.05,
       "sos_rank": 1
     },
     {
@@ -45,14 +45,14 @@
       "team_id": "41",
       "abbreviation": "CONN",
       "conference": "FBS Independents",
-      "record": "5-5",
-      "games": 10,
-      "ovr_rating": 24.66,
-      "off_rating": 15.5,
+      "record": "6-5",
+      "games": 11,
+      "ovr_rating": 22.74,
+      "off_rating": 13.94,
       "off_rank": 2,
-      "def_rating": 9.16,
+      "def_rating": 8.8,
       "def_rank": 2,
-      "sos": 12.06,
+      "sos": 10.89,
       "sos_rank": 2
     }
   ]

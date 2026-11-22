@@ -1,68 +1,68 @@
 {
-  "last_updated": "November 21, 2026 at 08:41 PM",
+  "last_updated": "November 22, 2026 at 06:03 PM",
   "note": "Graded against the last line logged before kickoff. About 52.4% is needed to break even at -110.",
   "spread": {
     "High": {
-      "wins": 0,
-      "losses": 3,
+      "wins": 7,
+      "losses": 9,
       "pushes": 0,
-      "win_pct": 0.0
+      "win_pct": 0.438
     },
     "Medium": {
-      "wins": 1,
-      "losses": 5,
-      "pushes": 0,
-      "win_pct": 0.167
-    },
-    "Low": {
-      "wins": 1,
-      "losses": 5,
-      "pushes": 0,
-      "win_pct": 0.167
-    },
-    "Pass": {
-      "wins": 4,
-      "losses": 5,
+      "wins": 8,
+      "losses": 10,
       "pushes": 0,
       "win_pct": 0.444
     },
-    "All": {
-      "wins": 6,
-      "losses": 18,
-      "pushes": 0,
-      "win_pct": 0.25
-    }
-  },
-  "total": {
-    "High": {
-      "wins": 1,
-      "losses": 3,
-      "pushes": 0,
-      "win_pct": 0.25
-    },
-    "Medium": {
-      "wins": 5,
-      "losses": 3,
-      "pushes": 0,
-      "win_pct": 0.625
-    },
     "Low": {
-      "wins": 0,
-      "losses": 2,
-      "pushes": 0,
-      "win_pct": 0.0
+      "wins": 11,
+      "losses": 12,
+      "pushes": 1,
+      "win_pct": 0.478
     },
     "Pass": {
-      "wins": 5,
-      "losses": 5,
-      "pushes": 0,
-      "win_pct": 0.5
-    },
-    "All": {
       "wins": 11,
       "losses": 13,
       "pushes": 0,
       "win_pct": 0.458
+    },
+    "All": {
+      "wins": 37,
+      "losses": 44,
+      "pushes": 1,
+      "win_pct": 0.457
+    }
+  },
+  "total": {
+    "High": {
+      "wins": 4,
+      "losses": 6,
+      "pushes": 0,
+      "win_pct": 0.4
+    },
+    "Medium": {
+      "wins": 12,
+      "losses": 6,
+      "pushes": 0,
+      "win_pct": 0.667
+    },
+    "Low": {
+      "wins": 6,
+      "losses": 15,
+      "pushes": 0,
+      "win_pct": 0.286
+    },
+    "Pass": {
+      "wins": 15,
+      "losses": 18,
+      "pushes": 0,
+      "win_pct": 0.455
+    },
+    "All": {
+      "wins": 37,
+      "losses": 45,
+      "pushes": 0,
+      "win_pct": 0.451
     }
   }
 }

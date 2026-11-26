@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 22, 2026 at 06:03 PM",
+  "last_updated": "November 26, 2026 at 11:18 PM",
   "season": 2026,
   "weeks": [
     1,
@@ -18,8 +18,8 @@
     14,
     15
   ],
-  "league_average": 26.42,
-  "home_field": 2.4,
+  "league_average": 26.41,
+  "home_field": 2.39,
   "fit_converged": true,
   "conference": "Pac-12",
   "teams": [
@@ -31,13 +31,13 @@
       "conference": "Pac-12",
       "record": "7-4",
       "games": 11,
-      "ovr_rating": 26.36,
-      "off_rating": 17.84,
+      "ovr_rating": 26.29,
+      "off_rating": 17.79,
       "off_rank": 1,
-      "def_rating": 8.52,
+      "def_rating": 8.5,
       "def_rank": 5,
-      "sos": 19.32,
-      "sos_rank": 2
+      "sos": 19.31,
+      "sos_rank": 3
     },
     {
       "ovr_rank": 2,
@@ -47,13 +47,13 @@
       "conference": "Pac-12",
       "record": "9-2",
       "games": 11,
-      "ovr_rating": 26.28,
-      "off_rating": 16.99,
+      "ovr_rating": 26.17,
+      "off_rating": 16.93,
       "off_rank": 2,
-      "def_rating": 9.29,
+      "def_rating": 9.25,
       "def_rank": 4,
-      "sos": 19.02,
-      "sos_rank": 4
+      "sos": 18.94,
+      "sos_rank": 5
     },
     {
       "ovr_rank": 3,
@@ -63,12 +63,12 @@
       "conference": "Pac-12",
       "record": "6-5",
       "games": 11,
-      "ovr_rating": 23.57,
-      "off_rating": 16.44,
+      "ovr_rating": 23.53,
+      "off_rating": 16.4,
       "off_rank": 3,
       "def_rating": 7.13,
       "def_rank": 6,
-      "sos": 18.28,
+      "sos": 18.29,
       "sos_rank": 6
     },
     {
@@ -79,12 +79,12 @@
       "conference": "Pac-12",
       "record": "6-5",
       "games": 11,
-      "ovr_rating": 20.92,
-      "off_rating": 10.91,
+      "ovr_rating": 20.91,
+      "off_rating": 10.92,
       "off_rank": 5,
-      "def_rating": 10.01,
+      "def_rating": 9.98,
       "def_rank": 3,
-      "sos": 15.98,
+      "sos": 16.0,
       "sos_rank": 8
     },
     {
@@ -95,13 +95,13 @@
       "conference": "Pac-12",
       "record": "2-9",
       "games": 11,
-      "ovr_rating": 17.34,
-      "off_rating": 7.22,
+      "ovr_rating": 17.35,
+      "off_rating": 7.26,
       "off_rank": 7,
-      "def_rating": 10.11,
+      "def_rating": 10.08,
       "def_rank": 2,
       "sos": 19.31,
-      "sos_rank": 3
+      "sos_rank": 2
     },
     {
       "ovr_rank": 6,
@@ -111,10 +111,10 @@
       "conference": "Pac-12",
       "record": "4-7",
       "games": 11,
-      "ovr_rating": 16.63,
-      "off_rating": 2.89,
+      "ovr_rating": 16.66,
+      "off_rating": 2.98,
       "off_rank": 8,
-      "def_rating": 13.75,
+      "def_rating": 13.68,
       "def_rank": 1,
       "sos": 19.52,
       "sos_rank": 1
@@ -127,10 +127,10 @@
       "conference": "Pac-12",
       "record": "6-5",
       "games": 11,
-      "ovr_rating": 15.77,
-      "off_rating": 8.74,
+      "ovr_rating": 15.8,
+      "off_rating": 8.77,
       "off_rank": 6,
-      "def_rating": 7.04,
+      "def_rating": 7.03,
       "def_rank": 7,
       "sos": 17.75,
       "sos_rank": 7
@@ -143,13 +143,13 @@
       "conference": "Pac-12",
       "record": "3-8",
       "games": 11,
-      "ovr_rating": 7.61,
-      "off_rating": 14.42,
+      "ovr_rating": 7.7,
+      "off_rating": 14.39,
       "off_rank": 4,
-      "def_rating": -6.81,
+      "def_rating": -6.69,
       "def_rank": 8,
-      "sos": 18.98,
-      "sos_rank": 5
+      "sos": 18.97,
+      "sos_rank": 4
     }
   ]
 }

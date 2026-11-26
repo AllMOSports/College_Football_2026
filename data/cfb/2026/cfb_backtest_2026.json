@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 22, 2026 at 06:03 PM",
+  "last_updated": "November 26, 2026 at 11:18 PM",
   "note": "Graded against the last line logged before kickoff. About 52.4% is needed to break even at -110.",
   "spread": {
     "High": {
@@ -15,10 +15,10 @@
       "win_pct": 0.444
     },
     "Low": {
-      "wins": 11,
-      "losses": 12,
+      "wins": 12,
+      "losses": 13,
       "pushes": 1,
-      "win_pct": 0.478
+      "win_pct": 0.48
     },
     "Pass": {
       "wins": 11,
@@ -27,10 +27,10 @@
       "win_pct": 0.458
     },
     "All": {
-      "wins": 37,
-      "losses": 44,
+      "wins": 38,
+      "losses": 45,
       "pushes": 1,
-      "win_pct": 0.457
+      "win_pct": 0.458
     }
   },
   "total": {
@@ -47,22 +47,22 @@
       "win_pct": 0.667
     },
     "Low": {
-      "wins": 6,
+      "wins": 7,
       "losses": 15,
       "pushes": 0,
-      "win_pct": 0.286
+      "win_pct": 0.318
     },
     "Pass": {
-      "wins": 15,
+      "wins": 16,
       "losses": 18,
       "pushes": 0,
-      "win_pct": 0.455
+      "win_pct": 0.471
     },
     "All": {
-      "wins": 37,
+      "wins": 39,
       "losses": 45,
       "pushes": 0,
-      "win_pct": 0.451
+      "win_pct": 0.464
     }
   }
 }
